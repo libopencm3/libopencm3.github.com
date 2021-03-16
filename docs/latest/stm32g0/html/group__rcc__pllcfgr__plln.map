@@ -1,0 +1,4 @@
+<map id="PLLN" name="PLLN">
+<area shape="rect" id="node1" href="$group__rcc__pllcfgr.html" title=" " alt="" coords="5,5,203,45"/>
+<area shape="rect" id="node2" title="Multiplication factor N [8..86] for PLL VCO output frequency." alt="" coords="251,13,305,38"/>
+</map>

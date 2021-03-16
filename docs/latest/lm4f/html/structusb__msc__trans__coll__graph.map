@@ -1,0 +1,5 @@
+<map id="usb_msc_trans" name="usb_msc_trans">
+<area shape="rect" id="node1" title=" " alt="" coords="70,95,189,121"/>
+<area shape="rect" id="node2" href="$structusb__msc__cbw.html" title=" " alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node3" href="$structusb__msc__csw.html" title=" " alt="" coords="142,5,253,32"/>
+</map>

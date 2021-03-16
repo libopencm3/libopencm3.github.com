@@ -1,0 +1,4 @@
+<map id="adc_power_off_async" name="adc_power_off_async">
+<area shape="rect" id="node1" title="Turn off the ADC (async) This will actually block if it needs to turn off a currently running convers..." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node2" href="$group__adc__file.html#gae55af0a75a5724cb3776a283f786e939" title="Is the ADC powered down?" alt="" coords="215,5,349,32"/>
+</map>

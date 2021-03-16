@@ -1,0 +1,4 @@
+<map id="flash_erase_page" name="flash_erase_page">
+<area shape="rect" id="node1" title="Erase a page of FLASH." alt="" coords="5,13,140,39"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended This loops indefinitely until an operation (write or erase) has c..." alt="" coords="188,5,332,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the STM32L4xx Reset and Clock Control" alt="" coords="204,262,307,287"/>
+<area shape="rect" id="node2" href="$group__rcc__csr__msirange.html" title="Range of the MSI oscillator after returning from standby." alt="" coords="363,5,545,45"/>
+<area shape="rect" id="node3" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="371,69,537,109"/>
+<area shape="rect" id="node4" href="$group__rcc__pllcfgr__pllm.html" title="Allowed values 1 &lt;= m &lt;= 8." alt="" coords="355,134,553,159"/>
+<area shape="rect" id="node5" href="$group__rcc__pllcfgr__plln.html" title="Allowed values 8 &lt;= n &lt;= 86." alt="" coords="355,183,553,209"/>
+<area shape="rect" id="node6" href="$group__rcc__cr__msirange.html" title="Range of the MSI oscillator Twelve frequency ranges are available: 100 kHz, 200 kHz,..." alt="" coords="409,233,499,258"/>
+<area shape="rect" id="node8" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="369,283,539,323"/>
+<area shape="rect" id="node9" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="367,347,541,387"/>
+<area shape="rect" id="node10" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="371,411,537,451"/>
+<area shape="rect" id="node11" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="373,475,535,515"/>
+<area shape="rect" id="node12" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="373,539,535,579"/>
+<area shape="rect" id="node7" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series." alt="" coords="5,262,156,287"/>
+</map>

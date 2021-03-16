@@ -1,0 +1,4 @@
+<map id="st_usbfs_set_ep_rx_bufsize" name="st_usbfs_set_ep_rx_bufsize">
+<area shape="rect" id="node1" title="Set the receive buffer size for a given USB endpoint." alt="" coords="196,5,343,47"/>
+<area shape="rect" id="node2" href="$st__usbfs__core_8c.html#a431e958cb5c53abdb111c8b5abeb4836" title=" " alt="" coords="5,13,148,39"/>
+</map>

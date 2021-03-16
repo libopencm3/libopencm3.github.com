@@ -1,0 +1,4 @@
+<map id="i2c_transfer_complete" name="i2c_transfer_complete">
+<area shape="rect" id="node1" title=" " alt="" coords="160,5,327,32"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#gaf3d168765388b62e0a798fc9aedc8291" title="Run a write/read transaction to a given 7bit i2c address If both write &amp; read are provided,..." alt="" coords="5,5,112,32"/>
+</map>

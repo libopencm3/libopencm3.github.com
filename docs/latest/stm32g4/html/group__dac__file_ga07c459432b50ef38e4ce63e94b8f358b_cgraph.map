@@ -1,0 +1,4 @@
+<map id="dac_wait_on_ready" name="dac_wait_on_ready">
+<area shape="rect" id="node1" title="Wait until DAC channel is ready to receive data." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$group__dac__file.html#gab509a4f46d094f0a68f5df96ee81264b" title="Check if DAC channel is ready to receive data." alt="" coords="200,5,307,32"/>
+</map>

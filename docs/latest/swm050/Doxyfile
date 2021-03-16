@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_swm050.log
+LAYOUT_FILE				= DoxygenLayout_swm050.xml
+GENERATE_TAGFILE		= swm050.tag
+ENABLE_PREPROCESSING	= YES

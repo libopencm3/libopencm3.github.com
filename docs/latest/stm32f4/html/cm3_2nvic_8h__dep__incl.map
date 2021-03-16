@@ -1,0 +1,9 @@
+<map id="nvic.h" name="nvic.h">
+<area shape="rect" id="node1" title=" " alt="" coords="189,5,251,32"/>
+<area shape="rect" id="node2" href="$vector_8h.html" title="Definitions for handling vector tables." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node4" href="$stm32_2f4_2nvic_8h.html" title=" " alt="" coords="104,80,165,107"/>
+<area shape="rect" id="node5" href="$nvic_8c.html" title=" " alt="" coords="190,80,250,107"/>
+<area shape="rect" id="node6" href="$mac__stm32fxx7_8c.html" title=" " alt="" coords="275,80,413,107"/>
+<area shape="rect" id="node7" href="$rtc_8c.html" title=" " alt="" coords="437,80,488,107"/>
+<area shape="rect" id="node3" href="$vector_8c.html" title=" " alt="" coords="6,155,79,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="flash_wait_for_last_operation" name="flash_wait_for_last_operation">
+<area shape="rect" id="node1" title="Wait until Last Flash Operation has Ended." alt="" coords="421,49,565,90"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gaf1804e22fb8a901f3a5f85535aa1ff7b" title="Erase All FLASH This performs all operations necessary to erase all sectors in the FLASH memory." alt="" coords="188,5,353,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga3d55b0250207197b28595a26695e972f" title="Erase a page of FLASH." alt="" coords="203,56,338,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#gab8f20c93b7162f8a3b672caee01c7e09" title="Program a 64bits word to FLASH." alt="" coords="168,107,373,133"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#ga9149ea4d291a737b89ca7475471806a0" title="Program a Data Block to FLASH." alt="" coords="5,107,120,133"/>
+</map>

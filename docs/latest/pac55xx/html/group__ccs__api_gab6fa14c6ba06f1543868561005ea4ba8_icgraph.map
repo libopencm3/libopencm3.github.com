@@ -1,0 +1,4 @@
+<map id="css_pll_config_enable" name="css_pll_config_enable">
+<area shape="rect" id="node1" title="Configure the CCS PLL, enable it, and wait for lock." alt="" coords="212,5,375,32"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#ga47f393eebdbf28bc53a9b85929e7e86b" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,5,164,32"/>
+</map>

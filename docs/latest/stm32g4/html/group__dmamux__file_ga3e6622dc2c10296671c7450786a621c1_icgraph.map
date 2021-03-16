@@ -1,0 +1,4 @@
+<map id="dmamux_clear_request_generator_trigger_overrun_interrupt" name="dmamux_clear_request_generator_trigger_overrun_interrupt">
+<area shape="rect" id="node1" title="DMAMUX Clear Request Generator Trigger Overrun Interrupt Flag." alt="" coords="229,5,428,61"/>
+<area shape="rect" id="node2" href="$group__dmamux__file.html#gac8f85fb5e1f3ea36f8ddff7979c60efe" title="DMAMUX Reset Request Generator Channel." alt="" coords="5,13,181,54"/>
+</map>

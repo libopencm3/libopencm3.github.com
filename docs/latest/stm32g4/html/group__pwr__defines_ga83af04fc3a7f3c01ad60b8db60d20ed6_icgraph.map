@@ -1,0 +1,5 @@
+<map id="pwr_disable_boost" name="pwr_disable_boost">
+<area shape="rect" id="node1" title="Disable Boost Mode." alt="" coords="436,5,579,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Setup clocks to run from PLL." alt="" coords="240,5,388,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga04fd1ed2bbe9564b636fe3d0b0db2a54" title="Setup clocks with the HSE." alt="" coords="5,5,192,32"/>
+</map>

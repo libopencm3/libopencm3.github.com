@@ -1,0 +1,9 @@
+<map id="css_pll_config_enable" name="css_pll_config_enable">
+<area shape="rect" id="node1" title="Configure the CCS PLL, enable it, and wait for lock." alt="" coords="5,132,168,159"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#gae9d12fc18a474e28988153bd26698770" title="Disable the PLL." alt="" coords="227,5,347,32"/>
+<area shape="rect" id="node3" href="$group__ccs__api.html#ga905a0492830ce71172eacfcd446f0497" title="Enable the PLL." alt="" coords="228,56,345,83"/>
+<area shape="rect" id="node4" href="$group__ccs__api.html#ga3da59323ebacc66f0663ecf64f90aa90" title="Check if the PLL is locked." alt="" coords="229,107,344,133"/>
+<area shape="rect" id="node5" href="$group__ccs__api.html#ga6bddd9cf16fd60c56b8f983f5c1f16ef" title="Set the PLL feedback divisor." alt="" coords="220,157,353,184"/>
+<area shape="rect" id="node6" href="$group__ccs__api.html#ga521eb08f3b9df52b5f5e3ef22aa35908" title="Set the PLL input divisor." alt="" coords="221,208,353,235"/>
+<area shape="rect" id="node7" href="$group__ccs__api.html#gaa2c1e0e1c66b8a6fcf792e115a37b2e7" title="Set the output divisor." alt="" coords="216,259,357,285"/>
+</map>

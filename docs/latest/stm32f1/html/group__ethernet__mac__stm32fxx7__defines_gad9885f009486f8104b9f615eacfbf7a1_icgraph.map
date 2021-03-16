@@ -1,0 +1,4 @@
+<map id="eth_smi_bit_set" name="eth_smi_bit_set">
+<area shape="rect" id="node1" title="Set bits in the register." alt="" coords="211,5,336,32"/>
+<area shape="rect" id="node2" href="$group__ethernet__phy__ksz8051mll__file.html#gad27d53be8499249ca9fed88f35108e4f" title="Enable the autonegotiation." alt="" coords="5,5,163,32"/>
+</map>

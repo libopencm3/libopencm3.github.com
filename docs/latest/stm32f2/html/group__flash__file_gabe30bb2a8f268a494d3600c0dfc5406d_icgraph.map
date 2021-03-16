@@ -1,0 +1,10 @@
+<map id="flash_set_program_size" name="flash_set_program_size">
+<area shape="rect" id="node1" title="Set the Program Parallelism Size." alt="" coords="421,132,596,159"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga6374518c449cb5f79631be81a818d75b" title="Erase All FLASH." alt="" coords="184,5,357,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#gad49638626fa6ff605563012ef599bb11" title="Erase a Sector of FLASH." alt="" coords="199,56,342,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#gaecb2ef6a6334477e36fceed302b1ab6d" title="Program an 8 bit Byte to FLASH." alt="" coords="195,107,346,133"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#gab8f20c93b7162f8a3b672caee01c7e09" title="Program a 64 bit Word to FLASH." alt="" coords="168,157,373,184"/>
+<area shape="rect" id="node7" href="$group__flash__file.html#gaf5077b5726c70fa9418db9d73182f89d" title="Program a Half Word to FLASH." alt="" coords="177,208,364,235"/>
+<area shape="rect" id="node8" href="$group__flash__file.html#ga73937aa6df8710e95425b165730626a2" title="Program a 32 bit Word to FLASH." alt="" coords="193,259,348,285"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#gaec0b51a1c3f4f27fd308bc9f317fd170" title="Program a Data Block to FLASH." alt="" coords="5,107,120,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="cmu_set_hfclk_source" name="cmu_set_hfclk_source">
+<area shape="rect" id="node1" title="Set HFCLK clock source." alt="" coords="207,13,373,39"/>
+<area shape="rect" id="node2" href="$group__cmu__file.html#ga8d4472179d87e0b70e4817477b382879" title="HFXO output 48Mhz and core running at 48Mhz." alt="" coords="5,5,159,47"/>
+</map>

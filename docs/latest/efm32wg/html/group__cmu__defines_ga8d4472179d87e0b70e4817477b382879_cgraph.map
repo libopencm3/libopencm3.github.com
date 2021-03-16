@@ -1,0 +1,7 @@
+<map id="cmu_clock_setup_in_hfxo_out_48mhz" name="cmu_clock_setup_in_hfxo_out_48mhz">
+<area shape="rect" id="node1" title="HFXO output 48Mhz and core running at 48Mhz." alt="" coords="5,74,159,115"/>
+<area shape="rect" id="node2" href="$group__cmu__file.html#ga1f67eed108a720eb9b0e87b0dc14b993" title=" " alt="" coords="215,5,381,32"/>
+<area shape="rect" id="node3" href="$group__cmu__file.html#gada6524dd7e3b149aebfb8ce99d2e0e95" title="Turn on Oscillator." alt="" coords="247,56,349,83"/>
+<area shape="rect" id="node4" href="$group__cmu__file.html#gaeab9fc03e6dc91e7fbc12101177ae571" title="Set HFCLK clock source." alt="" coords="215,107,381,133"/>
+<area shape="rect" id="node5" href="$group__cmu__file.html#gaf869ee2183ff6960db9250c4df9e8ff4" title="Wait till oscillator is not ready." alt="" coords="207,157,389,184"/>
+</map>

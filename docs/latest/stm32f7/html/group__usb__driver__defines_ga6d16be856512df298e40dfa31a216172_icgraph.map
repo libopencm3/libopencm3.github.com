@@ -1,0 +1,11 @@
+<map id="usbd_ep_stall_set" name="usbd_ep_stall_set">
+<area shape="rect" id="node1" title="Set/clear STALL condition on an endpoint." alt="" coords="968,100,1107,127"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="789,100,920,127"/>
+<area shape="rect" id="node3" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title=" " alt="" coords="147,5,277,32"/>
+<area shape="rect" id="node5" href="$usb__control_8c.html#a1a921e8785fafeee17c588aa26cff014" title=" " alt="" coords="355,85,495,112"/>
+<area shape="rect" id="node6" href="$group__usb__control__file.html#gaf0d388254ab4cbc34f2903cd7f9ce097" title=" " alt="" coords="575,93,728,134"/>
+<area shape="rect" id="node7" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title=" " alt="" coords="337,140,513,167"/>
+<area shape="rect" id="node9" href="$group__usb__control__file.html#gab9305438ecc3aaa7359aacdbc4f55c29" title=" " alt="" coords="561,209,741,236"/>
+<area shape="rect" id="node4" href="$group__usb__drivers__file.html#ga3f1854d80f9d88cdb206a96e5f2b703e" title="Main initialization entry point." alt="" coords="5,85,87,112"/>
+<area shape="rect" id="node8" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title=" " alt="" coords="135,140,289,167"/>
+</map>

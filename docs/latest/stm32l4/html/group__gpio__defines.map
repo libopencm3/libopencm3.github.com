@@ -1,0 +1,11 @@
+<map id="GPIO Defines" name="GPIO Defines">
+<area shape="rect" id="node1" href="$group__gpio__pin__id.html" title=" " alt="" coords="387,5,534,31"/>
+<area shape="rect" id="node2" href="$group__gpio__output__type.html" title=" " alt="" coords="359,55,563,80"/>
+<area shape="rect" id="node3" href="$group__gpio__mode.html" title=" " alt="" coords="367,105,554,145"/>
+<area shape="rect" id="node4" href="$group__gpio__speed.html" title=" " alt="" coords="375,169,546,195"/>
+<area shape="rect" id="node5" href="$group__gpio__pup.html" title=" " alt="" coords="375,219,546,244"/>
+<area shape="rect" id="node6" href="$group__gpio__port__id.html" title=" " alt="" coords="406,268,515,293"/>
+<area shape="rect" id="node7" href="$group__gpio__af__num.html" title=" " alt="" coords="390,318,531,358"/>
+<area shape="rect" id="node8" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series." alt="" coords="5,169,156,195"/>
+<area shape="rect" id="node9" title="Defined Constants and Types for the STM32L4xx General Purpose I/O" alt="" coords="204,169,311,195"/>
+</map>

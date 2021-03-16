@@ -1,0 +1,4 @@
+<map id="SYSCTL_PWRTC Values" name="SYSCTL_PWRTC Values">
+<area shape="rect" id="node1" title="System Control Power&#45;Temperature Cause Register Values." alt="" coords="228,5,397,31"/>
+<area shape="rect" id="node2" href="$group__systemcontrol__defines.html" title="Defined Constants and Types for the MSP432E4xx System Control." alt="" coords="5,5,180,31"/>
+</map>

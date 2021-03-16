@@ -1,0 +1,4 @@
+<map id="GPIO_WAKEPEN Values" name="GPIO_WAKEPEN Values">
+<area shape="rect" id="node1" href="$group__gpio__defines.html" title="Defined Constants and Types for the MSP432E4 General Purpose I/O." alt="" coords="5,5,156,45"/>
+<area shape="rect" id="node2" title="GPIO Wake Pin Enable Register Values." alt="" coords="204,13,376,38"/>
+</map>

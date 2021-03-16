@@ -1,0 +1,6 @@
+<map id="usb_interface" name="usb_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="106,184,217,211"/>
+<area shape="rect" id="node2" href="$structusb__iface__assoc__descriptor.html" title=" " alt="" coords="5,95,205,121"/>
+<area shape="rect" id="node3" href="$structusb__interface__descriptor.html" title=" " alt="" coords="230,95,413,121"/>
+<area shape="rect" id="node4" href="$structusb__endpoint__descriptor.html" title=" " alt="" coords="231,5,412,32"/>
+</map>

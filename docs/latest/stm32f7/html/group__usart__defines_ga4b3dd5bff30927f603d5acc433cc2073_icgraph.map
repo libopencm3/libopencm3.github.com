@@ -1,0 +1,4 @@
+<map id="usart_wait_recv_ready" name="usart_wait_recv_ready">
+<area shape="rect" id="node1" title="USART Wait for Received Data Available." alt="" coords="205,5,375,32"/>
+<area shape="rect" id="node2" href="$group__usart__file.html#ga8e0013f2829bfb8687e4a56973d56b57" title="USART Read a Received Data Word with Blocking." alt="" coords="5,5,157,32"/>
+</map>

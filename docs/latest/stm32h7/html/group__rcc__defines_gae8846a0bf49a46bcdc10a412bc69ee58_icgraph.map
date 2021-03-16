@@ -1,0 +1,4 @@
+<map id="rcc_periph_reset_pulse" name="rcc_periph_reset_pulse">
+<area shape="rect" id="node1" title="Reset Peripheral, pulsed." alt="" coords="135,5,305,32"/>
+<area shape="rect" id="node2" href="$group__spi__file.html#gaae815897f2f548556dde9fa8ecb13058" title="SPI Reset." alt="" coords="5,5,87,32"/>
+</map>

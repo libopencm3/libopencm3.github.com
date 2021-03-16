@@ -1,0 +1,4 @@
+<map id="ccs_set_aclkdiv" name="ccs_set_aclkdiv">
+<area shape="rect" id="node1" title="Set the divisor for the Auxiliary Clock." alt="" coords="212,5,336,32"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#ga47f393eebdbf28bc53a9b85929e7e86b" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,5,164,32"/>
+</map>

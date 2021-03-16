@@ -1,0 +1,20 @@
+<map id="DAC Defines" name="DAC Defines">
+<area shape="rect" id="node1" href="$group__dac__stdir1.html" title=" " alt="" coords="362,5,546,45"/>
+<area shape="rect" id="node2" href="$group__dac__stdir2.html" title=" " alt="" coords="362,69,546,109"/>
+<area shape="rect" id="node3" href="$group__dac__sawtooth2__inc.html" title=" " alt="" coords="362,133,546,173"/>
+<area shape="rect" id="node4" href="$group__dac__sawtooth1__inc.html" title=" " alt="" coords="362,197,546,237"/>
+<area shape="rect" id="node5" href="$group__dac__dorx__values.html" title=" " alt="" coords="383,262,525,287"/>
+<area shape="rect" id="node6" title="Defined Constants and Types for the STM32H7xx DAC" alt="" coords="199,455,301,481"/>
+<area shape="rect" id="node7" href="$group__dac__sawtooth2__rst.html" title=" " alt="" coords="362,312,546,352"/>
+<area shape="rect" id="node8" href="$group__dac__channel__id.html" title=" " alt="" coords="369,377,539,402"/>
+<area shape="rect" id="node9" href="$group__dac__sr__values.html" title=" " alt="" coords="393,426,515,451"/>
+<area shape="rect" id="node10" href="$group__dac__sawtooth1__rst.html" title=" " alt="" coords="362,476,546,516"/>
+<area shape="rect" id="node11" href="$group__dac__cr__values.html" title=" " alt="" coords="393,541,515,566"/>
+<area shape="rect" id="node12" href="$group__dac__mcr__values.html" title=" " alt="" coords="387,590,521,615"/>
+<area shape="rect" id="node13" href="$group__dac__reg__base.html" title=" " alt="" coords="349,639,559,665"/>
+<area shape="rect" id="node14" href="$group__dac__swtrigr__values.html" title=" " alt="" coords="371,689,537,714"/>
+<area shape="rect" id="node15" href="$group__dac__dhrxxx__values.html" title=" " alt="" coords="375,738,533,763"/>
+<area shape="rect" id="node16" href="$group__dac__registers.html" title=" " alt="" coords="397,787,511,813"/>
+<area shape="rect" id="node18" href="$group__dac__ccr__values.html" title=" " alt="" coords="389,837,519,862"/>
+<area shape="rect" id="node17" href="$group__STM32H7xx__defines.html" title="Defined Constants and Types for the STM32H7xx series." alt="" coords="5,455,151,481"/>
+</map>

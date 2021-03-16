@@ -1,0 +1,4 @@
+<map id="uart_send" name="uart_send">
+<area shape="rect" id="node1" title="UART Send a Data Word." alt="" coords="201,5,288,32"/>
+<area shape="rect" id="node2" href="$group__VF6xx__uart.html#gae7bc7c5529bd5a7cf1c98a13c6593c93" title="UART Send Data byte blocking." alt="" coords="5,5,153,32"/>
+</map>

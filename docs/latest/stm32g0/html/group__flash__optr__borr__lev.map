@@ -1,0 +1,4 @@
+<map id="BORR LEV" name="BORR LEV">
+<area shape="rect" id="node1" href="$group__flash__optr.html" title=" " alt="" coords="5,5,200,31"/>
+<area shape="rect" id="node2" title="These bits contain the VDD supply level threshold that releases the reset." alt="" coords="248,5,335,31"/>
+</map>

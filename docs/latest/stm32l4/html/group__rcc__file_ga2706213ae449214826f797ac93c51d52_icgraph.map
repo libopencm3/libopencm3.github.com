@@ -1,0 +1,4 @@
+<map id="rcc_is_osc_ready" name="rcc_is_osc_ready">
+<area shape="rect" id="node1" title="Is the given oscillator ready?" alt="" coords="228,5,360,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="5,5,180,32"/>
+</map>

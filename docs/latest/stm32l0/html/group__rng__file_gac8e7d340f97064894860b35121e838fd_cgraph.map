@@ -1,0 +1,4 @@
+<map id="rng_get_random_blocking" name="rng_get_random_blocking">
+<area shape="rect" id="node1" title="Get a random number and block until it works." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$group__rng__file.html#ga961489a29dbb72a8c032bf844e9864ff" title="Randomizes a number (non&#45;blocking)." alt="" coords="244,5,372,32"/>
+</map>

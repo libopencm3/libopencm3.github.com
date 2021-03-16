@@ -1,0 +1,5 @@
+<map id="usb_midi_endpoint_descriptor" name="usb_midi_endpoint_descriptor">
+<area shape="rect" id="node1" title=" " alt="" coords="165,95,382,121"/>
+<area shape="rect" id="node2" href="$structusb__midi__endpoint__descriptor__head.html" title=" " alt="" coords="5,5,261,32"/>
+<area shape="rect" id="node3" href="$structusb__midi__endpoint__descriptor__body.html" title=" " alt="" coords="285,5,541,32"/>
+</map>

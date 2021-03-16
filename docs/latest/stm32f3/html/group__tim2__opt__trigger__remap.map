@@ -1,0 +1,4 @@
+<map id="TIM2_OR Timer 2 Option Register Internal" name="TIM2_OR Timer 2 Option Register Internal">
+<area shape="rect" id="node1" title="Trigger 1 Remap." alt="" coords="167,5,348,45"/>
+<area shape="rect" id="node2" href="$group__timer__defines.html" title="Defined Constants and Types for the STM32F3xx Timers" alt="" coords="5,13,119,38"/>
+</map>

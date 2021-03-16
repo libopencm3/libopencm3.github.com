@@ -1,0 +1,6 @@
+<map id="i2c_write7_v1" name="i2c_write7_v1">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,117,83"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#gac84a8cc0d49c99f032f7ea87ac0f1302" title="I2C Send the 7&#45;bit Slave Address." alt="" coords="165,5,335,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#gaad83fb76f31941e9d0e1083d8e4ea6f0" title="I2C Send Data." alt="" coords="193,56,307,83"/>
+<area shape="rect" id="node4" href="$group__i2c__file.html#ga5c21ca1eb1791661f78247cdccf82734" title="I2C Send Start Condition." alt="" coords="192,107,308,133"/>
+</map>

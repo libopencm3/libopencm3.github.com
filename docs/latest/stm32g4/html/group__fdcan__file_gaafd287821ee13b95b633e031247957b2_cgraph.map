@@ -1,0 +1,4 @@
+<map id="fdcan_init_filter" name="fdcan_init_filter">
+<area shape="rect" id="node1" title="Configure amount of filters and initialize filtering block." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$fdcan_8c.html#a45025280e40afe068b890fde5bed50e6" title="Obtain address of FDCAN Message RAM for certain FDCAN block." alt="" coords="176,5,359,32"/>
+</map>

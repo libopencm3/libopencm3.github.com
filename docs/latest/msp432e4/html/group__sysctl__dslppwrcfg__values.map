@@ -1,0 +1,4 @@
+<map id="SYSCTL_DSLPPWRCFG Values" name="SYSCTL_DSLPPWRCFG Values">
+<area shape="rect" id="node1" title="System Control Deep&#45;Sleep Power Configuration Register Values." alt="" coords="228,5,443,31"/>
+<area shape="rect" id="node2" href="$group__systemcontrol__defines.html" title="Defined Constants and Types for the MSP432E4xx System Control." alt="" coords="5,5,180,31"/>
+</map>

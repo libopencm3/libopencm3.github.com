@@ -1,0 +1,4 @@
+<map id="flash_prefetch_disable" name="flash_prefetch_disable">
+<area shape="rect" id="node1" title="Note carefully the clock restrictions under which the prefetch buffer may be set to disabled." alt="" coords="179,5,347,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga97a14bcd681acbfdd75141e0bd65f7c7" title="Setup sysclock with desired source (HSE/HSI/PLL/LSE/LSI)." alt="" coords="5,5,131,32"/>
+</map>

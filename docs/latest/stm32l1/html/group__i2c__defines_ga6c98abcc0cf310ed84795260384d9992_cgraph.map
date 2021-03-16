@@ -1,0 +1,4 @@
+<map id="i2c_reset" name="i2c_reset">
+<area shape="rect" id="node1" title="I2C Reset." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node2" href="$group__rcc__defines.html#gae8846a0bf49a46bcdc10a412bc69ee58" title="Reset Peripheral, pulsed." alt="" coords="135,5,305,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtc_awake_from_off" name="rtc_awake_from_off">
+<area shape="rect" id="node1" title="RTC Set Operational from the Off state." alt="" coords="177,5,328,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga7693c69c9ff726487720b12576a20968" title="RTC Configuration on Wakeup." alt="" coords="5,5,129,32"/>
+</map>

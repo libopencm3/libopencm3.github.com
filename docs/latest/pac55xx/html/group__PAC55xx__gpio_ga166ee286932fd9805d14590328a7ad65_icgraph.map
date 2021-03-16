@@ -1,0 +1,7 @@
+<map id="get_ccs_port_base" name="get_ccs_port_base">
+<area shape="rect" id="node1" title="PAC55xxxx General&#45;Purpose Input/Output (GPIO)" alt="" coords="240,81,383,108"/>
+<area shape="rect" id="node2" href="$group__gpio__api.html#ga4dfc5aedcca66dc961c7f15e8b1f8380" title="Set the IO mode and pull&#45;up/down configuration for the pins." alt="" coords="30,5,167,32"/>
+<area shape="rect" id="node3" href="$group__gpio__api.html#gae2f1b49d2fd598e2e252cde661aeafe9" title="Set the function of the pin for this port." alt="" coords="50,56,147,83"/>
+<area shape="rect" id="node4" href="$group__gpio__api.html#gaba6c89561ab3860f2a3d2eb33e0d7f32" title="Set special output options for the gpio pin." alt="" coords="8,107,189,133"/>
+<area shape="rect" id="node5" href="$group__gpio__api.html#ga5260fe87002c69b84338ae0dd0ee76a7" title="Set input schmidt trigger for glitch rejection on the input pin." alt="" coords="5,157,192,184"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the STM32G4xx Reset and Clock Control" alt="" coords="207,713,309,739"/>
+<area shape="rect" id="node2" href="$group__rcc__icscr__values.html" title=" " alt="" coords="406,5,549,31"/>
+<area shape="rect" id="node3" href="$group__rcc__cifr__values.html" title=" " alt="" coords="380,55,575,95"/>
+<area shape="rect" id="node4" href="$group__rcc__registers.html" title=" " alt="" coords="420,120,535,145"/>
+<area shape="rect" id="node5" href="$group__rcc__cr__values.html" title=" " alt="" coords="417,169,538,195"/>
+<area shape="rect" id="node6" href="$group__rcc__ahb2smenr.html" title=" " alt="" coords="377,219,578,259"/>
+<area shape="rect" id="node7" href="$group__rcc__pllcfgr__values.html" title=" " alt="" coords="357,283,597,323"/>
+<area shape="rect" id="node8" href="$group__rcc__cier__values.html" title=" " alt="" coords="380,347,575,387"/>
+<area shape="rect" id="node9" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="395,411,560,451"/>
+<area shape="rect" id="node11" href="$group__rcc__ccipr__values.html" title=" " alt="" coords="383,476,571,531"/>
+<area shape="rect" id="node12" href="$group__rcc__csr__values.html" title=" " alt="" coords="384,555,571,595"/>
+<area shape="rect" id="node13" href="$group__rcc__ahb1smenr__values.html" title=" " alt="" coords="377,619,578,659"/>
+<area shape="rect" id="node14" href="$group__rcc__cfgr__values.html" title=" " alt="" coords="408,684,547,709"/>
+<area shape="rect" id="node15" href="$group__rcc__crrcr.html" title=" " alt="" coords="374,734,581,774"/>
+<area shape="rect" id="node16" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="393,798,562,838"/>
+<area shape="rect" id="node17" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="391,862,564,902"/>
+<area shape="rect" id="node18" href="$group__rcc__apb2smenr.html" title=" " alt="" coords="377,926,578,966"/>
+<area shape="rect" id="node19" href="$group__rcc__cicr__values.html" title=" " alt="" coords="379,990,575,1030"/>
+<area shape="rect" id="node20" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="394,1054,561,1094"/>
+<area shape="rect" id="node21" href="$group__rcc__ahb3smenr.html" title=" " alt="" coords="377,1118,578,1158"/>
+<area shape="rect" id="node22" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="396,1182,559,1222"/>
+<area shape="rect" id="node23" href="$group__rcc__apb1smenr1.html" title=" " alt="" coords="377,1246,578,1286"/>
+<area shape="rect" id="node24" href="$group__rcc__apb1smenr2.html" title=" " alt="" coords="377,1310,578,1350"/>
+<area shape="rect" id="node25" href="$group__rcc__bdcr__values.html" title=" " alt="" coords="374,1374,581,1414"/>
+<area shape="rect" id="node26" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="397,1438,558,1478"/>
+<area shape="rect" id="node10" href="$group__STM32G4xx__defines.html" title="Defined Constants and Types for the STM32G4xx series." alt="" coords="5,713,159,739"/>
+</map>

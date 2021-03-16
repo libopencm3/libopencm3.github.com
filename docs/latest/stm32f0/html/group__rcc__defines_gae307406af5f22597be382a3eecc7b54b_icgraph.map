@@ -1,0 +1,4 @@
+<map id="rcc_set_pllxtpre" name="rcc_set_pllxtpre">
+<area shape="rect" id="node1" title="RCC Set the HSE Frequency Divider used as PLL Clock Source." alt="" coords="228,13,353,39"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga7106c0dbbb977d8816bc2fb2d4968bd3" title="Set System Clock PLL at 48MHz from HSE at 8MHz." alt="" coords="5,5,180,47"/>
+</map>

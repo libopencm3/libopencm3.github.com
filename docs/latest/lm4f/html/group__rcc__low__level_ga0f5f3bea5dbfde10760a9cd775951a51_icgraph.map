@@ -1,0 +1,5 @@
+<map id="rcc_wait_for_pll_ready" name="rcc_wait_for_pll_ready">
+<area shape="rect" id="node1" title="Wait for main PLL to lock." alt="" coords="405,5,573,32"/>
+<area shape="rect" id="node2" href="$group__rcc__high__level.html#ga1c5a8dbbc0a6bac380b0041962075269" title="Change the PLL divisor." alt="" coords="188,5,357,32"/>
+<area shape="rect" id="node3" href="$group__rcc__high__level.html#ga94e682bdf26bde662afb76403acdd227" title="Configure the system clock source." alt="" coords="5,5,140,32"/>
+</map>

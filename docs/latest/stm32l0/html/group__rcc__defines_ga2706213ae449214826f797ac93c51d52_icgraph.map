@@ -1,0 +1,5 @@
+<map id="rcc_is_osc_ready" name="rcc_is_osc_ready">
+<area shape="rect" id="node1" title="Is the given oscillator ready?" alt="" coords="424,5,556,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="RCC Setup PLL and use it as Sysclk source." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="201,31,376,57"/>
+</map>

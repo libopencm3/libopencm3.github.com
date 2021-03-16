@@ -1,0 +1,4 @@
+<map id="RCC_PLLCFGR PLLM values" name="RCC_PLLCFGR PLLM values">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32L4xx Reset and Clock Control" alt="" coords="5,5,108,31"/>
+<area shape="rect" id="node2" title="Allowed values 1 &lt;= m &lt;= 8." alt="" coords="156,5,355,31"/>
+</map>

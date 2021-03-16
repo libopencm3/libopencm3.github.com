@@ -1,0 +1,7 @@
+<map id="rcc_periph_clock_enable" name="rcc_periph_clock_enable">
+<area shape="rect" id="node1" title="Enable Peripheral Clock in running mode." alt="" coords="212,81,393,108"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga6ea63afef48691b1ba66e0a651c65043" title=" " alt="" coords="7,5,162,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#gafebecc597753020e983a9c2eb52ffb86" title=" " alt="" coords="9,56,160,83"/>
+<area shape="rect" id="node4" href="$usb__f107_8c.html#a1d28133aed4b8b0e1d19705324cbd004" title="Initialize the USB device controller hardware of the STM32." alt="" coords="5,107,164,133"/>
+<area shape="rect" id="node5" href="$usb__f207_8c.html#a68c4ceb309e31e2895e61e4248adc958" title="Initialize the USB device controller hardware of the STM32." alt="" coords="5,157,164,184"/>
+</map>

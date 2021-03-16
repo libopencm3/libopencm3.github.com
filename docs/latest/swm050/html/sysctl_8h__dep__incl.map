@@ -1,0 +1,7 @@
+<map id="sysctl.h" name="sysctl.h">
+<area shape="rect" id="node1" title=" " alt="" coords="117,5,189,32"/>
+<area shape="rect" id="node2" href="$clk_8c.html" title=" " alt="" coords="5,80,57,107"/>
+<area shape="rect" id="node3" href="$pwr_8c.html" title=" " alt="" coords="82,80,138,107"/>
+<area shape="rect" id="node4" href="$timer_8c.html" title=" " alt="" coords="162,80,229,107"/>
+<area shape="rect" id="node5" href="$wdt_8c.html" title=" " alt="" coords="253,80,311,107"/>
+</map>

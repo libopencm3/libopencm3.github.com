@@ -1,0 +1,8 @@
+<map id="pwr_set_mode" name="pwr_set_mode">
+<area shape="rect" id="node1" title="Set power system based on &quot;System Supply Configurations&quot; table in reference manual." alt="" coords="5,107,123,133"/>
+<area shape="rect" id="node2" href="$group__pwr__peripheral__api.html#ga7471e54450434061de6beacc346b5b09" title="Set power subsystem to bypass all internal supplies." alt="" coords="185,5,355,32"/>
+<area shape="rect" id="node3" href="$group__pwr__peripheral__api.html#ga3524ee938b8cf8efd7d5a3e0c1b905ec" title="Set power subsystem to utilize the LDO for CPU." alt="" coords="198,56,342,83"/>
+<area shape="rect" id="node4" href="$group__pwr__peripheral__api.html#ga7f9890cbfa8e42a1244df0f6c25f9bdd" title="Specific STM32H742/43/50/53 Bypsass mode setting." alt="" coords="171,107,369,133"/>
+<area shape="rect" id="node5" href="$group__pwr__peripheral__api.html#gad6a22a85591e4590c3a88c3caa45f9c3" title="Specific STM32H742/43/50/53 LDO mode setting." alt="" coords="183,157,357,184"/>
+<area shape="rect" id="node6" href="$group__pwr__peripheral__api.html#ga9254443b998d8753b58e88b24765e88c" title="Set power subsystem to utilize the SMPS run through the LDO for CPU." alt="" coords="177,208,363,235"/>
+</map>

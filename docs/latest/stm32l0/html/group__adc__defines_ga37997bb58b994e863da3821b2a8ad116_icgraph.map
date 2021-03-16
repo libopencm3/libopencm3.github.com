@@ -1,0 +1,4 @@
+<map id="adc_is_calibrating" name="adc_is_calibrating">
+<area shape="rect" id="node1" title="Is the ADC Calibrating?" alt="" coords="163,5,301,32"/>
+<area shape="rect" id="node2" href="$group__adc__file.html#gaf00826e672ec8c4f1e8fac757ab83641" title="Start ADC calibration and wait for it to finish." alt="" coords="5,5,115,32"/>
+</map>

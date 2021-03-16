@@ -1,0 +1,13 @@
+<map id="_usbd_control_setup" name="_usbd_control_setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,160,301"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title=" " alt="" coords="210,136,386,163"/>
+<area shape="rect" id="node10" href="$group__usb__control__file.html#gab9305438ecc3aaa7359aacdbc4f55c29" title=" " alt="" coords="208,275,388,301"/>
+<area shape="rect" id="node11" href="$group__usb__driver__defines.html#ga2f2a7dac5031fd8d1b5eb076d3f24b42" title="Set an Out endpoint to NAK." alt="" coords="459,325,594,352"/>
+<area shape="rect" id="node3" href="$group__usb__control__file.html#ga2af2fb78551d9e7f89f031698d972238" title="If we&#39;re replying with some data, but less than the host is expecting, then we normally just do a sho..." alt="" coords="483,5,570,32"/>
+<area shape="rect" id="node4" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="683,224,814,251"/>
+<area shape="rect" id="node6" href="$group__usb__control__file.html#gaf0d388254ab4cbc34f2903cd7f9ce097" title=" " alt="" coords="450,158,603,199"/>
+<area shape="rect" id="node8" href="$group__usb__control__file.html#ga46375610ee21a2c8ab4a06fe3bd70291" title=" " alt="" coords="436,56,617,83"/>
+<area shape="rect" id="node9" href="$group__usb__driver__defines.html#gaa5b245bdd9757cdc79d1fe721ebcf03f" title="Write a packet." alt="" coords="665,81,832,108"/>
+<area shape="rect" id="node5" href="$group__usb__driver__defines.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="880,224,1019,251"/>
+<area shape="rect" id="node7" href="$group__usb__driver__defines.html#gabd42dc86361dbf9c639fd883ada1f572" title="Read a packet." alt="" coords="667,165,830,192"/>
+</map>

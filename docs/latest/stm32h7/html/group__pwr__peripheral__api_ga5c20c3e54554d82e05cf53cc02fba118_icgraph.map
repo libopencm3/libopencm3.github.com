@@ -1,0 +1,4 @@
+<map id="pwr_set_vos_scale" name="pwr_set_vos_scale">
+<area shape="rect" id="node1" title="Set the voltage scaling/strength for the internal SMPS/LDO while running." alt="" coords="201,5,345,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga04d008adc6760dace915290ff884939f" title="Setup the base PLLs and clock domains for the STM32H7." alt="" coords="5,5,153,32"/>
+</map>

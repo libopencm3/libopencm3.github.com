@@ -1,0 +1,39 @@
+<map id="SYSCFG Defines" name="SYSCFG Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the STM32G0xx System Configuration controller" alt="" coords="207,1087,333,1113"/>
+<area shape="rect" id="node2" href="$group__syscfg__cfgr1.html" title=" " alt="" coords="381,5,592,45"/>
+<area shape="rect" id="node3" href="$group__syscfg__cfgr2.html" title=" " alt="" coords="381,69,592,109"/>
+<area shape="rect" id="node4" href="$group__syscfg__itline0.html" title=" " alt="" coords="407,133,566,173"/>
+<area shape="rect" id="node5" href="$group__syscfg__itline1.html" title=" " alt="" coords="407,197,566,237"/>
+<area shape="rect" id="node6" href="$group__syscfg__itline2.html" title=" " alt="" coords="407,261,566,301"/>
+<area shape="rect" id="node7" href="$group__syscfg__itline3.html" title=" " alt="" coords="407,325,566,365"/>
+<area shape="rect" id="node8" href="$group__syscfg__itline4.html" title=" " alt="" coords="407,389,566,429"/>
+<area shape="rect" id="node9" href="$group__syscfg__itline5.html" title=" " alt="" coords="407,453,566,493"/>
+<area shape="rect" id="node10" href="$group__syscfg__itline6.html" title=" " alt="" coords="407,517,566,557"/>
+<area shape="rect" id="node11" href="$group__syscfg__itline7.html" title=" " alt="" coords="407,581,566,621"/>
+<area shape="rect" id="node12" href="$group__syscfg__itline8.html" title=" " alt="" coords="407,645,566,685"/>
+<area shape="rect" id="node13" href="$group__syscfg__itline9.html" title=" " alt="" coords="407,709,566,749"/>
+<area shape="rect" id="node14" href="$group__syscfg__registers.html" title="￼" alt="" coords="417,774,556,799"/>
+<area shape="rect" id="node15" href="$group__syscfg__itline10.html" title=" " alt="" coords="403,824,571,864"/>
+<area shape="rect" id="node16" href="$group__syscfg__itline11.html" title=" " alt="" coords="403,888,571,928"/>
+<area shape="rect" id="node17" href="$group__syscfg__itline12.html" title=" " alt="" coords="403,952,571,992"/>
+<area shape="rect" id="node18" href="$group__syscfg__itline13.html" title=" " alt="" coords="403,1016,571,1056"/>
+<area shape="rect" id="node19" href="$group__syscfg__itline14.html" title=" " alt="" coords="403,1080,571,1120"/>
+<area shape="rect" id="node20" href="$group__syscfg__itline15.html" title=" " alt="" coords="403,1144,571,1184"/>
+<area shape="rect" id="node21" href="$group__syscfg__itline16.html" title=" " alt="" coords="403,1208,571,1248"/>
+<area shape="rect" id="node22" href="$group__syscfg__itline17.html" title=" " alt="" coords="403,1272,571,1312"/>
+<area shape="rect" id="node23" href="$group__syscfg__itline18.html" title=" " alt="" coords="403,1336,571,1376"/>
+<area shape="rect" id="node24" href="$group__syscfg__itline19.html" title=" " alt="" coords="403,1400,571,1440"/>
+<area shape="rect" id="node25" href="$group__syscfg__itline20.html" title=" " alt="" coords="403,1464,571,1504"/>
+<area shape="rect" id="node26" href="$group__syscfg__itline21.html" title=" " alt="" coords="403,1528,571,1568"/>
+<area shape="rect" id="node27" href="$group__syscfg__itline22.html" title=" " alt="" coords="403,1592,571,1632"/>
+<area shape="rect" id="node28" href="$group__syscfg__itline23.html" title=" " alt="" coords="403,1656,571,1696"/>
+<area shape="rect" id="node29" href="$group__syscfg__itline24.html" title=" " alt="" coords="403,1720,571,1760"/>
+<area shape="rect" id="node30" href="$group__syscfg__itline25.html" title=" " alt="" coords="403,1784,571,1824"/>
+<area shape="rect" id="node31" href="$group__syscfg__itline26.html" title=" " alt="" coords="403,1848,571,1888"/>
+<area shape="rect" id="node32" href="$group__syscfg__itline27.html" title=" " alt="" coords="403,1912,571,1952"/>
+<area shape="rect" id="node33" href="$group__syscfg__itline28.html" title=" " alt="" coords="403,1976,571,2016"/>
+<area shape="rect" id="node34" href="$group__syscfg__itline29.html" title=" " alt="" coords="403,2040,571,2080"/>
+<area shape="rect" id="node35" href="$group__syscfg__itline30.html" title=" " alt="" coords="403,2104,571,2144"/>
+<area shape="rect" id="node36" href="$group__syscfg__itline31.html" title=" " alt="" coords="403,2168,571,2208"/>
+<area shape="rect" id="node37" href="$group__STM32G0xx__defines.html" title="Defined Constants and Types for the STM32G0xx series." alt="" coords="5,1087,159,1113"/>
+</map>

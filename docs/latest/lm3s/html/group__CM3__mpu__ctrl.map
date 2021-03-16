@@ -1,0 +1,4 @@
+<map id="MPU CTRL register fields" name="MPU CTRL register fields">
+<area shape="rect" id="node1" title="Defines for the Control Register." alt="" coords="223,5,405,31"/>
+<area shape="rect" id="node2" href="$group__CM3__mpu__defines.html" title="libopencm3 Cortex Memory Protection Unit" alt="" coords="5,5,175,31"/>
+</map>

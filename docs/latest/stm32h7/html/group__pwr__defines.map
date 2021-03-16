@@ -1,0 +1,7 @@
+<map id="PWR Defines" name="PWR Defines">
+<area shape="rect" id="node1" href="$group__pwr__registers.html" title=" " alt="" coords="403,5,521,31"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the STM32H7xx Power Control" alt="" coords="199,55,304,80"/>
+<area shape="rect" id="node3" href="$group__pwr__peripheral__api.html" title=" " alt="" coords="389,55,535,80"/>
+<area shape="rect" id="node4" href="$group__pwr__cr3__smpslevel.html" title="This setting is used when both the LDO and SMPS step&#45;down converter are enabled with SMPSEN and LDOEN..." alt="" coords="352,105,572,145"/>
+<area shape="rect" id="node5" href="$group__STM32H7xx__defines.html" title="Defined Constants and Types for the STM32H7xx series." alt="" coords="5,55,151,80"/>
+</map>

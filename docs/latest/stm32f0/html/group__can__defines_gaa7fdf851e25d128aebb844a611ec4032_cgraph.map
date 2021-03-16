@@ -1,0 +1,4 @@
+<map id="can_filter_id_mask_16bit_init" name="can_filter_id_mask_16bit_init">
+<area shape="rect" id="node1" title="CAN Initialize a 16bit Message ID Mask Filter." alt="" coords="5,5,149,47"/>
+<area shape="rect" id="node2" href="$group__can__defines.html#ga211d4cb8feb1ebd9ba7d5ff27f8614e1" title="CAN Filter Init." alt="" coords="197,13,308,39"/>
+</map>

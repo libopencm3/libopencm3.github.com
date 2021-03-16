@@ -1,0 +1,4 @@
+<map id="wdt_mode" name="wdt_mode">
+<area shape="rect" id="node1" title="Sets the WDT&#39;s mode of operation." alt="" coords="143,5,233,32"/>
+<area shape="rect" id="node2" href="$group__wdg__file.html#gaeba6fa005edb52d3f103fc4d72aedd31" title="Sets up the WDT before the call to wdt_enable()." alt="" coords="5,5,95,32"/>
+</map>

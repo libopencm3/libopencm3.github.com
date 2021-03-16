@@ -1,0 +1,10 @@
+<map id="usb_control_setup_read" name="usb_control_setup_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,181,141"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#ga2af2fb78551d9e7f89f031698d972238" title="If we&#39;re replying with some data, but less than the host is expecting, then we normally just do a sho..." alt="" coords="277,5,363,32"/>
+<area shape="rect" id="node3" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="477,60,607,87"/>
+<area shape="rect" id="node5" href="$group__usb__control__file.html#gaf0d388254ab4cbc34f2903cd7f9ce097" title=" " alt="" coords="243,107,397,149"/>
+<area shape="rect" id="node7" href="$group__usb__control__file.html#ga46375610ee21a2c8ab4a06fe3bd70291" title=" " alt="" coords="229,173,411,200"/>
+<area shape="rect" id="node8" href="$group__usb__driver__defines.html#gaa5b245bdd9757cdc79d1fe721ebcf03f" title="Write a packet." alt="" coords="459,199,625,225"/>
+<area shape="rect" id="node4" href="$group__usb__driver__defines.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="673,60,812,87"/>
+<area shape="rect" id="node6" href="$group__usb__driver__defines.html#gabd42dc86361dbf9c639fd883ada1f572" title="Read a packet." alt="" coords="461,115,623,141"/>
+</map>

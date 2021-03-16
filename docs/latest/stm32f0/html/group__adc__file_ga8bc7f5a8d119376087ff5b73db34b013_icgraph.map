@@ -1,0 +1,4 @@
+<map id="adc_power_off_async" name="adc_power_off_async">
+<area shape="rect" id="node1" title="Turn off the ADC (async) This will actually block if it needs to turn off a currently running convers..." alt="" coords="169,5,331,32"/>
+<area shape="rect" id="node2" href="$group__adc__file.html#ga1ac745d1052240adb5cf55d3ed8b5aad" title="Turn off the ADC This will actually block if it needs to turn off a currently running conversion,..." alt="" coords="5,5,121,32"/>
+</map>

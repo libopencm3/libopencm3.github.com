@@ -1,0 +1,27 @@
+var group__dac__dhrxxx__values =
+[
+    [ "DAC_DHR12L1_DACC1DHR_MASK", "group__dac__dhrxxx__values.html#gae2a350097cae1597cc42a2c95c8869df", null ],
+    [ "DAC_DHR12L1_DACC1DHR_SHIFT", "group__dac__dhrxxx__values.html#ga79890bb329273c49ab399af7bfb6b488", null ],
+    [ "DAC_DHR12L2_DACC2DHR_MASK", "group__dac__dhrxxx__values.html#gae027fb5d62900373147ee6e6ba18757e", null ],
+    [ "DAC_DHR12L2_DACC2DHR_SHIFT", "group__dac__dhrxxx__values.html#gae61e3d864cd4f58aaf0003c41e0efeb9", null ],
+    [ "DAC_DHR12LD_DACC1DHR_MSK", "group__dac__dhrxxx__values.html#ga0e8729c7696ad710d521c94050830a05", null ],
+    [ "DAC_DHR12LD_DACC1DHR_SHIFT", "group__dac__dhrxxx__values.html#gaf5393d2770cfa88cef86eaa5b5c401cc", null ],
+    [ "DAC_DHR12LD_DACC2DHR_MSK", "group__dac__dhrxxx__values.html#gab147112d3ab6e92c3fca75e35eb983d7", null ],
+    [ "DAC_DHR12LD_DACC2DHR_SHIFT", "group__dac__dhrxxx__values.html#ga65bc9f5b4327f59942a0ed4c380a5ef5", null ],
+    [ "DAC_DHR12R1_DACC1DHR_MASK", "group__dac__dhrxxx__values.html#ga896c2a00ba78e9db4caf3399628c9c39", null ],
+    [ "DAC_DHR12R1_DACC1DHR_SHIFT", "group__dac__dhrxxx__values.html#ga47abf5a77b53cb6b4600299d43304772", null ],
+    [ "DAC_DHR12R2_DACC2DHR_MASK", "group__dac__dhrxxx__values.html#ga09c7128753a690bdee66ddc0558b6707", null ],
+    [ "DAC_DHR12R2_DACC2DHR_SHIFT", "group__dac__dhrxxx__values.html#gadd6f6dc2e08d4b2cf2342c6493720e34", null ],
+    [ "DAC_DHR12RD_DACC1DHR_MSK", "group__dac__dhrxxx__values.html#ga1ddc98feda8522dd0efefa9e7a22b270", null ],
+    [ "DAC_DHR12RD_DACC1DHR_SHIFT", "group__dac__dhrxxx__values.html#ga8fbc4008e61d9bee96aed28b720b3c1f", null ],
+    [ "DAC_DHR12RD_DACC2DHR_MASK", "group__dac__dhrxxx__values.html#ga4e36e0934027488f3cb9ab081ac3912f", null ],
+    [ "DAC_DHR12RD_DACC2DHR_SHIFT", "group__dac__dhrxxx__values.html#gac5b92c3e5e506ee3da8020d0aae94ec5", null ],
+    [ "DAC_DHR8R1_DACC1DHR_MASK", "group__dac__dhrxxx__values.html#ga3f9fd2aa55fbbd7bf09448265813ae5c", null ],
+    [ "DAC_DHR8R1_DACC1DHR_SHIFT", "group__dac__dhrxxx__values.html#gad17bbe3215a83e04339b0b2dfb823f75", null ],
+    [ "DAC_DHR8R2_DACC2DHR_MASK", "group__dac__dhrxxx__values.html#ga71dbc870f99a475a3e9e6354e3bbaa82", null ],
+    [ "DAC_DHR8R2_DACC2DHR_SHIFT", "group__dac__dhrxxx__values.html#gaacd910aa348d04bc41a8e6c900bad297", null ],
+    [ "DAC_DHR8RD_DACC1DHR_MSK", "group__dac__dhrxxx__values.html#ga916ae420e4a31d67e7f0267fb6a548e5", null ],
+    [ "DAC_DHR8RD_DACC1DHR_SHIFT", "group__dac__dhrxxx__values.html#ga2cd17e7a08f9e00e34d69f4a9cb783ae", null ],
+    [ "DAC_DHR8RD_DACC2DHR_MSK", "group__dac__dhrxxx__values.html#gae6d701dcdcc8349aabf52edfcb4b5d38", null ],
+    [ "DAC_DHR8RD_DACC2DHR_SHIFT", "group__dac__dhrxxx__values.html#gad1714cdc312e05465f95657f16703f1e", null ]
+];

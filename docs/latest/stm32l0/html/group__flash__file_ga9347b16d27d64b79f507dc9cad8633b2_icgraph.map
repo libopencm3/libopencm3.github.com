@@ -1,0 +1,4 @@
+<map id="flash_set_ws" name="flash_set_ws">
+<area shape="rect" id="node1" title="Set the Number of Wait States." alt="" coords="201,5,307,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="RCC Setup PLL and use it as Sysclk source." alt="" coords="5,5,153,32"/>
+</map>

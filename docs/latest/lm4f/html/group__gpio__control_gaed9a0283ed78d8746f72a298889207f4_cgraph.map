@@ -1,0 +1,4 @@
+<map id="gpio_clear" name="gpio_clear">
+<area shape="rect" id="node1" title="Clear a Group of Pins (atomic)" alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node2" href="$group__gpio__control.html#ga86b48f47f23889ffed56ab86c0605865" title="Set level of a Group of Pins (atomic)" alt="" coords="143,5,233,32"/>
+</map>

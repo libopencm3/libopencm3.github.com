@@ -1,0 +1,22 @@
+<map id="FDCAN Defines" name="FDCAN Defines">
+<area shape="rect" id="node1" href="$group__fdcan__ils.html" title=" " alt="" coords="208,5,363,45"/>
+<area shape="rect" id="node2" href="$group__fdcan__txbtie.html" title="Each bit enables or disables transmit interrupt for transmit buffer slot." alt="" coords="195,69,376,109"/>
+<area shape="rect" id="node3" href="$group__fdcan__sft.html" title="Matching strategy for standard ID filters." alt="" coords="219,133,351,173"/>
+<area shape="rect" id="node4" title="libopencm3 Defined Constants and Types for STM32 FD&#45;CAN" alt="" coords="5,569,127,594"/>
+<area shape="rect" id="node5" href="$group__fdcan__txbrp.html" title=" " alt="" coords="196,197,375,237"/>
+<area shape="rect" id="node6" href="$group__fdcan__txbto.html" title=" " alt="" coords="184,261,387,301"/>
+<area shape="rect" id="node7" href="$group__fdcan__efec.html" title="These are possible actions, extended filter can have." alt="" coords="218,325,353,365"/>
+<area shape="rect" id="node8" href="$group__fdcan__sfec.html" title="Defines possible actions for standard ID filters." alt="" coords="219,389,351,429"/>
+<area shape="rect" id="node9" href="$group__fdcan__block.html" title=" " alt="" coords="179,454,391,479"/>
+<area shape="rect" id="node10" href="$group__fdcan__ie.html" title=" " alt="" coords="197,504,373,544"/>
+<area shape="rect" id="node11" href="$group__fdcan__cccr.html" title=" " alt="" coords="175,569,396,594"/>
+<area shape="rect" id="node12" href="$group__fdcan__txbar.html" title=" " alt="" coords="196,619,375,659"/>
+<area shape="rect" id="node13" href="$group__fdcan__txbcf.html" title=" " alt="" coords="196,683,375,738"/>
+<area shape="rect" id="node14" href="$group__fdcan__txbcr.html" title=" " alt="" coords="190,763,381,803"/>
+<area shape="rect" id="node15" href="$group__fdcan__fifo__flags.html" title=" " alt="" coords="217,827,354,853"/>
+<area shape="rect" id="node16" href="$group__fdcan__fifo.html" title=" " alt="" coords="206,877,365,917"/>
+<area shape="rect" id="node17" href="$group__fdcan__ir.html" title=" " alt="" coords="194,941,377,981"/>
+<area shape="rect" id="node18" href="$group__FDCAN.html" title=" " alt="" coords="208,1005,363,1045"/>
+<area shape="rect" id="node19" href="$group__fdcan__eft.html" title="Matching strategy for extended ID filters." alt="" coords="218,1069,353,1109"/>
+<area shape="rect" id="node20" href="$group__fdcan__txbcie.html" title="Each bit enables or disables transmit cancelled interrupt for transmit buffer slot." alt="" coords="194,1134,377,1189"/>
+</map>

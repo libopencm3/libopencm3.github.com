@@ -1,0 +1,8 @@
+<map id="i2c_set_speed" name="i2c_set_speed">
+<area shape="rect" id="node1" title="Set the i2c communication speed." alt="" coords="5,107,120,133"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#gac49e8baa5610af5907ea5ba76f78c69c" title="I2C Set Bus Clock Frequency." alt="" coords="211,5,306,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#ga5e8fee505dc3d5c99e2385e2074ff3df" title="I2C Set Peripheral Clock Frequency." alt="" coords="168,56,349,83"/>
+<area shape="rect" id="node4" href="$group__i2c__file.html#ga500a4416fdd04daa0439cf9b887a95e5" title="I2C Set Fast Mode." alt="" coords="187,107,331,133"/>
+<area shape="rect" id="node5" href="$group__i2c__file.html#ga83ec05549c5d3d3412b3e5c902ad1d07" title="I2C Set Standard Mode." alt="" coords="171,157,347,184"/>
+<area shape="rect" id="node6" href="$group__i2c__file.html#ga8b5fb1ea0be082f192030aa475a0e142" title="I2C Set the Rise Time." alt="" coords="207,208,311,235"/>
+</map>

@@ -1,0 +1,20 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/pac55xx/memctl.h:159: warning: unbalanced grouping commands
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:70: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:62: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:192: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:184: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:47: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:176: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:144: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:160: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:168: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:136: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:152: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:86: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:78: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:102: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:94: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:127: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:119: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:33: warning: unable to resolve reference to 'usart_reg_base' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/pac55xx/usart.c:110: warning: unable to resolve reference to 'usart_reg_base' for \ref command

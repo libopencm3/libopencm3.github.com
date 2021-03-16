@@ -1,0 +1,5 @@
+<map id="flash_program" name="flash_program">
+<area shape="rect" id="node1" title="Program a Data Block to FLASH." alt="" coords="5,13,120,39"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gab8f20c93b7162f8a3b672caee01c7e09" title="Program a 64bits word to FLASH." alt="" coords="168,13,373,39"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Flash Operation has Ended." alt="" coords="421,5,565,47"/>
+</map>

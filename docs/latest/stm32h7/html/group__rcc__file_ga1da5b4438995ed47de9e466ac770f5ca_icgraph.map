@@ -1,0 +1,4 @@
+<map id="rcc_get_bus_clk_freq" name="rcc_get_bus_clk_freq">
+<area shape="rect" id="node1" title="Get the clock rate (in Hz) of the specified clock source." alt="" coords="208,5,367,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga2c23129221ec9e76e0d873215b1c7b57" title="Get the peripheral clock speed for the SPI device at base specified." alt="" coords="5,5,160,32"/>
+</map>

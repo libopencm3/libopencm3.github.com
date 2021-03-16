@@ -1,0 +1,5 @@
+<map id="dma_calc_end_from_start" name="dma_calc_end_from_start">
+<area shape="rect" id="node1" title="Calculate end from start address." alt="" coords="261,31,452,57"/>
+<area shape="rect" id="node2" href="$group__dma__file.html#ga51e8db617ca14539a5e8f4debe293442" title="Assign Destination address to DMA Channel." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node3" href="$group__dma__file.html#ga935b0290a63bb5190d3279cc1eefdc0e" title="Assign Source address to DMA Channel." alt="" coords="10,56,209,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RCC_CFGR APBx prescale factors" name="RCC_CFGR APBx prescale factors">
+<area shape="rect" id="node1" title="These can be used for both APB1 and APB2 prescaling." alt="" coords="192,5,381,45"/>
+<area shape="rect" id="node2" href="$group__rcc__cfgr__values.html" title="Clock Configuration register values." alt="" coords="5,13,144,38"/>
+</map>

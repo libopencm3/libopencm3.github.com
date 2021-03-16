@@ -1,0 +1,9 @@
+<map id="flash_wait_for_last_operation" name="flash_wait_for_last_operation">
+<area shape="rect" id="node1" title="Wait until Last Operation has Ended." alt="" coords="443,115,587,157"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gaf1804e22fb8a901f3a5f85535aa1ff7b" title="Erase All FLASH." alt="" coords="219,5,384,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga6242ed6be7838125093c9b8b6adeeca1" title="Erase All Option Bytes." alt="" coords="229,57,373,98"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga0aee649731aaa8c1316c12f5bea7c31b" title="Erase a Page of FLASH." alt="" coords="234,123,369,149"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#gaf5077b5726c70fa9418db9d73182f89d" title="Program a Half Word to FLASH." alt="" coords="208,173,395,200"/>
+<area shape="rect" id="node7" href="$group__flash__file.html#gab759a6e89a54cfb15a60c0e8f4eb66df" title="Program the Option Bytes." alt="" coords="220,225,383,266"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#ga73937aa6df8710e95425b165730626a2" title="Program a 32 bit Word to FLASH." alt="" coords="5,173,160,200"/>
+</map>

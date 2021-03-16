@@ -1,0 +1,4 @@
+<map id="gpio_mode_setup" name="gpio_mode_setup">
+<area shape="rect" id="node1" title="Set the IO mode and pull&#45;up/down configuration for the pins." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$group__PAC55xx__gpio.html#ga166ee286932fd9805d14590328a7ad65" title="PAC55xxxx General&#45;Purpose Input/Output (GPIO)" alt="" coords="191,5,333,32"/>
+</map>

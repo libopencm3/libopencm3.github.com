@@ -1,0 +1,12 @@
+<map id="rtc_enter_config_mode" name="rtc_enter_config_mode">
+<area shape="rect" id="node1" title="RTC Enter Configuration Mode." alt="" coords="381,183,552,209"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#gaa4fec0b94caffb25d0acde8813a7ef5b" title="RTC Set Operational from the Off state." alt="" coords="180,5,331,32"/>
+<area shape="rect" id="node4" href="$group__rtc__file.html#ga718b866eab2ba73221d37f7d15ba9737" title="RTC Disable the Alarm." alt="" coords="186,56,325,83"/>
+<area shape="rect" id="node5" href="$group__rtc__file.html#gab7f69ee0de1cae2518b2822fd82d5201" title="RTC Enable the Alarm." alt="" coords="188,107,323,133"/>
+<area shape="rect" id="node6" href="$group__rtc__file.html#ga4de126c91f7eedf70262a99e663a6fc5" title="RTC Disable Interrupt." alt="" coords="177,157,333,184"/>
+<area shape="rect" id="node7" href="$group__rtc__file.html#gaad0059f95046be4d158626cc0ed199fd" title="RTC Enable Interrupt." alt="" coords="179,208,332,235"/>
+<area shape="rect" id="node8" href="$group__rtc__file.html#ga3f53231bbbeef79acc322f2a6b045d3f" title="RTC Set the Alarm Time." alt="" coords="181,259,329,285"/>
+<area shape="rect" id="node9" href="$group__rtc__file.html#gacd673063942c2bedededd5760e4764ff" title="RTC set the Counter." alt="" coords="181,309,330,336"/>
+<area shape="rect" id="node10" href="$group__rtc__file.html#ga1b2c2b6aa8879eb16f7cf3207587725e" title="RTC Set the prescaler Value." alt="" coords="178,360,333,387"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#ga7693c69c9ff726487720b12576a20968" title="RTC Configuration on Wakeup." alt="" coords="5,183,129,209"/>
+</map>

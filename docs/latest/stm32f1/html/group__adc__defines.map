@@ -1,0 +1,16 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__STM32F1xx__defines.html" title="Defined Constants and Types for the STM32F1xx series." alt="" coords="5,336,156,361"/>
+<area shape="rect" id="node11" title="Defined Constants and Types for the STM32F1xx Analog to Digital Converters" alt="" coords="204,336,307,361"/>
+<area shape="rect" id="node2" href="$group__adc__channel.html" title=" " alt="" coords="384,5,555,31"/>
+<area shape="rect" id="node3" href="$group__adc__cr1__dualmod.html" title=" " alt="" coords="392,55,547,80"/>
+<area shape="rect" id="node4" href="$group__adc__trigger__injected__12.html" title="and ADC2" alt="" coords="392,105,547,145"/>
+<area shape="rect" id="node5" href="$group__adc__trigger__regular__3.html" title=" " alt="" coords="389,169,549,209"/>
+<area shape="rect" id="node6" href="$group__adc__trigger__regular__12.html" title=" " alt="" coords="389,233,549,273"/>
+<area shape="rect" id="node7" href="$group__adc__cr1__discnum.html" title=" " alt="" coords="377,297,562,337"/>
+<area shape="rect" id="node8" href="$group__adc__jsqr__jl.html" title=" " alt="" coords="355,361,584,401"/>
+<area shape="rect" id="node9" href="$group__adc__watchdog__channel.html" title=" " alt="" coords="383,425,555,451"/>
+<area shape="rect" id="node10" href="$group__adc__sample__rg.html" title=" " alt="" coords="367,475,571,515"/>
+<area shape="rect" id="node12" href="$group__adc__trigger__injected__3.html" title=" " alt="" coords="392,539,547,579"/>
+<area shape="rect" id="node13" href="$group__adc__sr__values.html" title=" " alt="" coords="393,603,546,643"/>
+<area shape="rect" id="node14" href="$group__adc__reg__base.html" title=" " alt="" coords="365,668,574,693"/>
+</map>

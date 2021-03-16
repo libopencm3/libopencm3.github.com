@@ -1,0 +1,4 @@
+<map id="crypto_set_key" name="crypto_set_key">
+<area shape="rect" id="node1" title="Set key value to the controller." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$group__crypto__file.html#gaecaa8d8b190fa22a873a76a5cf67fb62" title="Wait, if the Controller is busy." alt="" coords="173,5,309,32"/>
+</map>

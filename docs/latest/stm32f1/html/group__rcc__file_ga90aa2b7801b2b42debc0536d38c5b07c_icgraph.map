@@ -1,0 +1,8 @@
+<map id="rcc_periph_clock_enable" name="rcc_periph_clock_enable">
+<area shape="rect" id="node1" title="Enable Peripheral Clock in running mode." alt="" coords="411,79,592,105"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga7693c69c9ff726487720b12576a20968" title="RTC Configuration on Wakeup." alt="" coords="5,28,129,55"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#gaa4fec0b94caffb25d0acde8813a7ef5b" title="RTC Set Operational from the Off state." alt="" coords="195,28,345,55"/>
+<area shape="rect" id="node4" href="$group__rtc__file.html#ga19032c3fbc1546712c5bc534e5ddbf48" title="RTC Start RTC after Standby Mode." alt="" coords="177,79,363,105"/>
+<area shape="rect" id="node5" href="$st__usbfs__v1_8c.html#a83ece38ce632189e58f2543375eb4363" title="Initialize the USB device controller hardware of the STM32." alt="" coords="187,129,353,156"/>
+<area shape="rect" id="node6" href="$usb__f107_8c.html#a1d28133aed4b8b0e1d19705324cbd004" title="Initialize the USB device controller hardware of the STM32." alt="" coords="191,180,349,207"/>
+</map>

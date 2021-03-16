@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_vf6xx.log
+LAYOUT_FILE				= DoxygenLayout_vf6xx.xml
+GENERATE_TAGFILE		= vf6xx.tag
+ENABLE_PREPROCESSING	= YES

@@ -1,0 +1,20 @@
+<map id="GPIO Defines" name="GPIO Defines">
+<area shape="rect" id="node1" href="$group__gpio__pin__id.html" title=" " alt="" coords="399,5,545,31"/>
+<area shape="rect" id="node2" href="$group__afio__remap__can1.html" title=" " alt="" coords="374,55,570,95"/>
+<area shape="rect" id="node3" href="$group__afio__remap__cld.html" title="Line Devices only." alt="" coords="396,120,548,175"/>
+<area shape="rect" id="node4" href="$group__STM32F1xx__defines.html" title="Defined Constants and Types for the STM32F1xx series." alt="" coords="5,436,156,461"/>
+<area shape="rect" id="node10" title="Defined Constants and Types for the STM32F1xx General Purpose I/O" alt="" coords="204,436,311,461"/>
+<area shape="rect" id="node5" href="$group__gpio__mode.html" title=" " alt="" coords="413,199,531,224"/>
+<area shape="rect" id="node6" href="$group__gpio__cnf.html" title="If mode specifies input, configuration can be." alt="" coords="387,248,557,273"/>
+<area shape="rect" id="node7" href="$group__gpio__port__id.html" title=" " alt="" coords="417,297,527,323"/>
+<area shape="rect" id="node8" href="$group__afio__evcr__pin.html" title=" " alt="" coords="382,347,562,372"/>
+<area shape="rect" id="node9" href="$group__afio__exti.html" title=" " alt="" coords="401,397,543,437"/>
+<area shape="rect" id="node11" href="$group__afio__remap2.html" title=" " alt="" coords="359,461,585,501"/>
+<area shape="rect" id="node12" href="$group__afio__evcr__port.html" title=" " alt="" coords="379,525,565,551"/>
+<area shape="rect" id="node13" href="$group__afio__remap.html" title=" " alt="" coords="401,575,543,615"/>
+<area shape="rect" id="node14" href="$group__afio__remap__usart3.html" title=" " alt="" coords="396,640,548,695"/>
+<area shape="rect" id="node15" href="$group__afio__swj__disable.html" title=" " alt="" coords="379,719,565,744"/>
+<area shape="rect" id="node16" href="$group__afio__remap__tim1.html" title=" " alt="" coords="396,768,548,823"/>
+<area shape="rect" id="node17" href="$group__afio__remap__tim2.html" title=" " alt="" coords="396,847,548,901"/>
+<area shape="rect" id="node18" href="$group__afio__remap__tim3.html" title=" " alt="" coords="396,925,548,980"/>
+</map>

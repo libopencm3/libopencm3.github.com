@@ -1,0 +1,28 @@
+var group__rcc__pllcfgr__values =
+[
+    [ "RCC_PLLCFGR_DIVP1EN", "group__rcc__pllcfgr__values.html#gab4af7742faca9249ad6c135ff3b45e71", null ],
+    [ "RCC_PLLCFGR_DIVP2EN", "group__rcc__pllcfgr__values.html#ga4ca3e05cfb6969a05de3f2c8cee6acdf", null ],
+    [ "RCC_PLLCFGR_DIVP3EN", "group__rcc__pllcfgr__values.html#gaa9f70ba928465a9653c30a278f415cdd", null ],
+    [ "RCC_PLLCFGR_DIVQ1EN", "group__rcc__pllcfgr__values.html#ga490543e2a3bba50a803ab7a8757a6020", null ],
+    [ "RCC_PLLCFGR_DIVQ2EN", "group__rcc__pllcfgr__values.html#gadfc699729fccc8ad744d4a98443bcaa1", null ],
+    [ "RCC_PLLCFGR_DIVQ3EN", "group__rcc__pllcfgr__values.html#ga99c1309d4b8eea22f91a3d397a4e89c3", null ],
+    [ "RCC_PLLCFGR_DIVR1EN", "group__rcc__pllcfgr__values.html#ga1e60d2df79515381a4b35c038daacfb6", null ],
+    [ "RCC_PLLCFGR_DIVR2EN", "group__rcc__pllcfgr__values.html#ga146df7cb2ee76d273adec13edc490e96", null ],
+    [ "RCC_PLLCFGR_DIVR3EN", "group__rcc__pllcfgr__values.html#ga0ef8f8734f8bcc3ba775317edeeedee4", null ],
+    [ "RCC_PLLCFGR_PLL1FRACEN", "group__rcc__pllcfgr__values.html#gacccc906cb3df07252188f3f032dab36a", null ],
+    [ "RCC_PLLCFGR_PLL1RGE_SHIFT", "group__rcc__pllcfgr__values.html#gacdc7c1c727088683829467921317d5b6", null ],
+    [ "RCC_PLLCFGR_PLL1VCO_MED", "group__rcc__pllcfgr__values.html#ga2a78af784659f3d10bd044604e8098e6", null ],
+    [ "RCC_PLLCFGR_PLL1VCO_WIDE", "group__rcc__pllcfgr__values.html#ga10ba01ed5618c3ff29bbbaf01e1147da", null ],
+    [ "RCC_PLLCFGR_PLL2FRACEN", "group__rcc__pllcfgr__values.html#ga3d5186fd3b0b265fe835aaddd986f705", null ],
+    [ "RCC_PLLCFGR_PLL2RGE_SHIFT", "group__rcc__pllcfgr__values.html#ga691d91a3d5bb8d3dca49ba9dfd742c6e", null ],
+    [ "RCC_PLLCFGR_PLL2VCO_MED", "group__rcc__pllcfgr__values.html#ga30ac7d5bc7394c119fb9b4eae9b430bd", null ],
+    [ "RCC_PLLCFGR_PLL2VCO_WIDE", "group__rcc__pllcfgr__values.html#gacaee138d57f3604194fb73794b26d6ce", null ],
+    [ "RCC_PLLCFGR_PLL3FRACEN", "group__rcc__pllcfgr__values.html#gabcac18a560fdc03476989c1a684543be", null ],
+    [ "RCC_PLLCFGR_PLL3RGE_SHIFT", "group__rcc__pllcfgr__values.html#ga4b8aa5e9ec90e3ea6cde58ecbe32c0dc", null ],
+    [ "RCC_PLLCFGR_PLL3VCO_MED", "group__rcc__pllcfgr__values.html#gab8531e3f6f1e3391bf594eb7bc448916", null ],
+    [ "RCC_PLLCFGR_PLL3VCO_WIDE", "group__rcc__pllcfgr__values.html#ga9c78b3d57b09a3267a96edbd2728f865", null ],
+    [ "RCC_PLLCFGR_PLLRGE_1_2MHZ", "group__rcc__pllcfgr__values.html#ga4fa5e751c9dba0393a48a5acb7adb746", null ],
+    [ "RCC_PLLCFGR_PLLRGE_2_4MHZ", "group__rcc__pllcfgr__values.html#ga5c6d1bf27f6473b6d003e96158add41a", null ],
+    [ "RCC_PLLCFGR_PLLRGE_4_8MHZ", "group__rcc__pllcfgr__values.html#ga0b8fd2683bd2c0294fa1622fb3dfde33", null ],
+    [ "RCC_PLLCFGR_PLLRGE_8_16MHZ", "group__rcc__pllcfgr__values.html#ga7303df91ca0af73ce9910aa6bbd7f853", null ]
+];

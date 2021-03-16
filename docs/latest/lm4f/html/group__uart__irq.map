@@ -1,0 +1,4 @@
+<map id="UART Interrupt control" name="UART Interrupt control">
+<area shape="rect" id="node1" href="$group__uart__file.html" title="libopencm3 LM4F Universal Asynchronous Receiver Transmitter" alt="" coords="5,5,63,31"/>
+<area shape="rect" id="node2" title="Configuring interrupts from the UART" alt="" coords="111,5,277,31"/>
+</map>

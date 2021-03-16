@@ -1,0 +1,4 @@
+<map id="FDCAN_TXBTIE Transmit interrupt enable bits" name="FDCAN_TXBTIE Transmit interrupt enable bits">
+<area shape="rect" id="node1" title="Each bit enables or disables transmit interrupt for transmit buffer slot." alt="" coords="175,5,356,45"/>
+<area shape="rect" id="node2" href="$group__fdcan__defines.html" title="libopencm3 Defined Constants and Types for STM32 FD&#45;CAN" alt="" coords="5,13,127,38"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ccs_stclk_sleep_disable" name="ccs_stclk_sleep_disable">
+<area shape="rect" id="node1" title="Disable SysTick clock gating in deep sleep mode." alt="" coords="212,5,389,32"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#ga47f393eebdbf28bc53a9b85929e7e86b" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,5,164,32"/>
+</map>

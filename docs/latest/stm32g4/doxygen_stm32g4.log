@@ -1,0 +1,31 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/usb/midi.h:1: warning: group usb_audio_defines: ignoring title "USB MIDI Type Definitions" that does not match old title "USB Audio Type Definitions"
+
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:222: warning: unable to resolve reference to 'adc_watchdog_channel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:104: warning: unable to resolve reference to 'adc_cr1_discnum' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:617: warning: unable to resolve reference to 'adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:619: warning: unable to resolve reference to 'adc_trigger_polarity_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:581: warning: unable to resolve reference to 'adc_trigger_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:583: warning: unable to resolve reference to 'adc_trigger_polarity_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:539: warning: argument 'prescale' of command @param is not found in the argument list of adc_set_clk_prescale(uint32_t adc, uint32_t ckmode)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:543: warning: unable to resolve reference to 'adc_ccr_adcpre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/g4/adc.h:597: warning: The following parameter of adc_set_clk_prescale(uint32_t adc, uint32_t ckmode) is not documented:
+  parameter 'ckmode'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:528: warning: unable to resolve reference to 'adc_ccr_adcpre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:211: warning: unable to resolve reference to 'adc_api_res' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/pwr.c:72: warning: unable to resolve reference to 'pwr_cr1_lpms' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:250: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/flash_common_all.h:52: warning: unable to resolve reference to 'flash_latency' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/pwr.c:72: warning: unable to resolve reference to 'pwr_cr1_lpms' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:250: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:222: warning: unable to resolve reference to 'adc_watchdog_channel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:104: warning: unable to resolve reference to 'adc_cr1_discnum' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:617: warning: unable to resolve reference to 'adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:619: warning: unable to resolve reference to 'adc_trigger_polarity_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:581: warning: unable to resolve reference to 'adc_trigger_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:583: warning: unable to resolve reference to 'adc_trigger_polarity_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:539: warning: argument 'prescale' of command @param is not found in the argument list of adc_set_clk_prescale(uint32_t adc, uint32_t ckmode)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:543: warning: unable to resolve reference to 'adc_ccr_adcpre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:546: warning: The following parameter of adc_set_clk_prescale(uint32_t adc, uint32_t ckmode) is not documented:
+  parameter 'ckmode'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:528: warning: unable to resolve reference to 'adc_ccr_adcpre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:211: warning: unable to resolve reference to 'adc_api_res' for \ref command

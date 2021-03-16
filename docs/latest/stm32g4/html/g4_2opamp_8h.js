@@ -1,0 +1,27 @@
+var g4_2opamp_8h =
+[
+    [ "OPAMP1", "group__opamp__defines.html#gaf0025add8d004b4f4bf6eaeedd55c488", null ],
+    [ "OPAMP1_CSR", "group__opamp__defines.html#ga45dc0d07b2217594158e3fff8282153a", null ],
+    [ "OPAMP1_CSR_VP_SEL_DAC3CH1", "group__opamp__defines.html#gacde9b1619f98b6903e1d53c424a59ec3", null ],
+    [ "OPAMP1_TCMR", "group__opamp__defines.html#ga148f22d5a072a636071f36d9e887d9a3", null ],
+    [ "OPAMP2", "group__opamp__defines.html#gabc11c296d6d15ca861b6378bc056848e", null ],
+    [ "OPAMP2_CSR", "group__opamp__defines.html#ga1d232230cd20596f98fb073ee8c710d6", null ],
+    [ "OPAMP2_CSR_VP_SEL_VINP3", "group__opamp__defines.html#gacd906d340433ca28afeb0acf54bd0b13", null ],
+    [ "OPAMP2_TCMR", "group__opamp__defines.html#ga64745473ce8c3943e4a250f2965e9d60", null ],
+    [ "OPAMP3", "group__opamp__defines.html#ga50369700b1093ec17ad8d1835223b1e0", null ],
+    [ "OPAMP3_CSR", "group__opamp__defines.html#gaba232675a814058c5a2b56a44f3f3643", null ],
+    [ "OPAMP3_CSR_VP_SEL_DAC3CH2", "group__opamp__defines.html#ga10fd8eab842a5140f189fdb1bb4b42bd", null ],
+    [ "OPAMP3_TCMR", "group__opamp__defines.html#ga7b0f3fd3d44aca611eecc835ac1403c8", null ],
+    [ "OPAMP4", "group__opamp__defines.html#ga0cb5be089dc74713b56c227dd2f57968", null ],
+    [ "OPAMP4_CSR", "group__opamp__defines.html#ga09c3e76eb2f654b22fb8e3ded5f0af1d", null ],
+    [ "OPAMP4_CSR_VP_SEL_DAC4CH1", "group__opamp__defines.html#ga8fdbcb8d0e1536598c9e2bb3832e39ed", null ],
+    [ "OPAMP4_TCMR", "group__opamp__defines.html#ga3906df1a2d22bd48337b59781a78ae39", null ],
+    [ "OPAMP5", "group__opamp__defines.html#ga7064956d36c9921f2ce3a65ef4087eb5", null ],
+    [ "OPAMP5_CSR", "group__opamp__defines.html#gaa9954af1199ba4424c2fe80d0c907989", null ],
+    [ "OPAMP5_CSR_VP_SEL_DAC4CH2", "group__opamp__defines.html#gaf4f41ae7a954c2fc530c808181133f39", null ],
+    [ "OPAMP5_TCMR", "group__opamp__defines.html#ga3803102f61e7b019debe785f7d775371", null ],
+    [ "OPAMP6", "group__opamp__defines.html#ga51308f2bdb7f7822280f9a53017a6146", null ],
+    [ "OPAMP6_CSR", "group__opamp__defines.html#gab62ff7b156f61347b2095fe7b5f6484a", null ],
+    [ "OPAMP6_CSR_VP_SEL_DAC3CH1", "group__opamp__defines.html#ga643853960fad069b4a02a5e8d98ed8a5", null ],
+    [ "OPAMP6_TCMR", "group__opamp__defines.html#gafed444dfe26521fe3fd03d719c2e6087", null ]
+];

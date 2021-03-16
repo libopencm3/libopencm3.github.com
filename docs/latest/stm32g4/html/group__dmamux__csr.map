@@ -1,0 +1,4 @@
+<map id="CSR request line multiplexer interrupt channel status register" name="CSR request line multiplexer interrupt channel status register">
+<area shape="rect" id="node1" title=" " alt="" coords="191,5,397,60"/>
+<area shape="rect" id="node2" href="$group__dmamux__defines.html" title="Defined Constants and Types for the STM32G4xx DMAMUX." alt="" coords="5,20,143,45"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__gpio__file.html" title="SWM050 GPIO API." alt="" coords="189,5,339,31"/>
+<area shape="rect" id="node2" href="$group__clk__file.html" title="SWM050 Clock API." alt="" coords="187,55,341,80"/>
+<area shape="rect" id="node3" title="APIs for device peripherals." alt="" coords="5,153,125,179"/>
+<area shape="rect" id="node4" href="$group__syscon__file.html" title="SWM050 SYSCON API." alt="" coords="179,104,349,129"/>
+<area shape="rect" id="node5" href="$group__pwr__file.html" title="SWM050 Power API." alt="" coords="201,153,327,179"/>
+<area shape="rect" id="node6" href="$group__wdg__file.html" title="SWM050 WDT API." alt="" coords="173,203,355,228"/>
+<area shape="rect" id="node7" href="$group__flash__file.html" title="SWM050 Flash API." alt="" coords="188,252,340,277"/>
+<area shape="rect" id="node8" href="$group__timer__file.html" title="SWM050 Timer API." alt="" coords="187,301,341,327"/>
+</map>

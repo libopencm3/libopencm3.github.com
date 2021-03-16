@@ -1,0 +1,6 @@
+<map id="usb_control_request_dispatch" name="usb_control_request_dispatch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,159,65"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="223,5,353,32"/>
+<area shape="rect" id="node4" href="$group__usb__driver__defines.html#gabd42dc86361dbf9c639fd883ada1f572" title="Read a packet." alt="" coords="207,56,369,83"/>
+<area shape="rect" id="node3" href="$group__usb__driver__defines.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="417,5,556,32"/>
+</map>

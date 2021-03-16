@@ -1,0 +1,4 @@
+<map id="eth_smi_read" name="eth_smi_read">
+<area shape="rect" id="node1" title="Read the 16&#45;bit register from the PHY." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$group__ethernet__mac__stm32fxx7__file.html#ga1074f619c53486d36149debc40cac003" title="Process pending SMI transaction and wait to be done." alt="" coords="164,5,299,32"/>
+</map>

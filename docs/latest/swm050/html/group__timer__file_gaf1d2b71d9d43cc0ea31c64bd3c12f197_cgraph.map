@@ -1,0 +1,16 @@
+<map id="timer_pwm_setup" name="timer_pwm_setup">
+<area shape="rect" id="node1" title="Setup the timer in PWM mode." alt="" coords="5,249,144,275"/>
+<area shape="rect" id="node2" href="$group__timer__file.html#ga0e1f72133b6a7e43b338cf2cc72c80ab" title="Sets the target values for PWM mode." alt="" coords="192,118,377,145"/>
+<area shape="rect" id="node4" href="$group__timer__file.html#ga3736558bc457ef460f3f6e85d0def1a3" title="Internal function for timer setup." alt="" coords="206,274,363,301"/>
+<area shape="rect" id="node3" href="$group__timer__file.html#ga79c7b426772aaeef651329aec7b6e4d1" title="Sets the target values for counter mode." alt="" coords="431,5,590,47"/>
+<area shape="rect" id="node5" href="$group__timer__file.html#ga734536607b228e86737528f8d1857d03" title="Enables or disables the timer&#39;s internal clock." alt="" coords="436,71,585,98"/>
+<area shape="rect" id="node6" href="$group__timer__file.html#gab8b74df2be2610ebe52140582b4a692e" title="Selects the clock source for the timer." alt="" coords="437,122,585,149"/>
+<area shape="rect" id="node7" href="$group__timer__file.html#ga6371b88c8a8fe7880ba4c6dff98338a4" title="Selects the edge mode." alt="" coords="441,173,581,199"/>
+<area shape="rect" id="node8" href="$group__timer__file.html#gad169d28db93de3dd37410d731a0164a1" title="Enables or disables the timer." alt="" coords="457,223,565,250"/>
+<area shape="rect" id="node9" href="$group__timer__file.html#gafa7da971e9f6431e302415bdf74388ab" title="Enable or disable the interrupt." alt="" coords="445,274,577,301"/>
+<area shape="rect" id="node10" href="$group__timer__file.html#ga289789488f27aec54a04e830e55b78a3" title="Sets the interrupt mask." alt="" coords="449,325,573,351"/>
+<area shape="rect" id="node11" href="$group__timer__file.html#gad7021f001b78ab238bf04d2923b7892d" title="Selects the loop mode." alt="" coords="443,375,579,402"/>
+<area shape="rect" id="node12" href="$group__timer__file.html#ga3a382a1b961a327e013d91a559d6eef1" title="Selects the mode of operation." alt="" coords="425,426,596,453"/>
+<area shape="rect" id="node13" href="$group__timer__file.html#ga265cd496a14a19f16c2446d1953cf82f" title="Selects the initial output level." alt="" coords="438,477,583,503"/>
+<area shape="rect" id="node14" href="$group__timer__file.html#gaba45d1cf7a2cfc0e0ab9edb8eedc4504" title="Selects the output mode." alt="" coords="435,527,586,554"/>
+</map>

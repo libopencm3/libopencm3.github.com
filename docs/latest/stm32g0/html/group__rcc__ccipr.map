@@ -1,0 +1,17 @@
+<map id="CCIPR Peripherals Independent Clock Config Register" name="CCIPR Peripherals Independent Clock Config Register">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32G0xx Reset and Clock Control" alt="" coords="5,369,108,394"/>
+<area shape="rect" id="node14" title=" " alt="" coords="156,361,379,401"/>
+<area shape="rect" id="node2" href="$group__rcc__ccipr__usart2sel.html" title=" " alt="" coords="427,5,620,45"/>
+<area shape="rect" id="node3" href="$group__rcc__ccipr__usart1sel.html" title=" " alt="" coords="427,69,620,109"/>
+<area shape="rect" id="node4" href="$group__rcc__ccipr__lptim2sel.html" title=" " alt="" coords="432,133,615,173"/>
+<area shape="rect" id="node5" href="$group__rcc__ccipr__lptim1sel.html" title=" " alt="" coords="432,197,615,237"/>
+<area shape="rect" id="node6" href="$group__rcc__ccipr__rngdiv.html" title=" " alt="" coords="486,262,561,287"/>
+<area shape="rect" id="node7" href="$group__rcc__ccipr__tim1sel.html" title=" " alt="" coords="485,311,562,337"/>
+<area shape="rect" id="node8" href="$group__rcc__ccipr__i2s1sel.html" title=" " alt="" coords="451,361,596,401"/>
+<area shape="rect" id="node9" href="$group__rcc__ccipr__tim15sel.html" title=" " alt="" coords="481,426,566,451"/>
+<area shape="rect" id="node10" href="$group__rcc__ccipr__cecsel.html" title=" " alt="" coords="432,476,615,516"/>
+<area shape="rect" id="node11" href="$group__rcc__ccipr__i2c1sel.html" title=" " alt="" coords="450,540,597,580"/>
+<area shape="rect" id="node12" href="$group__rcc__ccipr__rngsel.html" title=" " alt="" coords="486,605,561,630"/>
+<area shape="rect" id="node13" href="$group__rcc__ccipr__adcsel.html" title=" " alt="" coords="487,654,560,679"/>
+<area shape="rect" id="node15" href="$group__rcc__ccipr__lpuart1sel.html" title=" " alt="" coords="437,704,609,744"/>
+</map>

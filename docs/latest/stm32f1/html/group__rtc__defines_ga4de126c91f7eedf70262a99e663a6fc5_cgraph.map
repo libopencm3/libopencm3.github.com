@@ -1,0 +1,5 @@
+<map id="rtc_interrupt_disable" name="rtc_interrupt_disable">
+<area shape="rect" id="node1" title="RTC Disable Interrupt." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#gaf911a07f668e8be5f719065c44015b02" title="RTC Enter Configuration Mode." alt="" coords="209,5,380,32"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#ga9adb9cf0f6b7d17a7c8ee0e6addf5be9" title="RTC Leave Configuration Mode." alt="" coords="214,56,375,83"/>
+</map>

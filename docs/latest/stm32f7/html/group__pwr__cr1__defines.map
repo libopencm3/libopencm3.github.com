@@ -1,0 +1,7 @@
+<map id="PWR_CR1 values" name="PWR_CR1 values">
+<area shape="rect" id="node1" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32F7xx Power Control" alt="" coords="5,77,111,102"/>
+<area shape="rect" id="node3" title=" " alt="" coords="159,77,291,102"/>
+<area shape="rect" id="node2" href="$group__pwr__vos.html" title=" " alt="" coords="339,5,527,45"/>
+<area shape="rect" id="node4" href="$group__pwr__uden.html" title=" " alt="" coords="359,69,506,109"/>
+<area shape="rect" id="node5" href="$group__pwr__pls.html" title=" " alt="" coords="359,134,507,159"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="cm_mask_interrupts" name="cm_mask_interrupts">
+<area shape="rect" id="node1" title="Cortex M Mask interrupts." alt="" coords="188,5,343,32"/>
+<area shape="rect" id="node2" href="$group__CM3__cortex__atomic__defines.html#ga63d8cc4da4cf40652535e8af71a5675b" title=" " alt="" coords="5,5,140,32"/>
+</map>

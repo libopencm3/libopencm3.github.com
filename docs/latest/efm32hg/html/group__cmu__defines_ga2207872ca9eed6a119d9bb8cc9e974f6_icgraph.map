@@ -1,0 +1,4 @@
+<map id="cmu_periph_clock_enable" name="cmu_periph_clock_enable">
+<area shape="rect" id="node1" title="Enable Peripheral Clock in running mode." alt="" coords="200,5,391,32"/>
+<area shape="rect" id="node2" href="$group__usb__file.html#gadb52ac2d6a27448e97c64018cfa6dbba" title="Initialize the USB device controller hardware of the EFM32HG." alt="" coords="5,5,152,32"/>
+</map>

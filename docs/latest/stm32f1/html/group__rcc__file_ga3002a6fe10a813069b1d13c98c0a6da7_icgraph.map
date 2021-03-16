@@ -1,0 +1,5 @@
+<map id="rcc_set_prediv1" name="rcc_set_prediv1">
+<area shape="rect" id="node1" title=" " alt="" coords="236,42,360,69"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#gae61f5759a5cbcd628e873e951ade7f1b" title="RCC Set System Clock PLL at 72MHz from HSE at 25MHz." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Switch sysclock to PLL with the given parameters." alt="" coords="23,71,171,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="usb_audio_feature_unit_descriptor_2ch" name="usb_audio_feature_unit_descriptor_2ch">
+<area shape="rect" id="node1" title=" " alt="" coords="336,71,511,112"/>
+<area shape="rect" id="node2" href="$structusb__audio__feature__unit__descriptor__head.html" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$structusb__audio__feature__unit__descriptor__body.html" title=" " alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node4" href="$structusb__audio__feature__unit__descriptor__tail.html" title=" " alt="" coords="5,136,180,177"/>
+</map>

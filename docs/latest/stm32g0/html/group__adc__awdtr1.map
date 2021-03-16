@@ -1,0 +1,4 @@
+<map id="AWDTR1 ADC watchdog threshold register 1" name="AWDTR1 ADC watchdog threshold register 1">
+<area shape="rect" id="node1" title="Shadows adc adc_tr1 register on other chips." alt="" coords="156,5,333,45"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32STM32G0xx Analog to Digital Converter" alt="" coords="5,13,108,38"/>
+</map>

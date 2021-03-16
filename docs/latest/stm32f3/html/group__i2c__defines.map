@@ -1,0 +1,5 @@
+<map id="I2C Defines" name="I2C Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series." alt="" coords="5,5,156,31"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the STM32F3xx I2C" alt="" coords="204,5,300,31"/>
+<area shape="rect" id="node3" href="$group__i2c__reg__base.html" title=" " alt="" coords="348,5,535,31"/>
+</map>

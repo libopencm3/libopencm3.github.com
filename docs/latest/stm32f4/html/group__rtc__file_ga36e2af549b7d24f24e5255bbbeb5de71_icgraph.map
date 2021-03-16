@@ -1,0 +1,4 @@
+<map id="rtc_disable_wakeup_timer_interrupt" name="rtc_disable_wakeup_timer_interrupt">
+<area shape="rect" id="node1" title="Disable the wakeup timer interrupt." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga1e0c4ee2164c6aac547970a493be7676" title="Disable the wakeup timer." alt="" coords="5,5,156,47"/>
+</map>

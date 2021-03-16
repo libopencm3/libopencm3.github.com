@@ -1,0 +1,5 @@
+<map id="flash_unlock_option_bytes" name="flash_unlock_option_bytes">
+<area shape="rect" id="node1" title="Unlock the Option Byte Access." alt="" coords="216,39,367,80"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga6242ed6be7838125093c9b8b6adeeca1" title="Erase All Option Bytes." alt="" coords="15,5,159,47"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#gab759a6e89a54cfb15a60c0e8f4eb66df" title="Program the Option Bytes." alt="" coords="5,71,168,112"/>
+</map>

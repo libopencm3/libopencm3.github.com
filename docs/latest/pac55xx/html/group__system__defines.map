@@ -1,0 +1,12 @@
+<map id="Clock Config and System Defines" name="Clock Config and System Defines">
+<area shape="rect" id="node1" href="$group__dsr__regs.html" title="Port Drive Strength Enable Registers." alt="" coords="435,5,603,31"/>
+<area shape="rect" id="node2" href="$group__ccs__frequencies.html" title=" " alt="" coords="453,55,584,80"/>
+<area shape="rect" id="node3" href="$group__ccs__ctl__reg.html" title=" " alt="" coords="435,104,602,129"/>
+<area shape="rect" id="node4" title="Clock Control and System Defines for the Qorvo PAC55xx series of microcontrollers." alt="" coords="185,186,369,226"/>
+<area shape="rect" id="node6" href="$group__pden__regs.html" title="Port Pull&#45;Up/Down Enable Registers." alt="" coords="443,154,595,194"/>
+<area shape="rect" id="node7" href="$group__ccs__rosctrim.html" title=" " alt="" coords="444,218,593,258"/>
+<area shape="rect" id="node8" href="$group__port__pin__addresses.html" title="Port Pin Config Addresses." alt="" coords="439,282,598,322"/>
+<area shape="rect" id="node9" href="$group__ccs__pllctl__reg.html" title=" " alt="" coords="427,347,610,372"/>
+<area shape="rect" id="node10" href="$group__pmux__sel__regs.html" title="Port Pin Mux Select Registers." alt="" coords="417,396,620,421"/>
+<area shape="rect" id="node5" href="$group__PAC55xx__defines.html" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,193,137,219"/>
+</map>

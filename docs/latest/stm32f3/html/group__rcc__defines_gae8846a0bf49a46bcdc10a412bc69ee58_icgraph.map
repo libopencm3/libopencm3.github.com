@@ -1,0 +1,6 @@
+<map id="rcc_periph_reset_pulse" name="rcc_periph_reset_pulse">
+<area shape="rect" id="node1" title="Reset Peripheral, pulsed." alt="" coords="139,56,309,83"/>
+<area shape="rect" id="node2" href="$group__can__defines.html#ga982c6bcef7634ffc3faf17c58ff4229e" title="CAN Reset." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#ga6c98abcc0cf310ed84795260384d9992" title="I2C Reset." alt="" coords="7,56,89,83"/>
+<area shape="rect" id="node4" href="$group__spi__file.html#gaae815897f2f548556dde9fa8ecb13058" title="SPI Reset." alt="" coords="7,107,89,133"/>
+</map>

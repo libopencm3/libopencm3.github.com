@@ -1,0 +1,4 @@
+<map id="dmamux_reset_dma_channel" name="dmamux_reset_dma_channel">
+<area shape="rect" id="node1" title="DMAMUX Reset DMA Channel." alt="" coords="5,13,220,39"/>
+<area shape="rect" id="node2" href="$group__dmamux__file.html#ga6bf8cd1e98abcc965da8c421463479a4" title="DMAMUX Clear DMA Request Synchronization Overrun Interrupt Flag." alt="" coords="268,5,479,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="System Control" name="System Control">
+<area shape="rect" id="node1" href="$group__MSP432E4xx.html" title="Libraries for Texas Instruments MSP432E4xx series." alt="" coords="5,5,112,31"/>
+<area shape="rect" id="node2" title="libopencm3 MSP432E4xx System Control" alt="" coords="160,5,283,31"/>
+</map>

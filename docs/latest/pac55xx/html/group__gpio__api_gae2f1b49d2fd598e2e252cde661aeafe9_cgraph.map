@@ -1,0 +1,4 @@
+<map id="gpio_set_af" name="gpio_set_af">
+<area shape="rect" id="node1" title="Set the function of the pin for this port." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$group__PAC55xx__gpio.html#ga166ee286932fd9805d14590328a7ad65" title="PAC55xxxx General&#45;Purpose Input/Output (GPIO)" alt="" coords="151,5,293,32"/>
+</map>

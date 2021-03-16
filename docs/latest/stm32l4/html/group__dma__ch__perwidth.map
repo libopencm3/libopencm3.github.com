@@ -1,0 +1,4 @@
+<map id="DMA Channel Peripheral Word Width" name="DMA Channel Peripheral Word Width">
+<area shape="rect" id="node1" title=" " alt="" coords="160,5,340,45"/>
+<area shape="rect" id="node2" href="$group__dma__defines.html" title="Defined Constants and Types for the STM32L4xx DMA Controller." alt="" coords="5,13,112,38"/>
+</map>

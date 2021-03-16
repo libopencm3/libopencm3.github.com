@@ -1,0 +1,4 @@
+<map id="rcc_set_pll_multiplication_factor" name="rcc_set_pll_multiplication_factor">
+<area shape="rect" id="node1" title="RCC Set the PLL Multiplication Factor." alt="" coords="201,5,389,47"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Setup clocks to run from PLL." alt="" coords="5,13,153,39"/>
+</map>

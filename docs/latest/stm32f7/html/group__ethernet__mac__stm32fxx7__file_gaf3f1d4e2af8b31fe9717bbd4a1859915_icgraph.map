@@ -1,0 +1,4 @@
+<map id="eth_smi_bit_op" name="eth_smi_bit_op">
+<area shape="rect" id="node1" title="Process the bit&#45;operation on PHY register." alt="" coords="200,5,321,32"/>
+<area shape="rect" id="node2" href="$group__ethernet__phy__ksz8051mll__file.html#ga2ba0213eb7f8ae7fcb4bc14180314d25" title="Force autonegotiation." alt="" coords="5,5,152,32"/>
+</map>

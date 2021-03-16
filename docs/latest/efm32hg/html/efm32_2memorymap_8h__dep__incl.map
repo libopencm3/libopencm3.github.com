@@ -1,0 +1,9 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node1" title="Dispatcher for the base address definitions, depending on the particular Gecko family." alt="" coords="199,5,317,32"/>
+<area shape="rect" id="node2" href="$hg_2cmu_8h.html" title=" " alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" href="$gpio__common__hglg_8h.html" title=" " alt="" coords="92,80,253,107"/>
+<area shape="rect" id="node5" href="$timer__common_8h.html" title=" " alt="" coords="278,80,411,107"/>
+<area shape="rect" id="node7" href="$usb__efm32hg_8c.html" title=" " alt="" coords="436,80,557,107"/>
+<area shape="rect" id="node4" href="$hg_2gpio_8h.html" title=" " alt="" coords="141,155,204,181"/>
+<area shape="rect" id="node6" href="$hg_2timer_8h.html" title=" " alt="" coords="311,155,379,181"/>
+</map>

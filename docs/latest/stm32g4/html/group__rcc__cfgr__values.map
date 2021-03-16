@@ -1,0 +1,9 @@
+<map id="RCC_CFGR values" name="RCC_CFGR values">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32G4xx Reset and Clock Control" alt="" coords="5,119,108,145"/>
+<area shape="rect" id="node5" title=" " alt="" coords="156,119,295,145"/>
+<area shape="rect" id="node2" href="$group__rcc__cfgr__mco.html" title=" " alt="" coords="352,5,511,45"/>
+<area shape="rect" id="node3" href="$group__rcc__cfgr__hpre.html" title=" " alt="" coords="353,70,510,95"/>
+<area shape="rect" id="node4" href="$group__rcc__cfgr__pprex.html" title=" " alt="" coords="347,119,516,145"/>
+<area shape="rect" id="node6" href="$group__rcc__cfgr__swx.html" title=" " alt="" coords="348,169,515,209"/>
+<area shape="rect" id="node7" href="$group__rcc__cfgr__mcopre.html" title=" " alt="" coords="343,234,520,259"/>
+</map>

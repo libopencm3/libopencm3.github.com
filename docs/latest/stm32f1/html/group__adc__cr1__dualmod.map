@@ -1,0 +1,4 @@
+<map id="ADC Mode Selection" name="ADC Mode Selection">
+<area shape="rect" id="node1" title=" " alt="" coords="156,5,311,31"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32F1xx Analog to Digital Converters" alt="" coords="5,5,108,31"/>
+</map>

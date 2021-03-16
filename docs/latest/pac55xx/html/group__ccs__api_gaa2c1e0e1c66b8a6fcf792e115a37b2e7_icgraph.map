@@ -1,0 +1,5 @@
+<map id="ccs_pll_set_outdiv" name="ccs_pll_set_outdiv">
+<area shape="rect" id="node1" title="Set the output divisor." alt="" coords="423,5,564,32"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#gab6fa14c6ba06f1543868561005ea4ba8" title="Configure the CCS PLL, enable it, and wait for lock." alt="" coords="212,5,375,32"/>
+<area shape="rect" id="node3" href="$group__ccs__api.html#ga47f393eebdbf28bc53a9b85929e7e86b" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,5,164,32"/>
+</map>

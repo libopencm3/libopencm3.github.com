@@ -1,0 +1,6 @@
+<map id="fdcan_receive" name="fdcan_receive">
+<area shape="rect" id="node1" title="Receive Message from FDCAN FIFO." alt="" coords="5,56,119,83"/>
+<area shape="rect" id="node2" href="$fdcan_8c.html#ace412bdb33865b679a71a912c57db20f" title="Converts DLC value into frame payload length." alt="" coords="182,5,334,32"/>
+<area shape="rect" id="node3" href="$fdcan_8c.html#ab6a09c672de1fc9ff611685c004ca83c" title="Returns fill state and next available get index from receive FIFO." alt="" coords="183,56,333,83"/>
+<area shape="rect" id="node4" href="$fdcan_8c.html#a45025280e40afe068b890fde5bed50e6" title="Obtain address of FDCAN Message RAM for certain FDCAN block." alt="" coords="167,107,349,133"/>
+</map>

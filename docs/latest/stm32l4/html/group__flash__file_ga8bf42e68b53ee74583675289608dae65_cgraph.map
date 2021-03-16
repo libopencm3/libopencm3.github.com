@@ -1,0 +1,9 @@
+<map id="flash_clear_status_flags" name="flash_clear_status_flags">
+<area shape="rect" id="node1" title="Clear All Status Flags Program error, end of operation, write protect error, busy." alt="" coords="5,125,144,166"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga824b51d54d30e1ab5e3c47f4bc8b3031" title="Clear the End of OPeration flag." alt="" coords="203,5,358,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga77fd96d480e100aef32edb3ec8303bf1" title="Clear the Programming Alignment Error Flag." alt="" coords="195,56,367,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga7b549ad0d946f48af3339b29b5e193cd" title="Clear the Programming Sequence Error Flag This flag is set when incorrect programming configuration h..." alt="" coords="195,107,366,133"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#gac4a1451ff0ceb2cc7b27e5dfd4a8863f" title="Clear the Programming Error Status Flag." alt="" coords="192,157,369,184"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#ga9e10b8d6854ff939208ef161561dce63" title="Clear programming size error flag." alt="" coords="203,208,359,235"/>
+<area shape="rect" id="node7" href="$group__flash__file.html#gaea367649d8d5709137bec03a9a9d2c66" title="Clear the Write Protect Error Flag." alt="" coords="195,259,367,285"/>
+</map>

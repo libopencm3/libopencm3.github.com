@@ -1,0 +1,4 @@
+<map id="rcc_set_pll3_multiplication_factor" name="rcc_set_pll3_multiplication_factor">
+<area shape="rect" id="node1" title="RCC Set the PLL3 Multiplication Factor." alt="" coords="201,5,397,47"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Switch sysclock to PLL with the given parameters." alt="" coords="5,13,153,39"/>
+</map>

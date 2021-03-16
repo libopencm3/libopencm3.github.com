@@ -1,0 +1,4 @@
+<map id="cmu_wait_for_usbclk_selected" name="cmu_wait_for_usbclk_selected">
+<area shape="rect" id="node1" title="Wait while USBCLK is not selected." alt="" coords="200,5,359,47"/>
+<area shape="rect" id="node2" href="$group__usb__file.html#gadb52ac2d6a27448e97c64018cfa6dbba" title="Initialize the USB device controller hardware of the EFM32HG." alt="" coords="5,13,152,39"/>
+</map>

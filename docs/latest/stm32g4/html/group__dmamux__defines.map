@@ -1,0 +1,15 @@
+<map id="DMAMUX Defines" name="DMAMUX Defines">
+<area shape="rect" id="node1" href="$group__dmamux__cxcr.html" title=" " alt="" coords="417,5,590,60"/>
+<area shape="rect" id="node2" href="$group__dmamux__rg__channel.html" title=" " alt="" coords="398,85,609,125"/>
+<area shape="rect" id="node3" href="$group__dmamux__rgxcr.html" title=" " alt="" coords="392,149,615,189"/>
+<area shape="rect" id="node4" href="$group__dmamux__rgsr.html" title=" " alt="" coords="397,213,610,253"/>
+<area shape="rect" id="node5" href="$group__dmamux__cxcr__dmareq__id.html" title=" " alt="" coords="412,277,595,317"/>
+<area shape="rect" id="node6" href="$group__STM32G4xx__defines.html" title="Defined Constants and Types for the STM32G4xx series." alt="" coords="5,348,159,373"/>
+<area shape="rect" id="node10" title="Defined Constants and Types for the STM32G4xx DMAMUX." alt="" coords="207,348,344,373"/>
+<area shape="rect" id="node7" href="$group__dmamux__rgxcr__sig__id.html" title=" " alt="" coords="407,341,600,381"/>
+<area shape="rect" id="node8" href="$group__dmamux__csr.html" title=" " alt="" coords="400,405,607,460"/>
+<area shape="rect" id="node9" href="$group__dmamux__cxcr__sync__id.html" title=" " alt="" coords="414,485,593,525"/>
+<area shape="rect" id="node11" href="$group__dmamux__rgcfr.html" title=" " alt="" coords="392,549,615,589"/>
+<area shape="rect" id="node12" href="$group__dmamux__cfr.html" title=" " alt="" coords="400,613,607,653"/>
+<area shape="rect" id="node13" href="$group__dmamux__reg__base.html" title=" " alt="" coords="417,677,590,717"/>
+</map>

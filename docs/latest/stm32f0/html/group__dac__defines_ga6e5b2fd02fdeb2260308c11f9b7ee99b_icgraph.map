@@ -1,0 +1,4 @@
+<map id="dac_set_waveform_generation" name="dac_set_waveform_generation">
+<area shape="rect" id="node1" title="Set DAC Channel Waveform Generation mode for one or both channels." alt="" coords="225,13,448,39"/>
+<area shape="rect" id="node2" href="$group__dac__file.html#ga128088b0b0bdbafec954c0613b000e11" title="Disable DAC Channel Waveform Generation." alt="" coords="5,5,177,47"/>
+</map>

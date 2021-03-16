@@ -1,0 +1,14 @@
+<map id="timer_pulse_capture_setup" name="timer_pulse_capture_setup">
+<area shape="rect" id="node1" title="Setup the timer in pulse capture mode." alt="" coords="5,226,160,267"/>
+<area shape="rect" id="node2" href="$group__timer__file.html#ga3736558bc457ef460f3f6e85d0def1a3" title="Internal function for timer setup." alt="" coords="208,233,365,260"/>
+<area shape="rect" id="node3" href="$group__timer__file.html#ga734536607b228e86737528f8d1857d03" title="Enables or disables the timer&#39;s internal clock." alt="" coords="424,5,573,32"/>
+<area shape="rect" id="node4" href="$group__timer__file.html#gab8b74df2be2610ebe52140582b4a692e" title="Selects the clock source for the timer." alt="" coords="425,56,573,83"/>
+<area shape="rect" id="node5" href="$group__timer__file.html#ga6371b88c8a8fe7880ba4c6dff98338a4" title="Selects the edge mode." alt="" coords="429,107,569,133"/>
+<area shape="rect" id="node6" href="$group__timer__file.html#gad169d28db93de3dd37410d731a0164a1" title="Enables or disables the timer." alt="" coords="445,157,553,184"/>
+<area shape="rect" id="node7" href="$group__timer__file.html#gafa7da971e9f6431e302415bdf74388ab" title="Enable or disable the interrupt." alt="" coords="433,208,565,235"/>
+<area shape="rect" id="node8" href="$group__timer__file.html#ga289789488f27aec54a04e830e55b78a3" title="Sets the interrupt mask." alt="" coords="437,259,561,285"/>
+<area shape="rect" id="node9" href="$group__timer__file.html#gad7021f001b78ab238bf04d2923b7892d" title="Selects the loop mode." alt="" coords="431,309,567,336"/>
+<area shape="rect" id="node10" href="$group__timer__file.html#ga3a382a1b961a327e013d91a559d6eef1" title="Selects the mode of operation." alt="" coords="413,360,584,387"/>
+<area shape="rect" id="node11" href="$group__timer__file.html#ga265cd496a14a19f16c2446d1953cf82f" title="Selects the initial output level." alt="" coords="426,411,571,437"/>
+<area shape="rect" id="node12" href="$group__timer__file.html#gaba45d1cf7a2cfc0e0ab9edb8eedc4504" title="Selects the output mode." alt="" coords="423,461,574,488"/>
+</map>

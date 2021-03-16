@@ -1,0 +1,6 @@
+<map id="uart.h" name="uart.h">
+<area shape="rect" id="node1" title=" " alt="" coords="219,5,279,32"/>
+<area shape="rect" id="node2" href="$uart__common_8h.html" title=" " alt="" coords="146,80,351,121"/>
+<area shape="rect" id="node3" href="$efm32_2memorymap_8h.html" title="Dispatcher for the base address definitions, depending on the particular Gecko family." alt="" coords="5,169,249,196"/>
+<area shape="rect" id="node4" href="$usart_8h.html" title=" " alt="" coords="273,169,467,196"/>
+</map>

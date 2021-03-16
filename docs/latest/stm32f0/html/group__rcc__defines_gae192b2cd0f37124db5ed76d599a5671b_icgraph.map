@@ -1,0 +1,6 @@
+<map id="rcc_set_hpre" name="rcc_set_hpre">
+<area shape="rect" id="node1" title="RCC Set the AHB Prescale Factor." alt="" coords="228,78,332,105"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga7106c0dbbb977d8816bc2fb2d4968bd3" title="Set System Clock PLL at 48MHz from HSE at 8MHz." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga8e517e73aea1b2e06447ed5367915a69" title="Set System Clock HSI48 at 48MHz." alt="" coords="21,71,165,112"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#gadd6354a9a1404b23b5baa00b51b03cc2" title="Set System Clock PLL at 48MHz from HSI." alt="" coords="21,136,165,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nvic_set_priority" name="nvic_set_priority">
+<area shape="rect" id="node1" title="NVIC Set Interrupt Priority." alt="" coords="480,13,611,39"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga4c6724c645e96d2741e262d5468d5827" title="Enable the wakeup timer interrupt." alt="" coords="243,5,432,47"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#ga09f8be3f6c04c89c445f9fc82a3d5ab7" title="Enable the wakeup timer." alt="" coords="5,13,195,39"/>
+</map>

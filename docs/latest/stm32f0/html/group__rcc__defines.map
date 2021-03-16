@@ -1,0 +1,16 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the STM32F0xx Reset and Clock Control" alt="" coords="204,337,307,362"/>
+<area shape="rect" id="node2" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="369,5,543,45"/>
+<area shape="rect" id="node3" href="$group__rcc__cfgr__ahbpre.html" title=" " alt="" coords="365,69,547,109"/>
+<area shape="rect" id="node4" href="$group__rcc__cfgr2__prediv.html" title=" " alt="" coords="372,134,540,159"/>
+<area shape="rect" id="node5" href="$group__rcc__cfgr__pcs.html" title=" " alt="" coords="363,183,549,209"/>
+<area shape="rect" id="node7" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="375,233,537,273"/>
+<area shape="rect" id="node8" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="373,297,539,337"/>
+<area shape="rect" id="node9" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="373,361,539,401"/>
+<area shape="rect" id="node10" href="$group__rcc__cfgr__hsepre.html" title=" " alt="" coords="371,425,541,465"/>
+<area shape="rect" id="node11" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="355,490,557,515"/>
+<area shape="rect" id="node12" href="$group__rcc__cfgr__pmf.html" title=" " alt="" coords="357,540,555,580"/>
+<area shape="rect" id="node13" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="375,604,537,644"/>
+<area shape="rect" id="node14" href="$group__rcc__cfgr__apb1pre.html" title=" " alt="" coords="365,668,547,708"/>
+<area shape="rect" id="node6" href="$group__STM32F0xx__defines.html" title="Defined Constants and Types for the STM32F0xx series." alt="" coords="5,337,156,362"/>
+</map>

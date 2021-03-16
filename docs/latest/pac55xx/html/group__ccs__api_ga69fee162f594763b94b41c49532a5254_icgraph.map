@@ -1,0 +1,4 @@
+<map id="ccs_reset_clocks" name="ccs_reset_clocks">
+<area shape="rect" id="node1" title="Restores CCSCTL and CCSPLLCTL registers to default/safe values." alt="" coords="212,5,343,32"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#ga47f393eebdbf28bc53a9b85929e7e86b" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,5,164,32"/>
+</map>

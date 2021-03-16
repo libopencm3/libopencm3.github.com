@@ -1,0 +1,4 @@
+<map id="fdcan_start" name="fdcan_start">
+<area shape="rect" id="node1" title="Enable FDCAN operation after FDCAN block has been set up." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$fdcan_8c.html#a1df86fc84ec219f3d3de382e65333ec3" title="Routine implementing FDCAN_CCCR&#39;s INIT bit manipulation." alt="" coords="148,5,295,32"/>
+</map>

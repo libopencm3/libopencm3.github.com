@@ -1,0 +1,17 @@
+<map id="usbd_init" name="usbd_init">
+<area shape="rect" id="node1" title="Main initialization entry point." alt="" coords="5,122,87,149"/>
+<area shape="rect" id="node2" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title=" " alt="" coords="362,122,493,149"/>
+<area shape="rect" id="node8" href="$usb__control_8c.html#a1a921e8785fafeee17c588aa26cff014" title=" " alt="" coords="357,438,497,465"/>
+<area shape="rect" id="node12" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title=" " alt="" coords="135,71,289,98"/>
+<area shape="rect" id="node3" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="813,198,943,225"/>
+<area shape="rect" id="node5" href="$group__usb__control__file.html#ga46375610ee21a2c8ab4a06fe3bd70291" title=" " alt="" coords="565,147,747,174"/>
+<area shape="rect" id="node7" href="$group__usb__driver__defines.html#ga2f2a7dac5031fd8d1b5eb076d3f24b42" title="Set an Out endpoint to NAK." alt="" coords="589,46,723,73"/>
+<area shape="rect" id="node4" href="$group__usb__driver__defines.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="1009,198,1148,225"/>
+<area shape="rect" id="node6" href="$group__usb__driver__defines.html#gaa5b245bdd9757cdc79d1fe721ebcf03f" title="Write a packet." alt="" coords="795,299,961,326"/>
+<area shape="rect" id="node9" href="$group__usb__control__file.html#gaf3b08c6a689c9f5a20f636507e70bb52" title=" " alt="" coords="567,467,745,494"/>
+<area shape="rect" id="node10" href="$group__usb__control__file.html#gaf0d388254ab4cbc34f2903cd7f9ce097" title=" " alt="" coords="579,401,733,443"/>
+<area shape="rect" id="node11" href="$group__usb__driver__defines.html#gabd42dc86361dbf9c639fd883ada1f572" title="Read a packet." alt="" coords="797,489,959,515"/>
+<area shape="rect" id="node13" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title=" " alt="" coords="339,223,515,250"/>
+<area shape="rect" id="node15" href="$group__usb__control__file.html#gab9305438ecc3aaa7359aacdbc4f55c29" title=" " alt="" coords="337,21,517,47"/>
+<area shape="rect" id="node14" href="$group__usb__control__file.html#ga2af2fb78551d9e7f89f031698d972238" title="If we&#39;re replying with some data, but less than the host is expecting, then we normally just do a sho..." alt="" coords="613,249,699,275"/>
+</map>

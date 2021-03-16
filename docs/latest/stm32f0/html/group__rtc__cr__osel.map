@@ -1,0 +1,4 @@
+<map id="RTC_CR_OSEL: Output selection values" name="RTC_CR_OSEL: Output selection values">
+<area shape="rect" id="node1" title="These bits are used to select the flag to be routed to AFO_ALARM RTC output." alt="" coords="203,5,365,45"/>
+<area shape="rect" id="node2" href="$group__rtc__cr__values.html" title="Note: Bits [31:24] are reserved, and must be kept at reset value." alt="" coords="5,5,155,45"/>
+</map>

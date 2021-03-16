@@ -1,0 +1,7 @@
+<map id="wdt_setup" name="wdt_setup">
+<area shape="rect" id="node1" title="Sets up the WDT before the call to wdt_enable()." alt="" coords="5,81,95,108"/>
+<area shape="rect" id="node2" href="$group__wdg__file.html#gab831256e459796fc0909414a157af0c7" title="Enables the WDT&#39;s clock." alt="" coords="143,5,281,32"/>
+<area shape="rect" id="node3" href="$group__wdg__file.html#ga2bea9723e9b6e0ca2b028dc418be9c51" title="Sets the WDT&#39;s mode of operation." alt="" coords="167,56,257,83"/>
+<area shape="rect" id="node4" href="$group__wdg__file.html#ga29bd0253aecbc8eeb2ebd5d0864508d4" title="Reset the WDT&#39;s counter." alt="" coords="169,107,255,133"/>
+<area shape="rect" id="node5" href="$group__wdg__file.html#ga3fb833a9695e79a9af2b4bed88c88cc5" title="Sets the WDT&#39;s initial counter values." alt="" coords="157,157,267,184"/>
+</map>

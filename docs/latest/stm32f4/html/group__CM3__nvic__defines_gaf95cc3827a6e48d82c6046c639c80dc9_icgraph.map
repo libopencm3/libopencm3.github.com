@@ -1,0 +1,5 @@
+<map id="nvic_disable_irq" name="nvic_disable_irq">
+<area shape="rect" id="node1" title="NVIC Disable Interrupt." alt="" coords="403,13,529,39"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga36e2af549b7d24f24e5255bbbeb5de71" title="Disable the wakeup timer interrupt." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#ga1e0c4ee2164c6aac547970a493be7676" title="Disable the wakeup timer." alt="" coords="5,5,156,47"/>
+</map>

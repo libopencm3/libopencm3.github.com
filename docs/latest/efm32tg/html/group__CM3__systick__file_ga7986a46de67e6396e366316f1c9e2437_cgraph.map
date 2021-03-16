@@ -1,0 +1,5 @@
+<map id="systick_set_frequency" name="systick_set_frequency">
+<area shape="rect" id="node1" title="SysTick Set clock and frequency of overflow." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$group__CM3__systick__file.html#ga13726e0964b31c85269beddbdc1d35e7" title="Set the SysTick Clock Source." alt="" coords="220,5,399,32"/>
+<area shape="rect" id="node3" href="$group__CM3__systick__file.html#gaaa997323bf7f3378eb78a6277abc913f" title="SysTick Set the Automatic Reload Value." alt="" coords="238,56,381,83"/>
+</map>
