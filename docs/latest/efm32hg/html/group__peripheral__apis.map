@@ -1,0 +1,7 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__cmu__file.html" title=" " alt="" coords="179,5,327,31"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title=" " alt="" coords="178,55,327,80"/>
+<area shape="rect" id="node3" title="APIs for device peripherals." alt="" coords="5,80,125,105"/>
+<area shape="rect" id="node4" href="$group__timer__file.html" title=" " alt="" coords="173,104,332,129"/>
+<area shape="rect" id="node5" href="$group__usb__file.html" title="USB Peripheral for Happy Gecko." alt="" coords="181,153,325,179"/>
+</map>

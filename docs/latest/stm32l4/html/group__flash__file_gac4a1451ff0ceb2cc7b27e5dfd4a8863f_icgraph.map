@@ -1,0 +1,4 @@
+<map id="flash_clear_progerr_flag" name="flash_clear_progerr_flag">
+<area shape="rect" id="node1" title="Clear the Programming Error Status Flag." alt="" coords="192,13,369,39"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga8bf42e68b53ee74583675289608dae65" title="Clear all status flags." alt="" coords="5,5,144,47"/>
+</map>

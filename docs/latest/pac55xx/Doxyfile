@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_pac55xx.log
+LAYOUT_FILE				= DoxygenLayout_pac55xx.xml
+GENERATE_TAGFILE		= pac55xx.tag
+ENABLE_PREPROCESSING	= YES

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['ichannelnames_0',['iChannelNames',['../structusb__audio__input__terminal__descriptor.html#abacb2122cabc8ed664d70f74ce5fd06f',1,'usb_audio_input_terminal_descriptor']]],
+  ['iconfiguration_1',['iConfiguration',['../structusb__config__descriptor.html#ace6c0975162873b87744269bd188d297',1,'usb_config_descriptor']]],
+  ['idproduct_2',['idProduct',['../structusb__device__descriptor.html#a70d5ecc7bad486b8a8840d86aa151579',1,'usb_device_descriptor']]],
+  ['idvendor_3',['idVendor',['../structusb__device__descriptor.html#a043126e48bebbab536540e44428b6b4f',1,'usb_device_descriptor']]],
+  ['ielement_4',['iElement',['../structusb__midi__element__descriptor__tail.html#ace2fcaef278792de3ee16706818cd957',1,'usb_midi_element_descriptor_tail']]],
+  ['iface_5fassoc_5',['iface_assoc',['../structusb__interface.html#a52cfc78c2536053de0c4f1615a057f79',1,'usb_interface']]],
+  ['ifeature_6',['iFeature',['../structusb__audio__feature__unit__descriptor__tail.html#a2f48ff600f2a6f57ccf08228c2eca640',1,'usb_audio_feature_unit_descriptor_tail']]],
+  ['ifunction_7',['iFunction',['../structusb__iface__assoc__descriptor.html#aa429753fa6dcc07d97979d28610e3313',1,'usb_iface_assoc_descriptor']]],
+  ['iinterface_8',['iInterface',['../structusb__interface__descriptor.html#a63008abbea76cc397836554747386055',1,'usb_interface_descriptor']]],
+  ['ijack_9',['iJack',['../structusb__midi__in__jack__descriptor.html#a2ce84280ede3290b9070342f6b1bdc14',1,'usb_midi_in_jack_descriptor::iJack()'],['../structusb__midi__out__jack__descriptor__tail.html#a63d1b9c91210db97e930345a5d268616',1,'usb_midi_out_jack_descriptor_tail::iJack()']]],
+  ['imanufacturer_10',['iManufacturer',['../structusb__device__descriptor.html#ad082330020575944b8471459b816cb40',1,'usb_device_descriptor']]],
+  ['initial_5fsp_5fvalue_11',['initial_sp_value',['../structvector__table__t.html#aeb5ce1efa9b9ecd868829beabf24fd91',1,'vector_table_t']]],
+  ['interface_12',['interface',['../structusb__config__descriptor.html#ace1d97f95263aef8acdafa4b4ffa76a7',1,'usb_config_descriptor']]],
+  ['iproduct_13',['iProduct',['../structusb__device__descriptor.html#acb90b91c59e65adbcc21949cf0f486f7',1,'usb_device_descriptor']]],
+  ['irq_14',['irq',['../structvector__table__t.html#a14df56a3e6131a72bcd0298a0187239e',1,'vector_table_t']]],
+  ['iserialnumber_15',['iSerialNumber',['../structusb__device__descriptor.html#a105d91b68091e61c9b13ea673fb98eaf',1,'usb_device_descriptor']]],
+  ['iterminal_16',['iTerminal',['../structusb__audio__input__terminal__descriptor.html#a2bc7f81a8df385ff4fb4a848d2bf4170',1,'usb_audio_input_terminal_descriptor::iTerminal()'],['../structusb__audio__output__terminal__descriptor.html#a24e263966613d642d8e31fe56ad3eae4',1,'usb_audio_output_terminal_descriptor::iTerminal()']]]
+];

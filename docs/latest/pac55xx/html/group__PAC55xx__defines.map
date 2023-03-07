@@ -1,0 +1,9 @@
+<map id="PAC55xx Defines" name="PAC55xx Defines">
+<area shape="rect" id="node1" href="$group__PAC55xx__can.html" title="CAN definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="259,5,309,31"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,129,137,155"/>
+<area shape="rect" id="node3" href="$group__PAC55xx__gpio.html" title="GPIO definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="257,55,311,80"/>
+<area shape="rect" id="node4" href="$group__PAC55xx__memctl.html" title="Memory Controller definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="185,104,383,129"/>
+<area shape="rect" id="node5" href="$group__PAC55xx__usart.html" title="USART definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="251,153,317,179"/>
+<area shape="rect" id="node6" href="$group__memorymap.html" title=" " alt="" coords="195,203,373,228"/>
+<area shape="rect" id="node7" href="$group__system__defines.html" title="Clock Control and System Defines for the Qorvo PAC55xx series of microcontrollers." alt="" coords="192,253,376,293"/>
+</map>

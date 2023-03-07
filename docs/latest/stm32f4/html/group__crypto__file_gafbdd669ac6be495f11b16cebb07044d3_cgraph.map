@@ -1,0 +1,6 @@
+<map id="crypto_set_mac_algorithm" name="crypto_set_mac_algorithm">
+<area shape="rect" id="node1" title="Set the MAC algorithm." alt="" coords="5,31,200,57"/>
+<area shape="rect" id="node2" href="$group__crypto__file.html#ga132b9deaf901e3c5a5d9c24929a4ded4" title="Set the algorithm for Encryption/decryption." alt="" coords="248,31,408,57"/>
+<area shape="rect" id="node3" href="$group__crypto__file.html#ga77ae468abdc9ed68f924dcfbefe723f1" title="Enable the cryptographic controller and start processing." alt="" coords="474,5,574,32"/>
+<area shape="rect" id="node4" href="$group__crypto__file.html#gaecaa8d8b190fa22a873a76a5cf67fb62" title="Wait, if the Controller is busy." alt="" coords="456,56,592,83"/>
+</map>

@@ -1,0 +1,4 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/sam/4l/scif.c:68: warning: The following parameter of scif_enable_pll(uint8_t delay, uint8_t mul, uint8_t div, uint8_t pll_opt, enum pll_clk_src source_clock) is not documented:
+  parameter 'source_clock'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/sam/4l/scif.c:68: warning: The following parameter of scif_enable_pll(uint8_t delay, uint8_t mul, uint8_t div, uint8_t pll_opt, enum pll_clk_src source_clock) is not documented:
+  parameter 'source_clock'

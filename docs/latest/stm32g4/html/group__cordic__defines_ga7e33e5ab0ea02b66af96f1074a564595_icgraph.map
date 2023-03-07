@@ -1,0 +1,5 @@
+<map id="cordic_read_16bit_result" name="cordic_read_16bit_result">
+<area shape="rect" id="node1" title="Read single 16 bit result." alt="" coords="184,31,365,57"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga1f0cc4c420775bb5374b6ffbfa8a1498" title="Compute 16 bit cosine using CORDIC (blocking)" alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#ga6070c7a3a81c9945be4a7b4f855b1ce7" title="Compute 16 bit sine using CORDIC (blocking)" alt="" coords="7,56,134,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gpio_port_read" name="gpio_port_read">
+<area shape="rect" id="node1" title="Read level of all pins from a port (atomic)" alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$group__gpio__control.html#ga4efb268c94f062228de2339d8273af82" title="Get status of a Group of Pins (atomic)" alt="" coords="172,5,259,32"/>
+</map>

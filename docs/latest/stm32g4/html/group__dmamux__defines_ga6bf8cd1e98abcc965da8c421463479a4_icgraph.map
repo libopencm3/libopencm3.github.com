@@ -1,0 +1,4 @@
+<map id="dmamux_clear_dma_request_sync_overrun" name="dmamux_clear_dma_request_sync_overrun">
+<area shape="rect" id="node1" title="DMAMUX Clear DMA Request Synchronization Overrun Interrupt Flag." alt="" coords="268,5,479,47"/>
+<area shape="rect" id="node2" href="$group__dmamux__file.html#ga406da98687a7997d557ac1d6ee7551bb" title="DMAMUX Reset DMA Channel." alt="" coords="5,13,220,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fdcan_cccr_init_cfg" name="fdcan_cccr_init_cfg">
+<area shape="rect" id="node1" title="Routine implementing FDCAN_CCCR&#39;s INIT bit manipulation." alt="" coords="148,31,295,57"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#ga06b7c69884ed9878123ec3892984452f" title="Put FDCAN block into INIT mode for setup." alt="" coords="9,5,96,32"/>
+<area shape="rect" id="node3" href="$group__fdcan__file.html#ga24ca46499dbb8dc4b116b390bfe75fd1" title="Enable FDCAN operation after FDCAN block has been set up." alt="" coords="5,56,100,83"/>
+</map>

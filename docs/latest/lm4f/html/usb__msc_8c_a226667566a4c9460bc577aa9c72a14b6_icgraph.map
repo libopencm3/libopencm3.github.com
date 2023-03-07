@@ -1,0 +1,4 @@
+<map id="msc_set_config" name="msc_set_config">
+<area shape="rect" id="node1" title="Setup the endpoints to be bulk &amp; register the callbacks." alt="" coords="160,5,283,32"/>
+<area shape="rect" id="node2" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="5,5,112,32"/>
+</map>

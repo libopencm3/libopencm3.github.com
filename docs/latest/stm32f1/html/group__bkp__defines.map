@@ -1,0 +1,8 @@
+<map id="BKP Defines" name="BKP Defines">
+<area shape="rect" id="node1" href="$group__BKP__CR__Values.html" title=" " alt="" coords="365,5,485,31"/>
+<area shape="rect" id="node2" href="$group__BKP__CSR__Values.html" title=" " alt="" coords="361,55,489,80"/>
+<area shape="rect" id="node3" href="$group__BKP__RTCCR__Values.html" title=" " alt="" coords="353,104,497,129"/>
+<area shape="rect" id="node4" href="$group__BKP__registers.html" title=" " alt="" coords="369,153,482,179"/>
+<area shape="rect" id="node5" href="$group__STM32F1xx__defines.html" title="Defined Constants and Types for the STM32F1xx series." alt="" coords="5,80,156,105"/>
+<area shape="rect" id="node6" title="Defined Constants and Types for the Backup Registers" alt="" coords="204,80,305,105"/>
+</map>

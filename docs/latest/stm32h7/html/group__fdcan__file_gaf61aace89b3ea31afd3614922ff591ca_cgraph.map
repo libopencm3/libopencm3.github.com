@@ -1,0 +1,4 @@
+<map id="fdcan_get_txbuf_element_size" name="fdcan_get_txbuf_element_size">
+<area shape="rect" id="node1" title="Returns actual size of transmit entry in transmit queue/FIFO for given CAN port." alt="" coords="5,5,227,32"/>
+<area shape="rect" id="node2" href="$fdcan__common_8c.html#a17446d188c22a8af68cc52f73471bb0a" title="Converts DLC value into frame payload length." alt="" coords="275,5,427,32"/>
+</map>

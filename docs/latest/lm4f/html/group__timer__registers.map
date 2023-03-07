@@ -1,0 +1,4 @@
+<map id="GP Timer registers" name="GP Timer registers">
+<area shape="rect" id="node1" href="$group__timer__defines.html" title="Defined Constants and Types for the LM4F General Purpose Timers" alt="" coords="5,5,184,31"/>
+<area shape="rect" id="node2" title="Unless otherwise specified, these registers are RW." alt="" coords="232,5,375,31"/>
+</map>

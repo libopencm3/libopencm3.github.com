@@ -1,0 +1,4 @@
+<map id="U(S)ART convenience Flags" name="U(S)ART convenience Flags">
+<area shape="rect" id="node1" title="We define the &quot;common&quot; lower flag bits using a standard name, allowing them to be used regardless of ..." alt="" coords="172,5,333,45"/>
+<area shape="rect" id="node2" href="$group__usart__defines.html" title="Defined Constants and Types for the STM32H7xx USART" alt="" coords="5,13,124,38"/>
+</map>

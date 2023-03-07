@@ -1,0 +1,4 @@
+<map id="cmu_wait_for_osc_ready" name="cmu_wait_for_osc_ready">
+<area shape="rect" id="node1" title="Wait while oscillator is not ready." alt="" coords="200,5,383,32"/>
+<area shape="rect" id="node2" href="$group__usb__file.html#ga2591527118af575d1f1d0e2d6e5a9016" title="Initialize the USB device controller hardware of the EFM32HG." alt="" coords="5,5,152,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="msc_control_request" name="msc_control_request">
+<area shape="rect" id="node1" title="Handle various control requests related to the msc storage interface." alt="" coords="331,5,488,32"/>
+<area shape="rect" id="node2" href="$usb__msc_8c.html#a226667566a4c9460bc577aa9c72a14b6" title="Setup the endpoints to be bulk &amp; register the callbacks." alt="" coords="160,5,283,32"/>
+<area shape="rect" id="node3" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="5,5,112,32"/>
+</map>

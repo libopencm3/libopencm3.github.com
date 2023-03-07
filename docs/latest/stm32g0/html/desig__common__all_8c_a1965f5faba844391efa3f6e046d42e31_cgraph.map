@@ -1,0 +1,4 @@
+<map id="desig_get_unique_id_as_dfu" name="desig_get_unique_id_as_dfu">
+<area shape="rect" id="node1" title="Generate the same serial number from the unique id registers as the DFU bootloader." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3cd0901d044d03766a710d05a2e6cd13" title="Read the full 96 bit unique identifier Note: ST specifies that bits 31..16 are also reserved for futu..." alt="" coords="208,13,363,39"/>
+</map>

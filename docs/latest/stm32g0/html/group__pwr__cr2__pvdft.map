@@ -1,0 +1,4 @@
+<map id="PVDFT" name="PVDFT">
+<area shape="rect" id="node1" title="Power voltage detector falling threshold selection." alt="" coords="159,5,223,31"/>
+<area shape="rect" id="node2" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32G0xx PWR Control" alt="" coords="5,5,111,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TIMx_CR2_OIS: Force Output Idle State Control Values" name="TIMx_CR2_OIS: Force Output Idle State Control Values">
+<area shape="rect" id="node1" title=" " alt="" coords="173,5,360,60"/>
+<area shape="rect" id="node2" href="$group__timer__defines.html" title="Defined Constants and Types for the STM32F0xx Timers" alt="" coords="5,20,125,45"/>
+</map>

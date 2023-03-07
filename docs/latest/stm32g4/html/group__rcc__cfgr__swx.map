@@ -1,0 +1,4 @@
+<map id="SW/SWS System clock switch (status)" name="SW/SWS System clock switch (status)">
+<area shape="rect" id="node1" title=" " alt="" coords="192,5,359,45"/>
+<area shape="rect" id="node2" href="$group__rcc__cfgr__values.html" title=" " alt="" coords="5,13,144,38"/>
+</map>

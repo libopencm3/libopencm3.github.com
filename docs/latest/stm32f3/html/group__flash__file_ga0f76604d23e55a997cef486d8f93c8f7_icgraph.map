@@ -1,0 +1,4 @@
+<map id="flash_prefetch_enable" name="flash_prefetch_enable">
+<area shape="rect" id="node1" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="201,5,367,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Setup clocks to run from PLL." alt="" coords="5,5,153,32"/>
+</map>

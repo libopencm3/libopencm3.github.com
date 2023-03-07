@@ -1,0 +1,4 @@
+<map id="flash_program_half_word" name="flash_program_half_word">
+<area shape="rect" id="node1" title="Program a Half Word to FLASH." alt="" coords="208,5,395,32"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga73937aa6df8710e95425b165730626a2" title="Program a 32 bit Word to FLASH." alt="" coords="5,5,160,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GPIO Register Base Addresses" name="GPIO Register Base Addresses">
+<area shape="rect" id="node1" href="$group__gpio__defines.html" title="Defined Constants and Types for the MSP432E4 General Purpose I/O." alt="" coords="5,5,156,45"/>
+<area shape="rect" id="node2" title="GPIO Register Base Addresses." alt="" coords="204,5,352,45"/>
+</map>

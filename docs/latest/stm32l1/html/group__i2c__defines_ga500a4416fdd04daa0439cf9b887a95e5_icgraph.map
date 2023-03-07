@@ -1,0 +1,4 @@
+<map id="i2c_set_fast_mode" name="i2c_set_fast_mode">
+<area shape="rect" id="node1" title="I2C Set Fast Mode." alt="" coords="168,5,312,32"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#gafd14b670443193d575d07a793c5e47f0" title="Set the i2c communication speed." alt="" coords="5,5,120,32"/>
+</map>

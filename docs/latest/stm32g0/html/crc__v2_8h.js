@@ -1,0 +1,27 @@
+var crc__v2_8h =
+[
+    [ "CRC_CR_POLYSIZE", "group__crc__cr__values.html#gaa59a490e24d6d3775e71cf03e347ff03", null ],
+    [ "CRC_CR_POLYSIZE_16", "group__crc__polysize.html#ga445717562e4e84fd9fa42d4ca94bd1bf", null ],
+    [ "CRC_CR_POLYSIZE_32", "group__crc__polysize.html#gac44c29f8f988cebc9a90c6595847c01a", null ],
+    [ "CRC_CR_POLYSIZE_7", "group__crc__polysize.html#gae75c7922e488c4358b3b5a86d804c129", null ],
+    [ "CRC_CR_POLYSIZE_8", "group__crc__polysize.html#gab235620e7d4a7316c04d27b3ff6a161a", null ],
+    [ "CRC_CR_POLYSIZE_SHIFT", "group__crc__cr__values.html#ga740eea544b4f69a1bf277e5c9a73f403", null ],
+    [ "CRC_CR_REV_IN", "group__crc__cr__values.html#ga4c5a6e8ab7464ff35f1e5f424b76c15a", null ],
+    [ "CRC_CR_REV_IN_BYTE", "group__crc__rev__in.html#ga68ef5371744daf780bf36d6d57b7347e", null ],
+    [ "CRC_CR_REV_IN_HALF", "group__crc__rev__in.html#ga5cf1451fd0d2d058d1f9b3fb604c445b", null ],
+    [ "CRC_CR_REV_IN_NONE", "group__crc__rev__in.html#ga9872fabb97e0d04ae9ae05d3f1d98400", null ],
+    [ "CRC_CR_REV_IN_SHIFT", "group__crc__cr__values.html#ga5c43856a08bda7a051fdb5492600723c", null ],
+    [ "CRC_CR_REV_IN_WORD", "group__crc__rev__in.html#gaaef68dbec43d721c5ccaa8c89fd02eaa", null ],
+    [ "CRC_CR_REV_OUT", "group__crc__cr__values.html#ga62d72fcad54fe50ab75d2895d6e155f7", null ],
+    [ "CRC_DR16", "group__crc__registers.html#ga72c0b032a461b9557e1748f225454427", null ],
+    [ "CRC_DR8", "group__crc__registers.html#gaf14c35084ed39244528d79bc398702d5", null ],
+    [ "CRC_INIT", "group__crc__registers.html#ga67f2b73e9152930dccf1e6d6d48c49f2", null ],
+    [ "CRC_POL", "group__crc__registers.html#ga845c3c4c68beed60aa8d748e4335d7f2", null ],
+    [ "CRC_POL_DEFAULT", "group__crc__defines.html#gae383ecb7e7ccc6e01d78451d87fe045d", null ],
+    [ "crc_reverse_output_disable", "group__crc__defines.html#ga4b8ffc0a0c7574d02ffeeb32fb9ce7a9", null ],
+    [ "crc_reverse_output_enable", "group__crc__defines.html#ga3d3e8414eaa1dbc672f1925b3c635ab2", null ],
+    [ "crc_set_initial", "group__crc__defines.html#ga69536c54eacce511af07fa24e4e8d2e0", null ],
+    [ "crc_set_polynomial", "group__crc__defines.html#ga45904a318bebf63ee9e9a2e096318ba7", null ],
+    [ "crc_set_polysize", "group__crc__defines.html#ga6af25bc26d25c4febaff923c1492145e", null ],
+    [ "crc_set_reverse_input", "group__crc__defines.html#ga94444bf45798ee8e40cfab638eb1a1ba", null ]
+];

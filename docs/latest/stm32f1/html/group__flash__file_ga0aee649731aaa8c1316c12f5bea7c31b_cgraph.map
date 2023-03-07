@@ -1,0 +1,6 @@
+<map id="flash_erase_page" name="flash_erase_page">
+<area shape="rect" id="node1" title="Erase a Page of FLASH." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="595,5,751,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="188,27,332,69"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="380,31,547,57"/>
+</map>

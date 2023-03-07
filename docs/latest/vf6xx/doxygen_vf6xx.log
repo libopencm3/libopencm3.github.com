@@ -1,0 +1,20 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/vf6xx/gpio.h:81: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/vf6xx/iomuxc.h:257: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/vf6xx/uart.h:183: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/iomuxc.c:5: warning: multiple use of section label 'vf6xx_gpio_api_ex' while adding section, (first occurrence: /home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/gpio.c, line 5)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/gpio.c:118: warning: argument 'gpio' of command @param is not found in the argument list of gpio_port_write(uint32_t gpioport, uint32_t data)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/gpio.c:118: warning: The following parameter of gpio_port_write(uint32_t gpioport, uint32_t data) is not documented:
+  parameter 'data'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/iomuxc.c:46: warning: argument 'gpio' of command @param is not found in the argument list of iomuxc_mux(enum vf6xx_pad pad, uint32_t muxc)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/iomuxc.c:46: warning: The following parameters of iomuxc_mux(enum vf6xx_pad pad, uint32_t muxc) are not documented:
+  parameter 'pad'
+  parameter 'muxc'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/uart.c:92: warning: unable to resolve reference to 'uart_cr3_flowcontrol' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/gpio.c:118: warning: argument 'gpio' of command @param is not found in the argument list of gpio_port_write(uint32_t gpioport, uint32_t data)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/gpio.c:118: warning: The following parameter of gpio_port_write(uint32_t gpioport, uint32_t data) is not documented:
+  parameter 'data'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/iomuxc.c:46: warning: argument 'gpio' of command @param is not found in the argument list of iomuxc_mux(enum vf6xx_pad pad, uint32_t muxc)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/iomuxc.c:46: warning: The following parameters of iomuxc_mux(enum vf6xx_pad pad, uint32_t muxc) are not documented:
+  parameter 'pad'
+  parameter 'muxc'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/vf6xx/uart.c:92: warning: unable to resolve reference to 'uart_cr3_flowcontrol' for \ref command

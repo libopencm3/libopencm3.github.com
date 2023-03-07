@@ -1,0 +1,5 @@
+<map id="GPIO Polarity" name="GPIO Polarity">
+<area shape="rect" id="node1" href="$group__gpio__defines.html" title="Defined Constants and Types for the SWM050 General Purpose I/O" alt="" coords="5,5,112,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="160,5,268,31"/>
+<area shape="rect" id="node3" href="$group__gpio__trig__type.html" title=" " alt="" coords="316,5,512,31"/>
+</map>

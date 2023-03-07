@@ -1,0 +1,4 @@
+<map id="fdcan_init_ext_filter_ram" name="fdcan_init_ext_filter_ram">
+<area shape="rect" id="node1" title="Initialize allocation of extended filter block in CAN message RAM." alt="" coords="176,5,360,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gaafd287821ee13b95b633e031247957b2" title="Configure amount of filters and initialize filtering block." alt="" coords="5,5,128,32"/>
+</map>

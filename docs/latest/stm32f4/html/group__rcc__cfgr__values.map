@@ -1,0 +1,7 @@
+<map id="RCC_CFGR values" name="RCC_CFGR values">
+<area shape="rect" id="node1" href="$group__rcc__cfgr__ahbpre.html" title=" " alt="" coords="358,5,541,45"/>
+<area shape="rect" id="node2" href="$group__rcc__cfgr__apbxpre.html" title="These can be used for both APB1 and APB2 prescaling." alt="" coords="355,69,544,109"/>
+<area shape="rect" id="node3" title="Clock Configuration register values." alt="" coords="168,45,307,70"/>
+<area shape="rect" id="node4" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="11,19,114,45"/>
+<area shape="rect" id="node5" href="$group__rcc__registers.html" title="Reset / Clock Control Registers." alt="" coords="5,69,120,94"/>
+</map>

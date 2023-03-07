@@ -1,0 +1,15 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/flash_common_f01.c:119: warning: unable to resolve reference to 'flash_options' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:234: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:205: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:309: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:275: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:510: warning: unable to resolve reference to 'rcc_cfgr_apb1pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:496: warning: unable to resolve reference to 'rcc_cfgr_apb2pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/rcc_common_all.h:64: warning: argument 'osc' from the argument list of rcc_wait_for_osc_ready has multiple @param documentation sections
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/flash_common_f01.c:119: warning: unable to resolve reference to 'flash_options' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:234: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:205: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:309: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:275: warning: unable to resolve reference to 'pwr_disable_backup_domain_write_protect' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:510: warning: unable to resolve reference to 'rcc_cfgr_apb1pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/gd32/f1x0/rcc.c:496: warning: unable to resolve reference to 'rcc_cfgr_apb2pre' for \ref command

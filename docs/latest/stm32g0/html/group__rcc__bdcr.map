@@ -1,0 +1,6 @@
+<map id="BDCR Backup Domain Control Register" name="BDCR Backup Domain Control Register">
+<area shape="rect" id="node1" title=" " alt="" coords="156,37,321,77"/>
+<area shape="rect" id="node2" href="$group__rcc__bdcr__lsedrv.html" title=" " alt="" coords="378,5,545,45"/>
+<area shape="rect" id="node3" href="$group__rcc__bdcr__rtcsel.html" title=" " alt="" coords="369,69,553,109"/>
+<area shape="rect" id="node4" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32G0xx Reset and Clock Control" alt="" coords="5,45,108,70"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GPIO pin control" name="GPIO pin control">
+<area shape="rect" id="node1" title="Controlling GPIO pins" alt="" coords="108,5,235,31"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 LM4F General Purpose I/O" alt="" coords="5,5,60,31"/>
+</map>

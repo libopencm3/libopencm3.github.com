@@ -1,0 +1,4 @@
+<map id="flash_prefetch_enable" name="flash_prefetch_enable">
+<area shape="rect" id="node1" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="201,5,367,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga04d008adc6760dace915290ff884939f" title="Setup the base PLLs and clock domains for the STM32H7." alt="" coords="5,5,153,32"/>
+</map>

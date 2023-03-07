@@ -1,0 +1,4 @@
+<map id="dma_enable_half_transfer_interrupt" name="dma_enable_half_transfer_interrupt">
+<area shape="rect" id="node1" title="DMA Stream Enable Interrupt on Transfer Half Complete." alt="" coords="5,5,197,47"/>
+<area shape="rect" id="node2" href="$group__dma__file.html#gaeaa31cc700740df241897276081e0436" title="DMA Stream Clear Interrupt Flag." alt="" coords="245,5,399,47"/>
+</map>

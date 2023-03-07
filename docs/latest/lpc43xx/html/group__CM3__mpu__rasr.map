@@ -1,0 +1,5 @@
+<map id="MPU RASR register fields" name="MPU RASR register fields">
+<area shape="rect" id="node1" href="$group__CM3__mpu__defines.html" title="libopencm3 Cortex Memory Protection Unit" alt="" coords="5,5,175,31"/>
+<area shape="rect" id="node2" title="Defines for the Region Attribute and Size Register." alt="" coords="223,5,407,31"/>
+<area shape="rect" id="node3" href="$group__mpu__rasr__attributes.html" title="Not all attributes are available on v6m." alt="" coords="455,5,613,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CCR ADC common configuration register" name="CCR ADC common configuration register">
+<area shape="rect" id="node1" title=" " alt="" coords="156,5,387,45"/>
+<area shape="rect" id="node2" href="$group__adc__ccr__presc.html" title=" " alt="" coords="435,13,587,38"/>
+<area shape="rect" id="node3" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32G4xx Analog to Digital converter" alt="" coords="5,13,108,38"/>
+</map>

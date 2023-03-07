@@ -1,0 +1,5 @@
+<map id="RTC time stamp time register (RTC_TSTR) values" name="RTC time stamp time register (RTC_TSTR) values">
+<area shape="rect" id="node1" href="$group__rtc__defines.html" title="Defined Constants and Types for the STM32F3xx Real Time Clock" alt="" coords="11,5,110,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="164,16,323,71"/>
+<area shape="rect" id="node2" href="$group__rtc__registers.html" title="Real Time Clock registers." alt="" coords="5,55,116,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VF6xx" name="VF6xx">
+<area shape="rect" id="node1" title="Libraries for Freescale VF6xx series Cortex&#45;M4 core." alt="" coords="5,80,68,105"/>
+<area shape="rect" id="node2" href="$group__VF6xx__gpio.html" title="VF6xx General&#45;Purpose Input/Output (GPIO)" alt="" coords="148,5,203,31"/>
+<area shape="rect" id="node3" href="$group__VF6xx__iomuxc.html" title="VF6xx IO Pad MUX Controller" alt="" coords="116,55,235,80"/>
+<area shape="rect" id="node4" href="$group__VF6xx__uart.html" title="VF6xx Universal Asynchronous Receiver/Transmitter (UART)" alt="" coords="147,104,204,129"/>
+<area shape="rect" id="node5" href="$group__ccm__file.html" title="VF6xx Clock Controller Module" alt="" coords="149,153,201,179"/>
+</map>

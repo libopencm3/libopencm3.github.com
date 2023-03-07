@@ -1,0 +1,11 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node1" title=" " alt="" coords="147,5,265,32"/>
+<area shape="rect" id="node2" href="$eefc_8h.html" title=" " alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node4" href="$3x_2gpio_8h.html" title=" " alt="" coords="92,80,155,107"/>
+<area shape="rect" id="node5" href="$3x_2pio_8h.html" title=" " alt="" coords="179,80,233,107"/>
+<area shape="rect" id="node6" href="$3x_2pmc_8h.html" title=" " alt="" coords="257,80,320,107"/>
+<area shape="rect" id="node7" href="$usart_8h.html" title=" " alt="" coords="345,80,411,107"/>
+<area shape="rect" id="node3" href="$pmc_8c.html" title=" " alt="" coords="6,155,67,181"/>
+<area shape="rect" id="node8" href="$usart__common__3_8c.html" title=" " alt="" coords="219,155,364,181"/>
+<area shape="rect" id="node9" href="$usart__common__all_8c.html" title=" " alt="" coords="388,155,541,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gpio_port_write" name="gpio_port_write">
+<area shape="rect" id="node1" title="Set level of of all pins from a port (atomic)" alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$group__gpio__control.html#ga86b48f47f23889ffed56ab86c0605865" title="Set level of a Group of Pins (atomic)" alt="" coords="176,5,267,32"/>
+</map>

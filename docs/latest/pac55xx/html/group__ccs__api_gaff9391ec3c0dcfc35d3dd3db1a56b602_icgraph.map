@@ -1,0 +1,4 @@
+<map id="ccs_sclkmux_select_frclk" name="ccs_sclkmux_select_frclk">
+<area shape="rect" id="node1" title="Select FRCLK for SCLK." alt="" coords="212,5,363,47"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#ga47f393eebdbf28bc53a9b85929e7e86b" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,13,164,39"/>
+</map>

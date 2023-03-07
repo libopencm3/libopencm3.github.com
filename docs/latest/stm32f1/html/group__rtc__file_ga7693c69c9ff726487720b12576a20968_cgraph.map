@@ -1,0 +1,13 @@
+<map id="rtc_auto_awake" name="rtc_auto_awake">
+<area shape="rect" id="node1" title="RTC Configuration on Wakeup." alt="" coords="5,148,129,175"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="422,5,603,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#gaf58f3540cedf5a15e31e8ac453834079" title="RCC RTC Clock Enabled Flag." alt="" coords="177,249,373,276"/>
+<area shape="rect" id="node4" href="$group__rtc__file.html#gaa4fec0b94caffb25d0acde8813a7ef5b" title="RTC Set Operational from the Off state." alt="" coords="200,148,351,175"/>
+<area shape="rect" id="node10" href="$group__rtc__file.html#ga19032c3fbc1546712c5bc534e5ddbf48" title="RTC Start RTC after Standby Mode." alt="" coords="183,64,368,91"/>
+<area shape="rect" id="node11" href="$group__rtc__file.html#ga1b2c2b6aa8879eb16f7cf3207587725e" title="RTC Set the prescaler Value." alt="" coords="198,199,353,225"/>
+<area shape="rect" id="node5" href="$group__pwr__file.html#ga47f30c2ab88b0a18a2f343cf4f9c0743" title="Disable Backup Domain Write Protection." alt="" coords="427,57,598,98"/>
+<area shape="rect" id="node6" href="$group__rcc__file.html#gabd376925e81df9e2f78110fabcdbd893" title="RCC Enable the RTC clock." alt="" coords="434,123,591,149"/>
+<area shape="rect" id="node7" href="$group__rcc__file.html#ga1a7e55c7554def2e7152af495e1565a8" title="RCC Set the Source for the RTC clock." alt="" coords="421,173,604,200"/>
+<area shape="rect" id="node8" href="$group__rtc__file.html#gaf911a07f668e8be5f719065c44015b02" title="RTC Enter Configuration Mode." alt="" coords="427,224,598,251"/>
+<area shape="rect" id="node9" href="$group__rtc__file.html#ga9adb9cf0f6b7d17a7c8ee0e6addf5be9" title="RTC Leave Configuration Mode." alt="" coords="432,275,593,301"/>
+</map>

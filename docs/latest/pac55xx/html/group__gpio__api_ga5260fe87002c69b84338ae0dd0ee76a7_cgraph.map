@@ -1,0 +1,4 @@
+<map id="gpio_set_schmidt_trigger" name="gpio_set_schmidt_trigger">
+<area shape="rect" id="node1" title="Set input schmidt trigger for glitch rejection on the input pin." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$group__PAC55xx__gpio.html#ga166ee286932fd9805d14590328a7ad65" title="PAC55xxxx General&#45;Purpose Input/Output (GPIO)" alt="" coords="240,5,383,32"/>
+</map>

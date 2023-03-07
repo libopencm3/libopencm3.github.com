@@ -1,0 +1,5 @@
+<map id="RTC Time register (RTC_TR) values" name="RTC Time register (RTC_TR) values">
+<area shape="rect" id="node1" href="$group__rtc__defines.html" title="Defined Constants and Types for the STM32L4xx RTC" alt="" coords="11,5,110,31"/>
+<area shape="rect" id="node3" title="Note: Bits [31:23], 15, and 7 are reserved, and must be kept at reset value." alt="" coords="164,23,305,63"/>
+<area shape="rect" id="node2" href="$group__rtc__registers.html" title="Real Time Clock registers." alt="" coords="5,55,116,80"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="rcc_clock_setup_hse_3v3" name="rcc_clock_setup_hse_3v3">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,192,260"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga9347b16d27d64b79f507dc9cad8633b2" title="Set the Number of Wait States." alt="" coords="275,5,380,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga89d079556639549018fbd8d66cf5fc20" title=" " alt="" coords="280,56,375,83"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#ga81b16ade2e5d6e024f36e3d568a9fd97" title=" " alt="" coords="281,107,374,133"/>
+<area shape="rect" id="node5" href="$group__rcc__file.html#gae192b2cd0f37124db5ed76d599a5671b" title=" " alt="" coords="275,157,379,184"/>
+<area shape="rect" id="node6" href="$group__rcc__file.html#gac9cad56153485b68efc5c3b444beddd4" title=" " alt="" coords="247,208,408,235"/>
+<area shape="rect" id="node7" href="$group__rcc__file.html#gaaf1b9174131b00a7014c0328a53a65a1" title=" " alt="" coords="271,259,383,285"/>
+<area shape="rect" id="node8" href="$group__rcc__file.html#gac40c9478480f3a44c381c15482a563cd" title=" " alt="" coords="271,309,383,336"/>
+<area shape="rect" id="node9" href="$group__rcc__file.html#ga2c291271812c333d975807cd5ec99a36" title=" " alt="" coords="244,360,411,387"/>
+<area shape="rect" id="node10" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="240,411,415,437"/>
+<area shape="rect" id="node12" href="$group__rcc__file.html#gaa768e6d3787b02f6dc93c8392b879ef7" title=" " alt="" coords="253,462,402,503"/>
+<area shape="rect" id="node11" href="$group__rcc__file.html#ga2706213ae449214826f797ac93c51d52" title="Is the given oscillator ready?" alt="" coords="463,411,595,437"/>
+</map>

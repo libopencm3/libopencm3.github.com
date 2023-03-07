@@ -1,0 +1,5 @@
+<map id="flash_unlock" name="flash_unlock">
+<area shape="rect" id="node1" title="Unlock the Flash Program and Erase Controller This enables write access to the Flash memory." alt="" coords="5,42,108,69"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga5458fca5ecb9ec90b21bebbb64c861c4" title="Unlock the Option Byte Access." alt="" coords="167,5,318,47"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga1f98dbca620b1ba312c1277190650c70" title="Unlock program memory." alt="" coords="156,71,329,98"/>
+</map>

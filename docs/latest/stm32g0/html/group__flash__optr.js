@@ -1,0 +1,28 @@
+var group__flash__optr =
+[
+    [ "NRST MODE", "group__flash__optr__nrst__mode.html", "group__flash__optr__nrst__mode" ],
+    [ "BORR LEV", "group__flash__optr__borr__lev.html", "group__flash__optr__borr__lev" ],
+    [ "BOR FLEV", "group__flash__optr__borf__lev.html", "group__flash__optr__borf__lev" ],
+    [ "RDP", "group__flash__optr__rdp.html", "group__flash__optr__rdp" ],
+    [ "FLASH_OPTR_BOREN", "group__flash__optr.html#ga92b187b4ee06c90075f4867f19b2a6b3", null ],
+    [ "FLASH_OPTR_BORF_LEV_MASK", "group__flash__optr.html#gaa8828288de4c522a63aceea53b32622f", null ],
+    [ "FLASH_OPTR_BORF_LEV_SHIFT", "group__flash__optr.html#gab3a74468845416d4ff7ab0cb6d0139d8", null ],
+    [ "FLASH_OPTR_BORR_LEV_MASK", "group__flash__optr.html#ga8086d811f1f0236e2ef61c857e53aca5", null ],
+    [ "FLASH_OPTR_BORR_LEV_SHIFT", "group__flash__optr.html#ga2bd3501845adef8d8aaea6332c9ace0e", null ],
+    [ "FLASH_OPTR_IDWG_SW", "group__flash__optr.html#ga1f630db37dddc4f2f1922f5debc21054", null ],
+    [ "FLASH_OPTR_IRHEN", "group__flash__optr.html#ga2444f3b1a03cc41f239cafd9c10a0ed6", null ],
+    [ "FLASH_OPTR_IWDG_STDBY", "group__flash__optr.html#ga05f51efadbac7ced5adc340325575386", null ],
+    [ "FLASH_OPTR_IWDG_STOP", "group__flash__optr.html#ga8b7e18ae68b0e19a4ebb84c208e5ef18", null ],
+    [ "FLASH_OPTR_nBOOT0", "group__flash__optr.html#gaa82520452ad7060939806e9f962891d8", null ],
+    [ "FLASH_OPTR_nBOOT1", "group__flash__optr.html#gabf943c30e99bf56e7949aecd3c9771d2", null ],
+    [ "FLASH_OPTR_nBOOT_SEL", "group__flash__optr.html#ga54def787c57fe57ed3fdb917817b2e81", null ],
+    [ "FLASH_OPTR_NRST_MODE_MASK", "group__flash__optr.html#gadd8e0b0cd7cf0bd62e4af4a9b8f9bd3e", null ],
+    [ "FLASH_OPTR_NRST_MODE_SHIFT", "group__flash__optr.html#gae82683f40ee7763d9394399b49ea96f1", null ],
+    [ "FLASH_OPTR_nRST_STDBY", "group__flash__optr.html#gadcdd563c7e71e0783c4ebd4a1d55187f", null ],
+    [ "FLASH_OPTR_nRST_STOP", "group__flash__optr.html#ga3fe1d7d6e7eff66678a365e41d8bfa0a", null ],
+    [ "FLASH_OPTR_nRSTS_HDW", "group__flash__optr.html#gac2ebf1c0a29258feae1d14738878f43a", null ],
+    [ "FLASH_OPTR_RAM_PARITY_CHECK", "group__flash__optr.html#ga159c3706d66851e73d8341929b0cfeac", null ],
+    [ "FLASH_OPTR_RDP_MASK", "group__flash__optr.html#ga139a432e607e4632e09d250f20fe5518", null ],
+    [ "FLASH_OPTR_RDP_SHIFT", "group__flash__optr.html#gaea000e964ed748affe8bf2c1a9181f5c", null ],
+    [ "FLASH_OPTR_WWDG_SW", "group__flash__optr.html#ga6293710a5145793a40d4ad7cd6071141", null ]
+];

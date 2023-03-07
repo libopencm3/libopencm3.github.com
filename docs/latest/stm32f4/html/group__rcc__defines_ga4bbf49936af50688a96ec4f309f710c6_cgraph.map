@@ -1,0 +1,21 @@
+<map id="rcc_clock_setup_pll" name="rcc_clock_setup_pll">
+<area shape="rect" id="node1" title="Setup clocks to run from PLL." alt="" coords="5,411,153,437"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gaa2eec070b11319798ae9c2854d459003" title="Disable the data cache." alt="" coords="212,5,372,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#gae971613fad94342cea5285e1967a5d37" title="Enable the data cache." alt="" coords="213,56,371,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga2a73f933c575f521b4cdc6559619ba9c" title="Disable the Instruction Cache." alt="" coords="214,107,370,133"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#ga9d59965c0a87a40026078799f362533f" title="Enable the Instruction Cache." alt="" coords="215,157,369,184"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#ga9347b16d27d64b79f507dc9cad8633b2" title="Set the Number of Wait States." alt="" coords="239,208,345,235"/>
+<area shape="rect" id="node7" href="$group__pwr__file.html#ga5c20c3e54554d82e05cf53cc02fba118" title=" " alt="" coords="220,259,364,285"/>
+<area shape="rect" id="node8" href="$group__rcc__file.html#ga89d079556639549018fbd8d66cf5fc20" title=" " alt="" coords="245,309,339,336"/>
+<area shape="rect" id="node9" href="$group__rcc__file.html#ga81b16ade2e5d6e024f36e3d568a9fd97" title=" " alt="" coords="245,360,339,387"/>
+<area shape="rect" id="node10" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="201,411,383,437"/>
+<area shape="rect" id="node11" href="$group__rcc__file.html#gae192b2cd0f37124db5ed76d599a5671b" title=" " alt="" coords="240,461,344,488"/>
+<area shape="rect" id="node12" href="$group__rcc__file.html#ga90ff5a0ecc1188ac3139fee7db3201bd" title="Reconfigures the main PLL for a HSE source." alt="" coords="211,512,373,539"/>
+<area shape="rect" id="node13" href="$group__rcc__file.html#gadd7fcba59e33732e22edfb02a749993c" title="Reconfigures the main PLL for a HSI source." alt="" coords="213,563,371,589"/>
+<area shape="rect" id="node14" href="$group__rcc__file.html#gaaf1b9174131b00a7014c0328a53a65a1" title=" " alt="" coords="236,613,348,640"/>
+<area shape="rect" id="node15" href="$group__rcc__file.html#gac40c9478480f3a44c381c15482a563cd" title=" " alt="" coords="236,664,348,691"/>
+<area shape="rect" id="node16" href="$group__rcc__file.html#ga2c291271812c333d975807cd5ec99a36" title=" " alt="" coords="209,715,375,741"/>
+<area shape="rect" id="node17" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="205,765,379,792"/>
+<area shape="rect" id="node19" href="$group__rcc__file.html#gaa768e6d3787b02f6dc93c8392b879ef7" title=" " alt="" coords="217,817,367,858"/>
+<area shape="rect" id="node18" href="$group__rcc__file.html#ga2706213ae449214826f797ac93c51d52" title="Is the given oscillator ready?" alt="" coords="431,765,563,792"/>
+</map>

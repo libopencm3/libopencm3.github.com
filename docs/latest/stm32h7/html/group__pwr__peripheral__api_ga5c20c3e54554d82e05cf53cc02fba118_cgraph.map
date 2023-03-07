@@ -1,0 +1,4 @@
+<map id="pwr_set_vos_scale" name="pwr_set_vos_scale">
+<area shape="rect" id="node1" title="Set the voltage scaling/strength for the internal SMPS/LDO while running." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="197,5,379,32"/>
+</map>

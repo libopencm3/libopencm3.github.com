@@ -1,0 +1,15 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__STM32F7xx__defines.html" title="Defined Constants and Types for the STM32F7xx series." alt="" coords="5,333,156,358"/>
+<area shape="rect" id="node13" title="Defined Constants and Types for the STM32F7xx Reset and Clock Control" alt="" coords="204,333,307,358"/>
+<area shape="rect" id="node2" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="379,5,545,45"/>
+<area shape="rect" id="node3" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="381,69,543,109"/>
+<area shape="rect" id="node4" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="379,133,545,173"/>
+<area shape="rect" id="node5" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="381,197,543,237"/>
+<area shape="rect" id="node6" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="379,261,545,301"/>
+<area shape="rect" id="node7" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="381,325,543,365"/>
+<area shape="rect" id="node8" href="$group__rcc__cfgr__ahbpre.html" title=" " alt="" coords="371,389,553,429"/>
+<area shape="rect" id="node9" href="$group__rcc__cfgr__apbxpre.html" title="These can be used for both APB1 and APB2 prescaling." alt="" coords="367,453,557,493"/>
+<area shape="rect" id="node10" href="$group__rcc__cfgr__deprecated.html" title="Older compatible definitions to ease migration." alt="" coords="377,517,547,557"/>
+<area shape="rect" id="node11" href="$group__rcc__dckcfgr2__uart__choices.html" title=" " alt="" coords="380,581,544,621"/>
+<area shape="rect" id="node12" href="$group__rcc__dckcfgr2__uart__clksel.html" title=" " alt="" coords="355,646,569,671"/>
+</map>

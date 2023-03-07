@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_samd.log
+LAYOUT_FILE				= DoxygenLayout_samd.xml
+GENERATE_TAGFILE		= samd.tag
+ENABLE_PREPROCESSING	= YES

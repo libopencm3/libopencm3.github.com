@@ -1,0 +1,20 @@
+<map id="DAC Defines" name="DAC Defines">
+<area shape="rect" id="node1" href="$group__STM32G4xx__defines.html" title="Defined Constants and Types for the STM32G4xx series." alt="" coords="5,380,159,405"/>
+<area shape="rect" id="node5" title="Defined Constants and Types for the STM32G4xx DAC" alt="" coords="207,380,309,405"/>
+<area shape="rect" id="node2" href="$group__dac__ccr__values.html" title=" " alt="" coords="397,5,527,31"/>
+<area shape="rect" id="node3" href="$group__dac__channel__id.html" title=" " alt="" coords="377,55,547,80"/>
+<area shape="rect" id="node4" href="$group__dac__cr__values.html" title=" " alt="" coords="401,104,523,129"/>
+<area shape="rect" id="node6" href="$group__dac__dhrxxx__values.html" title=" " alt="" coords="383,153,541,179"/>
+<area shape="rect" id="node7" href="$group__dac__dorx__values.html" title=" " alt="" coords="391,203,533,228"/>
+<area shape="rect" id="node8" href="$group__dac__mcr__values.html" title=" " alt="" coords="395,252,529,277"/>
+<area shape="rect" id="node9" href="$group__dac__reg__base.html" title=" " alt="" coords="357,301,567,327"/>
+<area shape="rect" id="node10" href="$group__dac__registers.html" title=" " alt="" coords="405,351,519,376"/>
+<area shape="rect" id="node11" href="$group__dac__sawtooth1__inc.html" title=" " alt="" coords="370,401,554,441"/>
+<area shape="rect" id="node12" href="$group__dac__sawtooth1__rst.html" title=" " alt="" coords="370,465,554,505"/>
+<area shape="rect" id="node13" href="$group__dac__sawtooth2__inc.html" title=" " alt="" coords="370,529,554,569"/>
+<area shape="rect" id="node14" href="$group__dac__sawtooth2__rst.html" title=" " alt="" coords="370,593,554,633"/>
+<area shape="rect" id="node15" href="$group__dac__sr__values.html" title=" " alt="" coords="401,657,523,683"/>
+<area shape="rect" id="node16" href="$group__dac__stdir1.html" title=" " alt="" coords="370,707,554,747"/>
+<area shape="rect" id="node17" href="$group__dac__stdir2.html" title=" " alt="" coords="370,771,554,811"/>
+<area shape="rect" id="node18" href="$group__dac__swtrigr__values.html" title=" " alt="" coords="379,836,545,861"/>
+</map>

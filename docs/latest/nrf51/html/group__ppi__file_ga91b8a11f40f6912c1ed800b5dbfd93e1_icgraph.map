@@ -1,0 +1,4 @@
+<map id="ppi_disable_channels" name="ppi_disable_channels">
+<area shape="rect" id="node1" title="Disable PPI channels, given the channels mask." alt="" coords="211,5,372,32"/>
+<area shape="rect" id="node2" href="$group__ppi__file.html#ga72d14ecc2b687b679e2be7060dfa29e3" title="Disable channel and remove it from the map of used channels." alt="" coords="5,5,163,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RCC_PLLCFGR PLLN values" name="RCC_PLLCFGR PLLN values">
+<area shape="rect" id="node1" title="Allowed values 8 &lt;= n &lt;= 127, VCO output limits specified in datasheet." alt="" coords="293,13,491,38"/>
+<area shape="rect" id="node2" href="$group__rcc__pllcfgr__values.html" title=" " alt="" coords="5,5,245,45"/>
+</map>

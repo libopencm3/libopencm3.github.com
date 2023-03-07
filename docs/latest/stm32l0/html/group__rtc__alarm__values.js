@@ -1,0 +1,25 @@
+var group__rtc__alarm__values =
+[
+    [ "RTC_ALRMXR_DT_MASK", "group__rtc__alarm__values.html#gafe661ce0d245ad5ce56c045ea17c1a08", null ],
+    [ "RTC_ALRMXR_DT_SHIFT", "group__rtc__alarm__values.html#ga20e1c5f64b8c61eb4cbf8a38dfeb6859", null ],
+    [ "RTC_ALRMXR_DU_MASK", "group__rtc__alarm__values.html#gac016da37090476d1754283715b002fd0", null ],
+    [ "RTC_ALRMXR_DU_SHIFT", "group__rtc__alarm__values.html#gaf44b17197307f73ba26cd58161545626", null ],
+    [ "RTC_ALRMXR_HT_MASK", "group__rtc__alarm__values.html#gaa93d094df573008657ae4cd8f8c03e35", null ],
+    [ "RTC_ALRMXR_HT_SHIFT", "group__rtc__alarm__values.html#ga08d8cc2cba587bbfba916263553be5e8", null ],
+    [ "RTC_ALRMXR_HU_MASK", "group__rtc__alarm__values.html#ga52d7037128f944e9956cdfd110b327d3", null ],
+    [ "RTC_ALRMXR_HU_SHIFT", "group__rtc__alarm__values.html#gad2f9087d0fcb317c72b131f2cc618796", null ],
+    [ "RTC_ALRMXR_MNT_MASK", "group__rtc__alarm__values.html#ga84c702f00fd21d27e092e808315c0eef", null ],
+    [ "RTC_ALRMXR_MNT_SHIFT", "group__rtc__alarm__values.html#gaf93bb190463ff2a2a01fc3fa8ffdc7be", null ],
+    [ "RTC_ALRMXR_MNU_MASK", "group__rtc__alarm__values.html#gab5c3d67fe0d2c1652ba4ff6c4b51ca07", null ],
+    [ "RTC_ALRMXR_MNU_SHIFT", "group__rtc__alarm__values.html#ga150862b037f53faa237996e3e6270c78", null ],
+    [ "RTC_ALRMXR_MSK1", "group__rtc__alarm__values.html#ga7a3c9a66638271f2fcc2b513a0cd4bc4", null ],
+    [ "RTC_ALRMXR_MSK2", "group__rtc__alarm__values.html#gab96f43d09988f45f5ab5e20d4ba6c0cd", null ],
+    [ "RTC_ALRMXR_MSK3", "group__rtc__alarm__values.html#ga38f4b3a3a84cbe064fda91d9faed9a2a", null ],
+    [ "RTC_ALRMXR_MSK4", "group__rtc__alarm__values.html#ga28f42cc8417872db64a9f45fa6f0ae45", null ],
+    [ "RTC_ALRMXR_PM", "group__rtc__alarm__values.html#ga5057382e80dec481b021465cc1641530", null ],
+    [ "RTC_ALRMXR_ST_MASK", "group__rtc__alarm__values.html#ga589dfd57ed5a42fb9a5cca578514e145", null ],
+    [ "RTC_ALRMXR_ST_SHIFT", "group__rtc__alarm__values.html#ga881bb575db4cf46a8c8fbcdaec03bc2c", null ],
+    [ "RTC_ALRMXR_SU_MASK", "group__rtc__alarm__values.html#ga9e7f0bce36a75b94f06a4f31edb9590a", null ],
+    [ "RTC_ALRMXR_SU_SHIFT", "group__rtc__alarm__values.html#gadd24cc883627dc5c59ee509123ad4497", null ],
+    [ "RTC_ALRMXR_WDSEL", "group__rtc__alarm__values.html#ga53fcffd324af255c0777ac0115b42fcd", null ]
+];

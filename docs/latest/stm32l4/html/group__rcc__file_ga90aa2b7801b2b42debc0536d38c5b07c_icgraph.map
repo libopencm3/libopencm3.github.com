@@ -1,0 +1,7 @@
+<map id="rcc_periph_clock_enable" name="rcc_periph_clock_enable">
+<area shape="rect" id="node1" title="Enable Peripheral Clock in running mode." alt="" coords="239,81,420,108"/>
+<area shape="rect" id="node2" href="$group__crs__file.html#ga01a9ce5f79f9244985f2ad45c671cd37" title="This function enables automatic trimming of internal RC oscillator by USB SOF frames." alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Setup clocks to run from PLL." alt="" coords="24,56,172,83"/>
+<area shape="rect" id="node4" href="$st__usbfs__v2_8c.html#ac30ca3585e6fb0bfa943550faaf54f00" title="Initialize the USB device controller hardware of the STM32." alt="" coords="15,107,181,133"/>
+<area shape="rect" id="node5" href="$usb__f107_8c.html#a1d28133aed4b8b0e1d19705324cbd004" title="Initialize the USB device controller hardware of the STM32." alt="" coords="19,157,177,184"/>
+</map>

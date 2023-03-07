@@ -1,0 +1,13 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/g0/exti.h:55: warning: the \endcond does not have a corresponding \cond in this file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:212: warning: unable to resolve reference to 'adc_api_res' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:235: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:109: warning: unable to resolve reference to 'rcc_apb2rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:64: warning: unable to resolve reference to 'rcc_apb2enr_en' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:42: warning: unable to resolve reference to 'rcc_apb2enr_en' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:86: warning: unable to resolve reference to 'rcc_apb2rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:235: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:109: warning: unable to resolve reference to 'rcc_apb2rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:64: warning: unable to resolve reference to 'rcc_apb2enr_en' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:42: warning: unable to resolve reference to 'rcc_apb2enr_en' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:86: warning: unable to resolve reference to 'rcc_apb2rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:212: warning: unable to resolve reference to 'adc_api_res' for \ref command

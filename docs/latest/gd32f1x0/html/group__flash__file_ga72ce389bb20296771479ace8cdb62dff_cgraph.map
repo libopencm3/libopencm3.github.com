@@ -1,0 +1,4 @@
+<map id="flash_wait_for_last_operation" name="flash_wait_for_last_operation">
+<area shape="rect" id="node1" title="Wait until Last Operation has Ended." alt="" coords="5,5,149,47"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="197,13,364,39"/>
+</map>

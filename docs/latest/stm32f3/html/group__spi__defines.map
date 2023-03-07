@@ -1,0 +1,12 @@
+<map id="SPI Defines" name="SPI Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series." alt="" coords="5,209,156,234"/>
+<area shape="rect" id="node7" title="Defined Constants and Types for the STM32F3xx SPI" alt="" coords="204,209,299,234"/>
+<area shape="rect" id="node2" href="$group__spi__baudrate.html" title=" " alt="" coords="368,5,516,45"/>
+<area shape="rect" id="node3" href="$group__spi__br__pre.html" title=" " alt="" coords="363,69,521,109"/>
+<area shape="rect" id="node4" href="$group__spi__cpha.html" title=" " alt="" coords="381,134,503,159"/>
+<area shape="rect" id="node5" href="$group__spi__cpol.html" title=" " alt="" coords="375,183,509,209"/>
+<area shape="rect" id="node6" href="$group__spi__crcl.html" title=" " alt="" coords="387,233,497,258"/>
+<area shape="rect" id="node8" href="$group__spi__ds.html" title=" " alt="" coords="389,282,495,307"/>
+<area shape="rect" id="node9" href="$group__spi__lsbfirst.html" title=" " alt="" coords="379,331,505,357"/>
+<area shape="rect" id="node10" href="$group__spi__reg__base.html" title=" " alt="" coords="347,381,537,406"/>
+</map>

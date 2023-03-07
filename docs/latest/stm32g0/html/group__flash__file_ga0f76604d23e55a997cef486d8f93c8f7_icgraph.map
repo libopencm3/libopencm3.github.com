@@ -1,0 +1,4 @@
+<map id="flash_prefetch_enable" name="flash_prefetch_enable">
+<area shape="rect" id="node1" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="179,5,344,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga97a14bcd681acbfdd75141e0bd65f7c7" title="Setup sysclock with desired source (HSE/HSI/PLL/LSE/LSI)." alt="" coords="5,5,131,32"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__adc__file.html" title=" " alt="" coords="186,5,331,31"/>
+<area shape="rect" id="node2" href="$group__crc__file.html" title=" " alt="" coords="187,55,331,80"/>
+<area shape="rect" id="node3" href="$group__crs__file.html" title="(USB) STM32 Clock Recovery Subsystem" alt="" coords="187,104,330,129"/>
+<area shape="rect" id="node4" href="$group__dac__file.html" title="Digital to Analog Converter." alt="" coords="186,153,331,179"/>
+<area shape="rect" id="node5" href="$group__dma__file.html" title="DMA library for the multi channel controller found in F0/1/3 &amp; L/G parts." alt="" coords="185,203,333,228"/>
+<area shape="rect" id="node6" href="$group__exti__file.html" title=" " alt="" coords="185,252,332,277"/>
+<area shape="rect" id="node7" href="$group__flash__file.html" title="libopencm3 STM32L4xx FLASH" alt="" coords="179,301,339,327"/>
+<area shape="rect" id="node8" href="$group__gpio__file.html" title=" " alt="" coords="184,351,333,376"/>
+<area shape="rect" id="node9" href="$group__i2c__file.html" title=" " alt="" coords="189,400,328,425"/>
+<area shape="rect" id="node10" href="$group__iwdg__file.html" title=" " alt="" coords="181,449,336,475"/>
+<area shape="rect" id="node11" href="$group__lptimer__file.html" title=" " alt="" coords="181,499,337,524"/>
+<area shape="rect" id="node12" title="APIs for device peripherals." alt="" coords="5,449,125,475"/>
+<area shape="rect" id="node13" href="$group__pwr__file.html" title="libopencm3 STM32L4xx Power Control" alt="" coords="185,548,332,573"/>
+<area shape="rect" id="node14" href="$group__quadspi__file.html" title="APIs for the specialized SPI Flash peripheral." alt="" coords="173,597,344,623"/>
+<area shape="rect" id="node15" href="$group__rcc__file.html" title="libopencm3 STM32L4xx Reset and Clock Control" alt="" coords="187,647,331,672"/>
+<area shape="rect" id="node16" href="$group__rng__file.html" title="This library supports &quot;version 1&quot; of the random number generator peripheral (RNG) in the STM32 series..." alt="" coords="185,696,332,721"/>
+<area shape="rect" id="node17" href="$group__rtc__file.html" title=" " alt="" coords="188,745,329,771"/>
+<area shape="rect" id="node18" href="$group__spi__file.html" title=" " alt="" coords="190,795,327,820"/>
+<area shape="rect" id="node19" href="$group__timer__file.html" title=" " alt="" coords="179,844,338,869"/>
+<area shape="rect" id="node20" href="$group__usart__file.html" title=" " alt="" coords="178,893,339,919"/>
+</map>

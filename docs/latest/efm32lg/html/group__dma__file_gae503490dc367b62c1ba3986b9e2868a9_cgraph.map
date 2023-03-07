@@ -1,0 +1,4 @@
+<map id="dma_enable" name="dma_enable">
+<area shape="rect" id="node1" title="same as dma_enable_with_unprivileged_access()" alt="" coords="5,13,108,39"/>
+<area shape="rect" id="node2" href="$group__dma__file.html#ga85f9b52e59c50c531e8ff8fc2a016461" title="Enable DMA with un&#45;privileged access." alt="" coords="156,5,381,47"/>
+</map>

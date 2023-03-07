@@ -1,0 +1,23 @@
+<map id="usb_control_request_dispatch" name="usb_control_request_dispatch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,340,159,381"/>
+<area shape="rect" id="node2" href="$usb__standard_8c.html#acbe64f834a6a41461dab4e179e5caa72" title=" " alt="" coords="207,347,387,374"/>
+<area shape="rect" id="node3" href="$usb__standard_8c.html#ad4b5fbce5b5ee6b5d5a80982d07cc6ba" title=" " alt="" coords="435,140,615,181"/>
+<area shape="rect" id="node12" href="$usb__standard_8c.html#afc75bea6ba0b8d0d1bfccf96eceba818" title=" " alt="" coords="435,340,615,381"/>
+<area shape="rect" id="node18" href="$usb__standard_8c.html#abaef3eb2d690b8e6c910c915bdb14cfc" title=" " alt="" coords="435,493,615,535"/>
+<area shape="rect" id="node4" href="$group__usb__standard__file.html#ga8125b06ea30e4ef79ecafccd965de1b8" title=" " alt="" coords="698,5,857,47"/>
+<area shape="rect" id="node5" href="$group__usb__standard__file.html#ga0e3f83f09688d942f67ab39bff3e43b5" title=" " alt="" coords="663,71,892,98"/>
+<area shape="rect" id="node6" href="$group__usb__standard__file.html#ga12438265bb7878a71c30b8c46d5c985c" title=" " alt="" coords="673,122,882,149"/>
+<area shape="rect" id="node10" href="$group__usb__standard__file.html#ga9feca6a1aaa7743e7f432433c5acc17c" title=" " alt="" coords="680,173,875,199"/>
+<area shape="rect" id="node11" href="$group__usb__standard__file.html#ga5c1d8b8f257bcd8edcca076a97fafdfb" title=" " alt="" coords="663,223,891,250"/>
+<area shape="rect" id="node7" href="$group__usb__standard__file.html#gaf8a21c66ec88535a258872791c468098" title=" " alt="" coords="940,71,1112,98"/>
+<area shape="rect" id="node8" href="$group__usb__standard__file.html#gaf52328d55b34702e49cb14ec9005ca19" title=" " alt="" coords="946,122,1106,149"/>
+<area shape="rect" id="node9" href="$group__usb__standard__file.html#ga2df65bb0dcba3643cde420b3fdc08ff0" title=" " alt="" coords="949,173,1103,199"/>
+<area shape="rect" id="node13" href="$group__usb__standard__file.html#ga5b44de9aabd46b65f87be92e0c19b155" title=" " alt="" coords="691,275,864,316"/>
+<area shape="rect" id="node15" href="$group__usb__standard__file.html#gaee3cc13f9eb72b9069613111973c2a53" title=" " alt="" coords="691,340,864,381"/>
+<area shape="rect" id="node17" href="$group__usb__standard__file.html#gaaeffc19218b5fe5602582e45b68c897f" title=" " alt="" coords="691,405,864,447"/>
+<area shape="rect" id="node14" href="$group__usb__drivers__file.html#ga396b34ccbe5bf6718417ef3ee0c3b788" title="Get STALL status of an endpoint." alt="" coords="957,282,1095,309"/>
+<area shape="rect" id="node16" href="$group__usb__drivers__file.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="957,379,1095,406"/>
+<area shape="rect" id="node19" href="$group__usb__standard__file.html#ga5359fd9e4c05b1862845496252569b4f" title=" " alt="" coords="676,471,879,498"/>
+<area shape="rect" id="node20" href="$group__usb__standard__file.html#ga0c19391762e8ed41587b726e1422dcc2" title=" " alt="" coords="690,523,865,564"/>
+<area shape="rect" id="node21" href="$group__usb__standard__file.html#ga84df7c90d695a9d2c034cd01a6af8c30" title=" " alt="" coords="677,589,878,615"/>
+</map>

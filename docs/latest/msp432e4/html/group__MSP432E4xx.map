@@ -1,0 +1,5 @@
+<map id="MSP432E4xx" name="MSP432E4xx">
+<area shape="rect" id="node1" title="Libraries for Texas Instruments MSP432E4xx series." alt="" coords="5,31,112,56"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 MSP432E4xx General Purpose Input/Outputs" alt="" coords="160,5,312,31"/>
+<area shape="rect" id="node3" href="$group__systemcontrol__file.html" title="libopencm3 MSP432E4xx System Control" alt="" coords="175,55,297,80"/>
+</map>

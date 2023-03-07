@@ -1,0 +1,4 @@
+<map id="ADC Channel Numbers" name="ADC Channel Numbers">
+<area shape="rect" id="node1" title="Thanks ST! F40x and F41x are on 16, F42x and F43x are on 18!" alt="" coords="156,5,327,31"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32F4xx Analog to Digital Converters" alt="" coords="5,5,108,31"/>
+</map>

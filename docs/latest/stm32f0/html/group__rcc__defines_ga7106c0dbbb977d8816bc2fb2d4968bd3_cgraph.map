@@ -1,0 +1,14 @@
+<map id="rcc_clock_setup_in_hse_8mhz_out_48mhz" name="rcc_clock_setup_in_hse_8mhz_out_48mhz">
+<area shape="rect" id="node1" title="Set System Clock PLL at 48MHz from HSE at 8MHz." alt="" coords="5,238,180,279"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga0f76604d23e55a997cef486d8f93c8f7" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="239,5,405,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga9347b16d27d64b79f507dc9cad8633b2" title="Set the Number of Wait States." alt="" coords="269,56,375,83"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#ga81b16ade2e5d6e024f36e3d568a9fd97" title="RCC Turn on an Oscillator." alt="" coords="275,107,369,133"/>
+<area shape="rect" id="node5" href="$group__rcc__file.html#gae192b2cd0f37124db5ed76d599a5671b" title="RCC Set the AHB Prescale Factor." alt="" coords="270,157,374,184"/>
+<area shape="rect" id="node6" href="$group__rcc__file.html#ga93f0715a42904d8c70bc7d1c862cf89f" title="RCC Set the PLL Multiplication Factor." alt="" coords="228,209,416,250"/>
+<area shape="rect" id="node7" href="$group__rcc__file.html#ga2f2bd45ad9c8b32e0fe5affe9bf181bf" title="RCC Set the PLL Clock Source." alt="" coords="251,275,393,301"/>
+<area shape="rect" id="node8" href="$group__rcc__file.html#gae307406af5f22597be382a3eecc7b54b" title="RCC Set the HSE Frequency Divider used as PLL Clock Source." alt="" coords="259,325,385,352"/>
+<area shape="rect" id="node9" href="$group__rcc__file.html#ga05a5e2fab5bb6e8de484b83588a29bee" title="RCC Set the APB Prescale Factor." alt="" coords="270,376,374,403"/>
+<area shape="rect" id="node10" href="$group__rcc__file.html#ga0ce4f6c68587faf17a38d98fdcdab338" title="RCC Set the Source for the System Clock." alt="" coords="239,427,405,453"/>
+<area shape="rect" id="node11" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="235,477,409,504"/>
+<area shape="rect" id="node12" href="$group__rcc__file.html#ga2706213ae449214826f797ac93c51d52" title="Is the given oscillator ready?" alt="" coords="464,477,596,504"/>
+</map>

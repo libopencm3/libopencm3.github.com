@@ -1,0 +1,4 @@
+<map id="CR ADC control register" name="CR ADC control register">
+<area shape="rect" id="node1" title=" " alt="" coords="156,5,331,31"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32G4xx Analog to Digital converter" alt="" coords="5,5,108,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ADC Sampling Time" name="ADC Sampling Time">
+<area shape="rect" id="node1" title=" " alt="" coords="156,5,308,31"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32STM32G0xx Analog to Digital Converter" alt="" coords="5,5,108,31"/>
+</map>

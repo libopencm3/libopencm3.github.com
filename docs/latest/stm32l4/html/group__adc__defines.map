@@ -1,0 +1,16 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series." alt="" coords="5,337,156,362"/>
+<area shape="rect" id="node7" title="Defined Constants and Types for the STM32L4xx Analog to Digital Converter" alt="" coords="204,337,307,362"/>
+<area shape="rect" id="node2" href="$group__adc__ccr.html" title=" " alt="" coords="355,5,585,45"/>
+<area shape="rect" id="node3" href="$group__adc__cfgr1.html" title=" " alt="" coords="377,69,563,109"/>
+<area shape="rect" id="node4" href="$group__adc__cfgr2.html" title=" " alt="" coords="377,133,563,173"/>
+<area shape="rect" id="node5" href="$group__adc__channel.html" title=" " alt="" coords="385,198,555,223"/>
+<area shape="rect" id="node6" href="$group__adc__cr.html" title=" " alt="" coords="383,247,557,273"/>
+<area shape="rect" id="node8" href="$group__adc__ier.html" title=" " alt="" coords="379,297,561,337"/>
+<area shape="rect" id="node9" href="$group__adc__isr.html" title=" " alt="" coords="381,361,559,401"/>
+<area shape="rect" id="node10" href="$group__adc__reg__base.html" title=" " alt="" coords="365,426,575,451"/>
+<area shape="rect" id="node11" href="$group__adc__registers.html" title=" " alt="" coords="415,475,525,501"/>
+<area shape="rect" id="node12" href="$group__adc__sample.html" title=" " alt="" coords="368,525,572,565"/>
+<area shape="rect" id="node13" href="$group__adc__smpr.html" title=" " alt="" coords="381,589,559,629"/>
+<area shape="rect" id="node14" href="$group__adc__tr1.html" title=" " alt="" coords="365,653,575,693"/>
+</map>

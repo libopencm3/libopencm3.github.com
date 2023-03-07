@@ -1,0 +1,14 @@
+<map id="CM3 Defines" name="CM3 Defines">
+<area shape="rect" id="node1" href="$group__CM3__cortex__defines.html" title="libopencm3 Defined Constants and Types for the Cortex Core" alt="" coords="178,5,330,31"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for Cortex M3 core features." alt="" coords="5,275,109,300"/>
+<area shape="rect" id="node3" href="$group__CM3__mpu__defines.html" title="libopencm3 Cortex Memory Protection Unit" alt="" coords="169,55,339,80"/>
+<area shape="rect" id="node4" href="$group__CM3__nvic__defines.html" title="libopencm3 Cortex Nested Vectored Interrupt Controller" alt="" coords="169,104,339,129"/>
+<area shape="rect" id="node5" href="$group__CM3__systick__defines.html" title="libopencm3 Defined Constants and Types for the Cortex SysTick" alt="" coords="159,153,349,179"/>
+<area shape="rect" id="node6" href="$group__cm__dwt.html" title="System Control Space (SCS) =&gt; Data Watchpoint and Trace (DWT)." alt="" coords="173,203,335,243"/>
+<area shape="rect" id="node7" href="$group__cm__fpb.html" title=" " alt="" coords="157,267,351,307"/>
+<area shape="rect" id="node8" href="$group__cm__itm.html" title=" " alt="" coords="159,331,349,371"/>
+<area shape="rect" id="node9" href="$group__cm__scb.html" title="The System Control Block is a section of the System Control Space." alt="" coords="161,395,347,435"/>
+<area shape="rect" id="node10" href="$group__cm__scs.html" title="The System Control Space (SCS) is a memory&#45;mapped 4KB address space that provides 32&#45;bit registers fo..." alt="" coords="161,459,347,499"/>
+<area shape="rect" id="node11" href="$group__cm__tpiu.html" title=" " alt="" coords="175,523,333,563"/>
+<area shape="rect" id="node12" href="$group__debugging.html" title="Macros and functions to aid in debugging." alt="" coords="208,588,300,613"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="fdcan_dlc_to_length" name="fdcan_dlc_to_length">
+<area shape="rect" id="node1" title="Converts DLC value into frame payload length." alt="" coords="653,56,805,83"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gaadf44bf8c869482440f0805d11f99476" title="Returns actual size of FIFO entry in FIFO for given CAN port and FIFO." alt="" coords="391,5,599,32"/>
+<area shape="rect" id="node4" href="$group__fdcan__file.html#ga6be35ed6bbbcb40afeda8ceb178a6583" title="Receive Message from FDCAN FIFO." alt="" coords="9,31,122,57"/>
+<area shape="rect" id="node5" href="$group__fdcan__file.html#gaf61aace89b3ea31afd3614922ff591ca" title="Returns actual size of transmit entry in transmit queue/FIFO for given CAN port." alt="" coords="384,107,605,133"/>
+<area shape="rect" id="node3" href="$fdcan__common_8c.html#a2b46020363086daba8210d09578a2a44" title="Returns a pointer to an RX FIFO element in message RAM." alt="" coords="173,5,336,32"/>
+<area shape="rect" id="node6" href="$fdcan__common_8c.html#a05a659efa6aa776cb798376333674338" title="Returns a pointer to an TX FIFO element in message RAM." alt="" coords="173,107,336,133"/>
+<area shape="rect" id="node7" href="$group__fdcan__file.html#gae1d9e017700d67ce1438f5a1b48be86c" title="Transmit Message using FDCAN." alt="" coords="5,107,125,133"/>
+</map>

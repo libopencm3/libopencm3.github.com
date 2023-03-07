@@ -1,0 +1,4 @@
+<map id="uart_disable_rx_interrupt" name="uart_disable_rx_interrupt">
+<area shape="rect" id="node1" title="Disable the UART Receive Interrupt." alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node2" href="$group__uart__irq.html#ga2fdf35d91a90e2452368b0358d942f93" title="Enable Specific UART Interrupts." alt="" coords="239,5,411,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="usbd_ep_write_packet" name="usbd_ep_write_packet">
+<area shape="rect" id="node1" title="Write a packet." alt="" coords="791,101,957,128"/>
+<area shape="rect" id="node2" href="$usb__control_8c.html#a1a921e8785fafeee17c588aa26cff014" title=" " alt="" coords="142,12,282,38"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#a41a8c24958254f6628787f0a97befc1c" title="Handle the USB &#39;OUT&#39; requests." alt="" coords="589,50,715,77"/>
+<area shape="rect" id="node7" href="$usb__msc_8c.html#a88700274691bf361f44a0e3b5703ec9f" title="Handle the USB &#39;IN&#39; requests." alt="" coords="589,101,715,128"/>
+<area shape="rect" id="node8" href="$group__usb__control__file.html#ga46375610ee21a2c8ab4a06fe3bd70291" title=" " alt="" coords="561,152,743,178"/>
+<area shape="rect" id="node10" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title=" " alt="" coords="337,189,513,216"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga53f14b18823b0b215f9674dfeedaf8be" title="Main initialization entry point." alt="" coords="5,138,87,165"/>
+<area shape="rect" id="node5" href="$usb__msc_8c.html#a226667566a4c9460bc577aa9c72a14b6" title="Setup the endpoints to be bulk &amp; register the callbacks." alt="" coords="364,76,487,102"/>
+<area shape="rect" id="node6" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="159,76,265,102"/>
+<area shape="rect" id="node9" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title=" " alt="" coords="360,138,491,165"/>
+<area shape="rect" id="node11" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title=" " alt="" coords="135,189,289,216"/>
+</map>

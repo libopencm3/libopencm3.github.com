@@ -1,0 +1,4 @@
+<map id="can_filter_id_list_32bit_init" name="can_filter_id_list_32bit_init">
+<area shape="rect" id="node1" title="CAN Initialize a 32bit Message ID List Filter." alt="" coords="5,5,133,47"/>
+<area shape="rect" id="node2" href="$group__can__defines.html#ga211d4cb8feb1ebd9ba7d5ff27f8614e1" title="CAN Filter Init." alt="" coords="181,13,292,39"/>
+</map>

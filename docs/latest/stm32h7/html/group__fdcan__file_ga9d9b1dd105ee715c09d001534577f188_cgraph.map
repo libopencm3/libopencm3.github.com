@@ -1,0 +1,4 @@
+<map id="fdcan_set_tx_element_size" name="fdcan_set_tx_element_size">
+<area shape="rect" id="node1" title="Initialize size of data fields in transmit buffers." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$fdcan__common_8c.html#af34ae07006b3a1e1b418e09f2b5f4792" title="Converts frame length to DLC value." alt="" coords="252,5,404,32"/>
+</map>

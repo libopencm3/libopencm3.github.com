@@ -1,0 +1,20 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/usb/midi.h:1: warning: group usb_audio_defines: ignoring title "USB MIDI Type Definitions" that does not match old title "USB Audio Type Definitions"
+
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:212: warning: unable to resolve reference to 'adc_api_res' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:235: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:407: warning: unable to resolve reference to 'rcc_ccpipr_lptim1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:419: warning: unable to resolve reference to 'rcc_ccpipr_lpuart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:396: warning: unable to resolve reference to 'rcc_icscr_msirange' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:356: warning: unable to resolve reference to 'rcc_cfgr_apb1pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:371: warning: unable to resolve reference to 'rcc_cfgr_apb2pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:430: warning: unable to resolve reference to 'rcc_ccpipr_usart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:441: warning: unable to resolve reference to 'rcc_ccpipr_usartxsel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:235: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:407: warning: unable to resolve reference to 'rcc_ccpipr_lptim1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:419: warning: unable to resolve reference to 'rcc_ccpipr_lpuart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:396: warning: unable to resolve reference to 'rcc_icscr_msirange' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:356: warning: unable to resolve reference to 'rcc_cfgr_apb1pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:371: warning: unable to resolve reference to 'rcc_cfgr_apb2pre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:430: warning: unable to resolve reference to 'rcc_ccpipr_usart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:441: warning: unable to resolve reference to 'rcc_ccpipr_usartxsel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:212: warning: unable to resolve reference to 'adc_api_res' for \ref command

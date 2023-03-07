@@ -1,0 +1,13 @@
+<map id="RCC Registers" name="RCC Registers">
+<area shape="rect" id="node1" href="$group__rcc__bdcr__values.html" title="Backup Domain control register values." alt="" coords="343,5,483,31"/>
+<area shape="rect" id="node2" href="$group__rcc__cfgr__values.html" title="Clock Configuration register values." alt="" coords="343,55,482,80"/>
+<area shape="rect" id="node3" href="$group__rcc__cir__values.html" title="Clock Interrupt register values." alt="" coords="350,104,475,129"/>
+<area shape="rect" id="node4" href="$group__rcc__ckgatenr__values.html" title="Allows to enable or disable the clock gating for the specified IPs." alt="" coords="335,153,490,179"/>
+<area shape="rect" id="node5" href="$group__rcc__cr__values.html" title="Clock Control register values." alt="" coords="352,203,473,228"/>
+<area shape="rect" id="node6" href="$group__rcc__csr__values.html" title="Clock control and status register values." alt="" coords="348,252,477,277"/>
+<area shape="rect" id="node7" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="5,203,108,228"/>
+<area shape="rect" id="node10" title="Reset / Clock Control Registers." alt="" coords="156,203,271,228"/>
+<area shape="rect" id="node8" href="$group__rcc__pllcfgr__values.html" title="PLL Configuration register values." alt="" coords="332,301,493,327"/>
+<area shape="rect" id="node9" href="$group__rcc__pllded__values.html" title="PLL and other dedicated clock register values." alt="" coords="319,351,507,376"/>
+<area shape="rect" id="node11" href="$group__rcc__sscgr__values.html" title="Spread spectrum clock generation register values." alt="" coords="339,400,486,425"/>
+</map>

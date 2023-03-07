@@ -1,0 +1,4 @@
+<map id="UART Parity Selection" name="UART Parity Selection">
+<area shape="rect" id="node1" title=" " alt="" coords="200,13,363,38"/>
+<area shape="rect" id="node2" href="$group__uart__reg__base.html" title=" " alt="" coords="5,5,152,45"/>
+</map>

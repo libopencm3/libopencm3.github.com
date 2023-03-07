@@ -1,0 +1,10 @@
+<map id="flash_clear_status_flags" name="flash_clear_status_flags">
+<area shape="rect" id="node1" title="Clear All Status Flags." alt="" coords="5,153,144,194"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="423,160,579,187"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga824b51d54d30e1ab5e3c47f4bc8b3031" title="Clear the End of OPeration flag." alt="" coords="206,43,361,70"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#gaf47d7e8bd53d4ac625b221c00a9023c5" title="Clear the End of Operation Status Flag, upper Bank." alt="" coords="206,94,361,136"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#ga8b028c13f819606dfb542931cc87c22e" title="Unlock the Flash Program and Erase Controller." alt="" coords="201,160,365,187"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#ga747583805875c2008de75d23f9eaf410" title="Clear the Programming Error Status Flag, upper Bank." alt="" coords="201,212,365,253"/>
+<area shape="rect" id="node7" href="$group__flash__file.html#ga9c1b3869d9a031db08c634e7f8a396bb" title="Clear the Write Protect Error Status Flag." alt="" coords="192,278,375,304"/>
+<area shape="rect" id="node8" href="$group__flash__file.html#ga00228368638689988b5cdb9a7b24a142" title="Clear the Write Protect Error Status Flag, upper Bank." alt="" coords="208,329,359,370"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Alternate Function Pin Selection" name="Alternate Function Pin Selection">
+<area shape="rect" id="node1" title=" " alt="" coords="160,5,301,45"/>
+<area shape="rect" id="node2" href="$group__gpio__defines.html" title="Defined Constants and Types for the STM32L4xx General Purpose I/O" alt="" coords="5,13,112,38"/>
+</map>

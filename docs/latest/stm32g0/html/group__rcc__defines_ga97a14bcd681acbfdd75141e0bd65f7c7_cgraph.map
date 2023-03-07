@@ -1,0 +1,19 @@
+<map id="rcc_clock_setup" name="rcc_clock_setup">
+<area shape="rect" id="node1" title="Setup sysclock with desired source (HSE/HSI/PLL/LSE/LSI)." alt="" coords="5,385,131,412"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga1b35f387b1aa45b20bccc40456cb33fc" title="Note carefully the clock restrictions under which the prefetch buffer may be set to disabled." alt="" coords="185,5,353,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga0f76604d23e55a997cef486d8f93c8f7" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="187,56,352,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga9347b16d27d64b79f507dc9cad8633b2" title="Set the Number of Wait States." alt="" coords="217,107,322,133"/>
+<area shape="rect" id="node5" href="$group__pwr__file.html#ga5c20c3e54554d82e05cf53cc02fba118" title="Setup voltage scaling range." alt="" coords="197,157,341,184"/>
+<area shape="rect" id="node6" href="$group__rcc__file.html#ga0aa258ac09581312545b0138b694fdbb" title="Enable PLL R clock output." alt="" coords="209,208,329,235"/>
+<area shape="rect" id="node7" href="$group__rcc__file.html#ga2706213ae449214826f797ac93c51d52" title="Is the given oscillator ready?" alt="" coords="408,487,540,513"/>
+<area shape="rect" id="node8" href="$group__rcc__file.html#ga89d079556639549018fbd8d66cf5fc20" title=" " alt="" coords="222,309,317,336"/>
+<area shape="rect" id="node9" href="$group__rcc__file.html#ga81b16ade2e5d6e024f36e3d568a9fd97" title=" " alt="" coords="223,360,316,387"/>
+<area shape="rect" id="node10" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="179,411,360,437"/>
+<area shape="rect" id="node11" href="$group__rcc__file.html#gae192b2cd0f37124db5ed76d599a5671b" title="Configure AHB peripheral clock prescaler." alt="" coords="217,461,321,488"/>
+<area shape="rect" id="node12" href="$group__rcc__file.html#ga410efa93b0d73a995d5a09c0d4a7e8a7" title="Configure HSI16 clock division factor to feed SYSCLK." alt="" coords="198,512,341,539"/>
+<area shape="rect" id="node13" href="$group__rcc__file.html#ga20ecbc8607f58a3d8b3647724261a738" title="Configure pll source and output frequencies." alt="" coords="204,563,335,589"/>
+<area shape="rect" id="node14" href="$group__rcc__file.html#ga05a5e2fab5bb6e8de484b83588a29bee" title="Configure APB peripheral clock prescaler." alt="" coords="217,613,321,640"/>
+<area shape="rect" id="node15" href="$group__rcc__file.html#gafd82204202c577cffe2a434c730bf375" title="Set the Source for the System Clock." alt="" coords="186,664,353,691"/>
+<area shape="rect" id="node16" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="182,715,357,741"/>
+<area shape="rect" id="node17" href="$group__rcc__file.html#gaa768e6d3787b02f6dc93c8392b879ef7" title="Wait until system clock switched to given oscillator." alt="" coords="195,766,344,807"/>
+</map>

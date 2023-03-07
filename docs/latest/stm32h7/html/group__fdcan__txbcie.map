@@ -1,0 +1,4 @@
+<map id="FDCAN_TXBCIE Transmit cancelled interrupt enable bits" name="FDCAN_TXBCIE Transmit cancelled interrupt enable bits">
+<area shape="rect" id="node1" href="$group__fdcan__defines.html" title=" " alt="" coords="5,20,127,45"/>
+<area shape="rect" id="node2" title="Each bit enables or disables transmit cancelled interrupt for transmit buffer slot." alt="" coords="175,5,357,60"/>
+</map>

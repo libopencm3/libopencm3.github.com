@@ -1,0 +1,4 @@
+<map id="fdcan_get_txbuf_addr" name="fdcan_get_txbuf_addr">
+<area shape="rect" id="node1" title="Returns a pointer to an TX FIFO element in message RAM." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gaf61aace89b3ea31afd3614922ff591ca" title="Returns actual size of transmit entry in transmit queue/FIFO for given CAN port." alt="" coords="216,5,437,32"/>
+</map>

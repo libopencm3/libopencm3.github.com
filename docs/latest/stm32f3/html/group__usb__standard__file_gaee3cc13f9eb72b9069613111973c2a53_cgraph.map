@@ -1,0 +1,4 @@
+<map id="usb_standard_endpoint_stall" name="usb_standard_endpoint_stall">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$group__usb__drivers__file.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="227,13,365,39"/>
+</map>

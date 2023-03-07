@@ -1,0 +1,6 @@
+<map id="SMPR ADC sample time register" name="SMPR ADC sample time register">
+<area shape="rect" id="node1" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32STM32G0xx Analog to Digital Converter" alt="" coords="5,42,108,67"/>
+<area shape="rect" id="node2" title=" " alt="" coords="156,35,333,75"/>
+<area shape="rect" id="node3" href="$group__adc__smpr__smp.html" title=" " alt="" coords="381,5,584,45"/>
+<area shape="rect" id="node4" href="$group__adc__smpr__smpsel.html" title=" " alt="" coords="381,70,584,95"/>
+</map>

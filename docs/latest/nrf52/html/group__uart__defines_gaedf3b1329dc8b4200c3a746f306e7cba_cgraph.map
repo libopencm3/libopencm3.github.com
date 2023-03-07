@@ -1,0 +1,5 @@
+<map id="uart_configure" name="uart_configure">
+<area shape="rect" id="node1" title="Configure UART parameters in single call." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$group__uart__file.html#ga5b158248635b01dc88a1349b06cfb0f7" title=" " alt="" coords="168,5,308,32"/>
+<area shape="rect" id="node3" href="$group__uart__file.html#ga2e7cb01ba31fcdac45decc791e5c6d38" title="Select GPIO pins to be used by this peripheral." alt="" coords="183,56,293,83"/>
+</map>

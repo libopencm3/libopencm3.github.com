@@ -1,0 +1,9 @@
+<map id="DMA Defines" name="DMA Defines">
+<area shape="rect" id="node1" href="$group__STM32G4xx__defines.html" title="Defined Constants and Types for the STM32G4xx series." alt="" coords="5,127,159,152"/>
+<area shape="rect" id="node6" title="Defined Constants and Types for the STM32G4xx DMA Controller" alt="" coords="207,127,313,152"/>
+<area shape="rect" id="node2" href="$group__dma__ch.html" title=" " alt="" coords="377,5,544,31"/>
+<area shape="rect" id="node3" href="$group__dma__ch__memwidth.html" title=" " alt="" coords="377,55,545,95"/>
+<area shape="rect" id="node4" href="$group__dma__ch__perwidth.html" title=" " alt="" coords="371,119,551,159"/>
+<area shape="rect" id="node5" href="$group__dma__ch__pri.html" title=" " alt="" coords="380,183,541,223"/>
+<area shape="rect" id="node7" href="$group__dma__if__offset.html" title="group." alt="" coords="361,247,560,287"/>
+</map>

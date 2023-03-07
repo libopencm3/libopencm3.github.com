@@ -1,0 +1,6 @@
+<map id="UART Defines" name="UART Defines">
+<area shape="rect" id="node1" href="$group__NRF52xx__defines.html" title="Defined Constants and Types for the NRF52xx series." alt="" coords="5,31,140,56"/>
+<area shape="rect" id="node3" title="Defined Constants and Types for the NRF52xx UART" alt="" coords="188,31,299,56"/>
+<area shape="rect" id="node2" href="$group__uart__block.html" title=" " alt="" coords="374,5,490,31"/>
+<area shape="rect" id="node4" href="$group__uart__inten.html" title=" " alt="" coords="347,55,517,80"/>
+</map>

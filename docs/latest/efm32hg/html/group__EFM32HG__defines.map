@@ -1,0 +1,8 @@
+<map id="EFM32 Happy Gecko Defines" name="EFM32 Happy Gecko Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the Energy Micro EFM32 Happy Gecko series." alt="" coords="5,104,215,129"/>
+<area shape="rect" id="node2" href="$group__cmu__defines.html" title="Defined Constants and Types for the EFM32HG Clock Management Unit" alt="" coords="269,5,375,31"/>
+<area shape="rect" id="node3" href="$group__gpio__defines.html" title="Defined Constants and Types for the EFM32HG GPIO module" alt="" coords="269,55,375,80"/>
+<area shape="rect" id="node4" href="$group__timer__defines.html" title="Defined Constants and Types for the TIMER module" alt="" coords="264,104,380,129"/>
+<area shape="rect" id="node5" href="$group__usb__defines.html" title="Defined Constants and Types for the USB module" alt="" coords="271,153,373,179"/>
+<area shape="rect" id="node6" href="$group__wdog__defines.html" title="Defined Constants and Types for the Watchdog module" alt="" coords="263,203,381,228"/>
+</map>

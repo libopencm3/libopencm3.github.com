@@ -1,0 +1,4 @@
+<map id="rcc_periph_reset_pulse" name="rcc_periph_reset_pulse">
+<area shape="rect" id="node1" title="Reset Peripheral, pulsed." alt="" coords="139,5,309,32"/>
+<area shape="rect" id="node2" href="$group__can__defines.html#ga982c6bcef7634ffc3faf17c58ff4229e" title="CAN Reset." alt="" coords="5,5,91,32"/>
+</map>

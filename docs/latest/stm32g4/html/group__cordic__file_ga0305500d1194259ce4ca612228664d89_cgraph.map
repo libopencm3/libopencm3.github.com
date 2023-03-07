@@ -1,0 +1,13 @@
+<map id="cordic_sin_32bit" name="cordic_sin_32bit">
+<area shape="rect" id="node1" title="Compute 32 bit sine using CORDIC (blocking)" alt="" coords="5,247,132,274"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga8f93e0d5ace65d429e4bf2dc15151d70" title="Configure cordic for 32 bit sine." alt="" coords="194,156,347,197"/>
+<area shape="rect" id="node9" href="$group__cordic__file.html#ga51acd49c953eb99187bb2f89c2a1b1cf" title="Read CORDIC result ready flag." alt="" coords="187,222,354,249"/>
+<area shape="rect" id="node10" href="$group__cordic__file.html#gafcecfe50a38e6500a2d6c8cab702af24" title="Read 32 bit result." alt="" coords="180,273,361,299"/>
+<area shape="rect" id="node11" href="$group__cordic__file.html#ga86522bdb73d686e4f5e78c2c1f358763" title="Write single 32 bit argument." alt="" coords="200,324,341,365"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#gad3add667f6dd45da9b70fd34d3ff5eeb" title="Set CORDIC to 32 bit argument data width." alt="" coords="417,5,576,47"/>
+<area shape="rect" id="node4" href="$group__cordic__file.html#ga93a3764d7f3519462cbc7d668241bde5" title="Set CORDIC operation type." alt="" coords="423,71,571,98"/>
+<area shape="rect" id="node5" href="$group__cordic__file.html#gad443074bc041cc09b72a41535a2969e2" title="Set number of CORDIC arguments to one 32 bit argument or two 16 bit arguments." alt="" coords="414,123,579,164"/>
+<area shape="rect" id="node6" href="$group__cordic__file.html#ga5339d07ba1a7f0376285b8eaeadaaffa" title="Set number of CORDIC results to one 32 bit result or two 16 bit results." alt="" coords="414,188,579,229"/>
+<area shape="rect" id="node7" href="$group__cordic__file.html#ga44a0db2ada98e529498708ed820051e3" title="Set precision for CORDIC operations." alt="" coords="419,254,574,281"/>
+<area shape="rect" id="node8" href="$group__cordic__file.html#gae076ff07ca3e93614fb07d7e44dfb0be" title="Set CORDIC to 32 bit result data width." alt="" coords="409,305,584,347"/>
+</map>

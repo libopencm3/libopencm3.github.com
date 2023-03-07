@@ -1,0 +1,5 @@
+<map id="usb_audio_format_type1_descriptor_1freq" name="usb_audio_format_type1_descriptor_1freq">
+<area shape="rect" id="node1" title=" " alt="" coords="289,39,472,80"/>
+<area shape="rect" id="node2" href="$structusb__audio__format__type1__descriptor__head.html" title=" " alt="" coords="13,5,196,47"/>
+<area shape="rect" id="node3" href="$structusb__audio__format__discrete__sampling__frequency.html" title=" " alt="" coords="5,71,204,112"/>
+</map>

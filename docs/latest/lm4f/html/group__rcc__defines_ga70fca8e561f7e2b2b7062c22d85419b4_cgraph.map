@@ -1,0 +1,7 @@
+<map id="rcc_change_pll_divisor" name="rcc_change_pll_divisor">
+<area shape="rect" id="node1" title="Change the PLL divisor." alt="" coords="5,81,175,108"/>
+<area shape="rect" id="node2" href="$group__rcc__low__level.html#gabbbe68ef690e48ae19d4ff04e69cc9c3" title="Disable the PLL bypass and use the PLL clock." alt="" coords="223,5,393,32"/>
+<area shape="rect" id="node3" href="$group__rcc__low__level.html#ga269054cc63981ae593e6820de2fe76b1" title="Enable the PLL bypass and use the oscillator clock." alt="" coords="224,56,392,83"/>
+<area shape="rect" id="node4" href="$group__rcc__low__level.html#ga104041e1468a0fc62d6c584a25859053" title="Set the PLL clock divisor (from 400MHz)" alt="" coords="237,107,379,133"/>
+<area shape="rect" id="node5" href="$group__rcc__low__level.html#ga0f5f3bea5dbfde10760a9cd775951a51" title="Wait for main PLL to lock." alt="" coords="224,157,392,184"/>
+</map>

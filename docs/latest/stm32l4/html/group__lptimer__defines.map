@@ -1,0 +1,10 @@
+<map id="LPTIM Defines" name="LPTIM Defines">
+<area shape="rect" id="node1" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series." alt="" coords="5,159,156,185"/>
+<area shape="rect" id="node8" title="libopencm3 Defined Constants and Types for the STM32L4xx Low Power Timer" alt="" coords="204,159,319,185"/>
+<area shape="rect" id="node2" href="$group__lptim__cfgr.html" title=" " alt="" coords="367,5,561,45"/>
+<area shape="rect" id="node3" href="$group__lptim__cr.html" title=" " alt="" coords="367,70,561,95"/>
+<area shape="rect" id="node4" href="$group__lptim__icr.html" title=" " alt="" coords="389,120,539,160"/>
+<area shape="rect" id="node5" href="$group__lptim__ier.html" title=" " alt="" coords="389,184,539,224"/>
+<area shape="rect" id="node6" href="$group__lptim__isr.html" title=" " alt="" coords="387,248,541,288"/>
+<area shape="rect" id="node7" href="$group__lptim__reg__base.html" title=" " alt="" coords="370,312,558,352"/>
+</map>

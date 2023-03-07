@@ -1,0 +1,4 @@
+<map id="rcc_enable_main_osc" name="rcc_enable_main_osc">
+<area shape="rect" id="node1" title="Enable the main oscillator." alt="" coords="188,5,349,32"/>
+<area shape="rect" id="node2" href="$group__rcc__high__level.html#ga94e682bdf26bde662afb76403acdd227" title="Configure the system clock source." alt="" coords="5,5,140,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RCC_ICSCR definitions" name="RCC_ICSCR definitions">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32L1xx Reset and Clock Control" alt="" coords="5,5,108,31"/>
+<area shape="rect" id="node2" title="Internal clock sources calibration register." alt="" coords="156,5,323,31"/>
+<area shape="rect" id="node3" href="$group__rcc__icscr__msirange.html" title=" " alt="" coords="371,5,469,31"/>
+</map>

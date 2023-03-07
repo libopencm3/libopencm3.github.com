@@ -1,0 +1,4 @@
+<map id="fdcan_get_txbuf_addr" name="fdcan_get_txbuf_addr">
+<area shape="rect" id="node1" title="Returns a pointer to an TX FIFO element in message RAM." alt="" coords="173,5,336,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gae1d9e017700d67ce1438f5a1b48be86c" title="Transmit Message using FDCAN." alt="" coords="5,5,125,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="stm32f207_usbd_init" name="stm32f207_usbd_init">
+<area shape="rect" id="node1" title="Initialize the USB device controller hardware of the STM32." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="212,5,393,32"/>
+</map>

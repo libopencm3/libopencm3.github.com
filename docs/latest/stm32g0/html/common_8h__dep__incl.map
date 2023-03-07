@@ -1,0 +1,52 @@
+<map id="common.h" name="common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2177,5,2267,32"/>
+<area shape="rect" id="node2" href="$adc_8h.html" title=" " alt="" coords="227,80,284,107"/>
+<area shape="rect" id="node5" href="$assert_8h.html" title=" " alt="" coords="111,80,186,107"/>
+<area shape="rect" id="node8" href="$crc_8h.html" title=" " alt="" coords="1021,80,1074,107"/>
+<area shape="rect" id="node10" href="$dac_8h.html" title=" " alt="" coords="1225,80,1283,107"/>
+<area shape="rect" id="node13" href="$desig_8h.html" title=" " alt="" coords="1571,80,1641,107"/>
+<area shape="rect" id="node16" href="$dma_8h.html" title=" " alt="" coords="1791,80,1853,107"/>
+<area shape="rect" id="node18" href="$dmamux_8h.html" title=" " alt="" coords="1905,80,1997,107"/>
+<area shape="rect" id="node20" href="$dwt_8h.html" title=" " alt="" coords="2022,80,2081,107"/>
+<area shape="rect" id="node22" href="$exti_8h.html" title=" " alt="" coords="2193,80,2251,107"/>
+<area shape="rect" id="node25" href="$flash_8h.html" title=" " alt="" coords="535,80,600,107"/>
+<area shape="rect" id="node28" href="$flash__common__all_8h.html" title=" " alt="" coords="2275,80,2427,107"/>
+<area shape="rect" id="node30" href="$gpio_8h.html" title=" " alt="" coords="2105,80,2168,107"/>
+<area shape="rect" id="node33" href="$i2c_8h.html" title=" " alt="" coords="939,80,993,107"/>
+<area shape="rect" id="node35" href="$iwdg_8h.html" title=" " alt="" coords="2452,80,2517,107"/>
+<area shape="rect" id="node37" href="$lptimer_8h.html" title=" " alt="" coords="2542,80,2622,107"/>
+<area shape="rect" id="node39" href="$mpu_8h.html" title=" " alt="" coords="2647,80,2709,107"/>
+<area shape="rect" id="node40" href="$cm3_2nvic_8h.html" title=" " alt="" coords="2734,80,2795,107"/>
+<area shape="rect" id="node41" href="$vector_8h.html" title="Definitions for handling vector tables." alt="" coords="3263,155,3338,181"/>
+<area shape="rect" id="node42" href="$pwr_8h.html" title=" " alt="" coords="368,80,425,107"/>
+<area shape="rect" id="node43" href="$rcc_8h.html" title=" " alt="" coords="733,80,786,107"/>
+<area shape="rect" id="node44" href="$rng_8h.html" title=" " alt="" coords="2871,80,2925,107"/>
+<area shape="rect" id="node45" href="$scb_8h.html" title=" " alt="" coords="2950,80,3006,107"/>
+<area shape="rect" id="node46" href="$spi_8h.html" title=" " alt="" coords="3030,80,3083,107"/>
+<area shape="rect" id="node47" href="$sync_8h.html" title=" " alt="" coords="3107,80,3171,107"/>
+<area shape="rect" id="node48" href="$systick_8h.html" title=" " alt="" coords="3195,80,3275,107"/>
+<area shape="rect" id="node49" href="$timer_8h.html" title=" " alt="" coords="3300,80,3368,107"/>
+<area shape="rect" id="node50" href="$usart_8h.html" title=" " alt="" coords="3393,80,3459,107"/>
+<area shape="rect" id="node3" href="$adc_8c.html" title=" " alt="" coords="103,155,159,181"/>
+<area shape="rect" id="node4" href="$adc__common__v2_8c.html" title=" " alt="" coords="184,155,327,181"/>
+<area shape="rect" id="node6" href="$assert_8c.html" title=" " alt="" coords="5,155,79,181"/>
+<area shape="rect" id="node7" href="$rcc_8c.html" title=" " alt="" coords="351,155,403,181"/>
+<area shape="rect" id="node9" href="$crc__common__all_8c.html" title=" " alt="" coords="853,155,991,181"/>
+<area shape="rect" id="node11" href="$dac__common__all_8c.html" title=" " alt="" coords="1183,155,1325,181"/>
+<area shape="rect" id="node12" href="$dac__common__v1_8c.html" title=" " alt="" coords="1016,155,1159,181"/>
+<area shape="rect" id="node14" href="$desig__common__all_8c.html" title=" " alt="" coords="1529,155,1683,181"/>
+<area shape="rect" id="node15" href="$desig__common__v1_8c.html" title=" " alt="" coords="1350,155,1505,181"/>
+<area shape="rect" id="node17" href="$dma__common__l1f013_8c.html" title=" " alt="" coords="1708,155,1883,181"/>
+<area shape="rect" id="node19" href="$dmamux_8c.html" title=" " alt="" coords="1907,155,1998,181"/>
+<area shape="rect" id="node21" href="$dwt_8c.html" title=" " alt="" coords="2023,155,2080,181"/>
+<area shape="rect" id="node23" href="$exti__common__all_8c.html" title=" " alt="" coords="2469,155,2615,181"/>
+<area shape="rect" id="node24" href="$exti__common__v2_8c.html" title=" " alt="" coords="2639,155,2784,181"/>
+<area shape="rect" id="node26" href="$flash_8c.html" title=" " alt="" coords="602,155,666,181"/>
+<area shape="rect" id="node27" href="$flash__common__all_8c.html" title=" " alt="" coords="427,155,577,181"/>
+<area shape="rect" id="node29" href="$g0_2flash_8h.html" title=" " alt="" coords="2808,155,2873,181"/>
+<area shape="rect" id="node31" href="$gpio__common__all_8c.html" title=" " alt="" coords="2297,155,2445,181"/>
+<area shape="rect" id="node32" href="$gpio__common__f0234_8c.html" title=" " alt="" coords="2104,155,2273,181"/>
+<area shape="rect" id="node34" href="$i2c__common__v2_8c.html" title=" " alt="" coords="690,155,829,181"/>
+<area shape="rect" id="node36" href="$iwdg__common__all_8c.html" title=" " alt="" coords="2897,155,3048,181"/>
+<area shape="rect" id="node38" href="$lptimer__common__all_8c.html" title=" " alt="" coords="3072,155,3239,181"/>
+</map>

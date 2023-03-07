@@ -1,0 +1,4 @@
+<map id="RCC_CFGR APBx prescale factors" name="RCC_CFGR APBx prescale factors">
+<area shape="rect" id="node1" title="These can be used for both APB1 and APB2 prescaling." alt="" coords="156,5,345,45"/>
+<area shape="rect" id="node2" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F2xx Reset and Clock Control" alt="" coords="5,13,108,38"/>
+</map>

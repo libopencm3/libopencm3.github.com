@@ -1,0 +1,4 @@
+<map id="API (for F42xx or F43xx only)" name="API (for F42xx or F43xx only)">
+<area shape="rect" id="node1" title="API for the CRYP controller." alt="" coords="180,5,355,45"/>
+<area shape="rect" id="node2" href="$group__crypto__defines.html" title="Defined constants and Types for the STM32F4xx Crypto Coprocessor" alt="" coords="5,13,132,38"/>
+</map>

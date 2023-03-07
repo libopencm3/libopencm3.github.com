@@ -1,0 +1,5 @@
+<map id="ACR Access control register" name="ACR Access control register">
+<area shape="rect" id="node1" title=" " alt="" coords="172,5,319,45"/>
+<area shape="rect" id="node3" href="$group__flash__latency.html" title="Flash memory access latency." alt="" coords="367,13,509,38"/>
+<area shape="rect" id="node2" href="$group__flash__defines.html" title="Defined Constants and Types for the STM32G0xx Flash Control" alt="" coords="5,13,124,38"/>
+</map>

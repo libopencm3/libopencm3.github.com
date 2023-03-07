@@ -1,0 +1,4 @@
+<map id="dma_desc_set_dest_address" name="dma_desc_set_dest_address">
+<area shape="rect" id="node1" title="Assign Destination address to DMA Channel." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node2" href="$group__dma__file.html#ga5c416af01cddc349edd094cc93eef946" title="Calculate end from start address." alt="" coords="261,5,452,32"/>
+</map>

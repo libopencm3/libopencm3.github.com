@@ -1,0 +1,12 @@
+<map id="power.h" name="power.h">
+<area shape="rect" id="node1" title=" " alt="" coords="67,5,141,32"/>
+<area shape="rect" id="node2" href="$common_8h.html" title=" " alt="" coords="68,251,271,278"/>
+<area shape="rect" id="node5" href="$nrf_2memorymap_8h.html" title=" " alt="" coords="29,169,249,196"/>
+<area shape="rect" id="node6" href="$periph_8h.html" title=" " alt="" coords="79,87,257,114"/>
+<area shape="rect" id="node7" href="$common_2periph_8h.html" title=" " alt="" coords="281,80,463,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="83,333,154,360"/>
+<area shape="rect" id="node4" title=" " alt="" coords="179,333,261,360"/>
+<area shape="rect" id="node8" href="$cm3_2nvic_8h.html" title=" " alt="" coords="324,169,497,196"/>
+<area shape="rect" id="node9" href="$cm3_2memorymap_8h.html" title=" " alt="" coords="295,251,526,278"/>
+<area shape="rect" id="node10" href="$dispatch_2nvic_8h.html" title=" " alt="" coords="551,244,708,285"/>
+</map>

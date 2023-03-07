@@ -1,0 +1,4 @@
+<map id="fdcan_init" name="fdcan_init">
+<area shape="rect" id="node1" title="Put FDCAN block into INIT mode for setup." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node2" href="$fdcan__common_8c.html#a212ca4857dbdd95a74f78c47b98c8380" title="Routine implementing FDCAN_CCCR&#39;s INIT bit manipulation." alt="" coords="140,5,287,32"/>
+</map>

@@ -1,0 +1,25 @@
+var rmu__common_8h =
+[
+    [ "RMU_CMD", "group__rmu__defines.html#ga24e7d8aa33c54f8a62bd1ce8fad1fd94", null ],
+    [ "RMU_CMD_RCCLR", "group__rmu__defines.html#ga701a3d0c2e1757732c4c7f262b8c51fc", null ],
+    [ "RMU_CTRL", "group__rmu__defines.html#gaf14a0a82ef8bb4a6b6d661867201b2a3", null ],
+    [ "RMU_CTRL_BURSTEN", "group__rmu__defines.html#ga3d003f3d94c84c8299c0f7e86bdbe3a1", null ],
+    [ "RMU_CTRL_LOCKUPRDIS", "group__rmu__defines.html#gaa86ae0b8b4d144f7f6e7d0ebb9f68d3f", null ],
+    [ "RMU_RSTCAUSE", "group__rmu__defines.html#gab733a9eda78a747417cd11f4dc607201", null ],
+    [ "RMU_RSTCAUSE_BODAVDD0", "group__rmu__defines.html#gad356329469e29b26fe41f15d3971f6a4", null ],
+    [ "RMU_RSTCAUSE_BODAVDD1", "group__rmu__defines.html#gaa561c930f2832c1964da2d282ca3c4d4", null ],
+    [ "RMU_RSTCAUSE_BODREGRST", "group__rmu__defines.html#ga728070653bc3a83d08f76e7e0045d6bb", null ],
+    [ "RMU_RSTCAUSE_BODUNREGRST", "group__rmu__defines.html#ga40b78f48b005f75c823a2743d59dc224", null ],
+    [ "RMU_RSTCAUSE_BUBODBUVIN", "group__rmu__defines.html#gae906a989bc07b97ea7d7e931dcaa03a2", null ],
+    [ "RMU_RSTCAUSE_BUBODREG", "group__rmu__defines.html#ga176942acea7100f257c23dcc178efaad", null ],
+    [ "RMU_RSTCAUSE_BUBODUNREG", "group__rmu__defines.html#ga0beb1087a2132e9f7f973fa92d195786", null ],
+    [ "RMU_RSTCAUSE_BUBODVDDDREG", "group__rmu__defines.html#ga463121dc3bb8f483e900149551ee9c92", null ],
+    [ "RMU_RSTCAUSE_BUMODERST", "group__rmu__defines.html#ga7f87bc158b63b1fee6c7828deca3e50d", null ],
+    [ "RMU_RSTCAUSE_EM4RST", "group__rmu__defines.html#gacb406861c24ee7e522f2ea1506b07876", null ],
+    [ "RMU_RSTCAUSE_EM4WURST", "group__rmu__defines.html#ga9a3fd2eb50c3d06830c4141151bb203d", null ],
+    [ "RMU_RSTCAUSE_EXTRST", "group__rmu__defines.html#ga3e7ba6f7a92071345b78d766d57c0708", null ],
+    [ "RMU_RSTCAUSE_LOCKUPRST", "group__rmu__defines.html#gad0464d12ea21cf28feeffaa7ef78da64", null ],
+    [ "RMU_RSTCAUSE_PORST", "group__rmu__defines.html#ga02737189e4df32d79f11f96b62aab44f", null ],
+    [ "RMU_RSTCAUSE_SYSREQRST", "group__rmu__defines.html#gaf9c128b107d56a104a067cc93bff771e", null ],
+    [ "RMU_RSTCAUSE_WDOGRST", "group__rmu__defines.html#gae7e0205a750945f1f17a7b10cc4b3bd7", null ]
+];

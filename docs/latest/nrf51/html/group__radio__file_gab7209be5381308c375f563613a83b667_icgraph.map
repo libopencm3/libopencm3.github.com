@@ -1,0 +1,4 @@
+<map id="radio_set_lsbfirst" name="radio_set_lsbfirst">
+<area shape="rect" id="node1" title="Set bit transmission order to LSB first." alt="" coords="203,5,336,32"/>
+<area shape="rect" id="node2" href="$group__radio__file.html#ga18409fc60c3069c786e225a481ae7c87" title="Configure the radio to be used in BLE mode." alt="" coords="5,5,155,32"/>
+</map>

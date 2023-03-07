@@ -1,0 +1,6 @@
+<map id="i2c_send_start" name="i2c_send_start">
+<area shape="rect" id="node1" title="I2C Send Start Condition." alt="" coords="320,31,436,57"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#gab3a820010b66581dea135b37cc908d54" title=" " alt="" coords="162,5,270,32"/>
+<area shape="rect" id="node4" href="$group__i2c__file.html#ga2ccabc4376ce4b4ee33fcbc4eb80a499" title=" " alt="" coords="160,56,272,83"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#gaf3d168765388b62e0a798fc9aedc8291" title="Run a write/read transaction to a given 7bit i2c address If both write &amp; read are provided,..." alt="" coords="5,31,112,57"/>
+</map>

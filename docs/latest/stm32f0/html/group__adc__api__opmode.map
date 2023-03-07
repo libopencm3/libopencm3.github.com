@@ -1,0 +1,5 @@
+<map id="ADC Operation Modes" name="ADC Operation Modes">
+<area shape="rect" id="node1" title="ADC Result API." alt="" coords="199,31,364,56"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32F0xx Analog to Digital Converter" alt="" coords="27,5,129,31"/>
+<area shape="rect" id="node3" href="$group__adc__file.html" title="based on F3 file" alt="" coords="5,55,151,80"/>
+</map>

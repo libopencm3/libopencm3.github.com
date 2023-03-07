@@ -1,0 +1,4 @@
+<map id="flash_unlock_upper" name="flash_unlock_upper">
+<area shape="rect" id="node1" title="Unlock the Flash Program and Erase Controller, upper Bank." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="200,5,356,32"/>
+</map>

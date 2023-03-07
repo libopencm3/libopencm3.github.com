@@ -1,0 +1,6 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/swm050/clk.h:56: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/swm050/gpio.h:133: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/swm050/memorymap.h:47: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/swm050/syscon.h:58: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/swm050/sysctl.h:59: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/swm050/timer.h:198: warning: end of file while inside a group

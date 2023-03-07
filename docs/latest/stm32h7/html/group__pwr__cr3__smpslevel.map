@@ -1,0 +1,4 @@
+<map id="SMPS step&#45;down converter voltage output level selection" name="SMPS step&#45;down converter voltage output level selection">
+<area shape="rect" id="node1" title="This setting is used when both the LDO and SMPS step&#45;down converter are enabled with SMPSEN and LDOEN..." alt="" coords="159,5,379,45"/>
+<area shape="rect" id="node2" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32H7xx Power Control" alt="" coords="5,13,111,38"/>
+</map>

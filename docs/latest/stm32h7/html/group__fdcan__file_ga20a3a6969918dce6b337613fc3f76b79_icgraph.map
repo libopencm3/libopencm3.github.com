@@ -1,0 +1,4 @@
+<map id="fdcan_set_fifo_locked_mode" name="fdcan_set_fifo_locked_mode">
+<area shape="rect" id="node1" title="Configure FDCAN FIFO lock mode." alt="" coords="168,5,375,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gafdbf35157b3e249f948446d4a7159d36" title="Set essential FDCAN block parameters for plain CAN operation." alt="" coords="5,5,120,32"/>
+</map>

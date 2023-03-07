@@ -1,0 +1,4 @@
+<map id="eth_smi_write" name="eth_smi_write">
+<area shape="rect" id="node1" title="Write 16&#45;bit register to the PHY." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group__ethernet__mac__stm32fxx7__file.html#ga1074f619c53486d36149debc40cac003" title="Process pending SMI transaction and wait to be done." alt="" coords="168,5,303,32"/>
+</map>

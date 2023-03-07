@@ -1,0 +1,4 @@
+<map id="TIMx_CR1 DIR: Direction" name="TIMx_CR1 DIR: Direction">
+<area shape="rect" id="node1" title=" " alt="" coords="167,5,348,31"/>
+<area shape="rect" id="node2" href="$group__timer__defines.html" title="libopencm3 Defined Constants and Types for the STM32L4xx Timers" alt="" coords="5,5,119,31"/>
+</map>

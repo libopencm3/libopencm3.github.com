@@ -1,0 +1,4 @@
+<map id="LPC13xx" name="LPC13xx">
+<area shape="rect" id="node1" title="Libraries for NXP Semiconductors LPC13xx series." alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 LPC13xx General Purpose I/O" alt="" coords="132,5,187,31"/>
+</map>

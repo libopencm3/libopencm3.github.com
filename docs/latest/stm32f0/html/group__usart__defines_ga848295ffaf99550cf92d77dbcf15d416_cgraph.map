@@ -1,0 +1,6 @@
+<map id="usart_set_baudrate" name="usart_set_baudrate">
+<area shape="rect" id="node1" title="USART Set Baudrate." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga3cfb3913707f5712833346ea2e6d4ba2" title="Get the peripheral clock speed for the USART at base specified." alt="" coords="200,5,368,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga29108b5ab6f1ff177090896a6576667f" title=" " alt="" coords="416,5,603,32"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#gafbb1afb9546f939744d71f4bd6f537bf" title="This will return the divisor 1/2/4/8/16/64/128/256/512 which is set as a 4&#45;bit value,..." alt="" coords="651,5,821,32"/>
+</map>

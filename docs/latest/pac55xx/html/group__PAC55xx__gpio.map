@@ -1,0 +1,19 @@
+<map id="GPIO" name="GPIO">
+<area shape="rect" id="node1" href="$group__PAC55xx__defines.html" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,447,137,473"/>
+<area shape="rect" id="node2" title="GPIO definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="185,447,240,473"/>
+<area shape="rect" id="node3" href="$group__gpio__clksync__regs.html" title="GPIO Clock Synchronization Settings." alt="" coords="305,5,477,45"/>
+<area shape="rect" id="node4" href="$group__gpio__doclear__regs.html" title="GPIO Set Register." alt="" coords="304,69,479,109"/>
+<area shape="rect" id="node5" href="$group__gpio__doset__regs.html" title="GPIO Set Register." alt="" coords="313,133,469,173"/>
+<area shape="rect" id="node6" href="$group__gpio__in__regs.html" title="GPIO Input Register Definitions." alt="" coords="296,198,487,223"/>
+<area shape="rect" id="node7" href="$group__gpio__intcfg__regs.html" title="GPIO Interrupt Config Register Definitions." alt="" coords="311,248,471,288"/>
+<area shape="rect" id="node8" href="$group__gpio__intclear__regs.html" title="GPIO Interrupt Clear Register Definitions." alt="" coords="304,312,479,352"/>
+<area shape="rect" id="node9" href="$group__gpio__intedgeboth__regs.html" title="GPIO Interrupt Edge Both Definitions." alt="" coords="288,376,495,416"/>
+<area shape="rect" id="node10" href="$group__gpio__inten__regs.html" title="GPIO Interrupt Enable Register Definitions." alt="" coords="315,440,467,480"/>
+<area shape="rect" id="node11" href="$group__gpio__intflag__regs.html" title="GPIO Interrupt Flag Register Definitions." alt="" coords="307,504,476,544"/>
+<area shape="rect" id="node12" href="$group__gpio__inttype__regs.html" title="GPIO Interrupt Type Register Definitions." alt="" coords="308,568,475,608"/>
+<area shape="rect" id="node13" href="$group__gpio__mode__regs.html" title="GPIO Mode Register Definitions." alt="" coords="315,632,467,672"/>
+<area shape="rect" id="node14" href="$group__gpio__out__regs.html" title="GPIO Output Register Definitions." alt="" coords="289,697,494,722"/>
+<area shape="rect" id="node15" href="$group__gpio__outmask__regs.html" title="GPIO Output Mask Register Definitions." alt="" coords="302,747,481,787"/>
+<area shape="rect" id="node16" href="$group__gpio__pin__id.html" title="GPIO number definitions (for convenience)" alt="" coords="318,811,465,837"/>
+<area shape="rect" id="node17" href="$group__gpio__port__id.html" title="GPIO port base addresses (for convenience)" alt="" coords="337,861,446,886"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="I2C event &#45;&gt; task shortcuts" name="I2C event &#45;&gt; task shortcuts">
+<area shape="rect" id="node1" href="$group__i2c__defines.html" title="Defined Constants and Types for the NRF52xx I2C" alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node2" title="The effect of activated shortcut is, that upon I2C event triggering, the hardware will automatically ..." alt="" coords="149,5,349,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="crypto_wait_busy" name="crypto_wait_busy">
+<area shape="rect" id="node1" title="Wait, if the Controller is busy." alt="" coords="216,81,352,108"/>
+<area shape="rect" id="node2" href="$group__crypto__file.html#ga937aad66306fa452be50f418a4b4f644" title="Start of encryption or decryption on data buffers." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$group__crypto__file.html#ga132b9deaf901e3c5a5d9c24929a4ded4" title="Set the algorithm for Encryption/decryption." alt="" coords="7,56,167,83"/>
+<area shape="rect" id="node4" href="$group__crypto__file.html#ga5f019038350f381a004c48be478f1268" title="Set Initialization Vector." alt="" coords="32,107,141,133"/>
+<area shape="rect" id="node5" href="$group__crypto__file.html#ga93e0e5b68a320eacc059995c3aa2ffed" title="Set key value to the controller." alt="" coords="27,157,147,184"/>
+</map>

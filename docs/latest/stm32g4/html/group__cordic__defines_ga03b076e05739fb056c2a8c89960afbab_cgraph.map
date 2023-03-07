@@ -1,0 +1,9 @@
+<map id="cordic_configure_for_cos_16bit" name="cordic_configure_for_cos_16bit">
+<area shape="rect" id="node1" title="Configure cordic for 16 bit cosine." alt="" coords="5,156,159,197"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga900de1e47a0fe56e0c7c6be9cde295d0" title="Set CORDIC to 16 bit argument data width." alt="" coords="215,5,373,47"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#ga93a3764d7f3519462cbc7d668241bde5" title="Set CORDIC operation type." alt="" coords="220,71,368,98"/>
+<area shape="rect" id="node4" href="$group__cordic__file.html#gad443074bc041cc09b72a41535a2969e2" title="Set number of CORDIC arguments to one 32 bit argument or two 16 bit arguments." alt="" coords="211,123,377,164"/>
+<area shape="rect" id="node5" href="$group__cordic__file.html#ga5339d07ba1a7f0376285b8eaeadaaffa" title="Set number of CORDIC results to one 32 bit result or two 16 bit results." alt="" coords="211,188,377,229"/>
+<area shape="rect" id="node6" href="$group__cordic__file.html#ga44a0db2ada98e529498708ed820051e3" title="Set precision for CORDIC operations." alt="" coords="217,254,371,281"/>
+<area shape="rect" id="node7" href="$group__cordic__file.html#ga1a4e8d832efc27c0059077a2060798cf" title="Set CORDIC to 16 bit result data width." alt="" coords="207,305,381,347"/>
+</map>

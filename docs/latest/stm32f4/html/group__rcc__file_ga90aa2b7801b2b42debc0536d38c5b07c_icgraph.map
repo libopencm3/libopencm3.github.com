@@ -1,0 +1,7 @@
+<map id="rcc_periph_clock_enable" name="rcc_periph_clock_enable">
+<area shape="rect" id="node1" title="Enable Peripheral Clock in running mode." alt="" coords="447,56,628,83"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Setup clocks to run from PLL." alt="" coords="245,5,393,32"/>
+<area shape="rect" id="node4" href="$usb__f107_8c.html#a1d28133aed4b8b0e1d19705324cbd004" title="Initialize the USB device controller hardware of the STM32." alt="" coords="240,56,399,83"/>
+<area shape="rect" id="node5" href="$usb__f207_8c.html#a68c4ceb309e31e2895e61e4248adc958" title="Initialize the USB device controller hardware of the STM32." alt="" coords="240,107,399,133"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga04fd1ed2bbe9564b636fe3d0b0db2a54" title="Setup clocks with the HSE." alt="" coords="5,5,192,32"/>
+</map>

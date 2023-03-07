@@ -1,0 +1,8 @@
+<map id="rtc_calendar_set_date" name="rtc_calendar_set_date">
+<area shape="rect" id="node1" title="Sets the RTC BCD calendar value." alt="" coords="5,81,171,108"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#gaf759df82d670d7caa3ac5cc4a6d09775" title="Sets the RTC BCD calendar day value." alt="" coords="236,5,396,32"/>
+<area shape="rect" id="node4" href="$group__rtc__file.html#ga4ade8193c4fcafa7446a8496906e6b87" title="Sets the RTC BCD calendar month value." alt="" coords="227,56,405,83"/>
+<area shape="rect" id="node5" href="$group__rtc__file.html#ga0dc1442f39907196b62c0eee7f35b81a" title="Sets the RTC BCD calendar weekday." alt="" coords="219,107,413,133"/>
+<area shape="rect" id="node6" href="$group__rtc__file.html#gaae5a0baeba1d4d0c94c96d07073b11e0" title="Sets the RTC BCD calendar year value." alt="" coords="233,157,399,184"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#gad4fb6cb2a95a57d0e8954d192fb5eb0e" title=" " alt="" coords="461,56,588,83"/>
+</map>

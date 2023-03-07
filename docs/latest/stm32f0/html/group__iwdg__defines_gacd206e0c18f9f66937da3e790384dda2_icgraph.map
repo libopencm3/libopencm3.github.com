@@ -1,0 +1,4 @@
+<map id="iwdg_reset" name="iwdg_reset">
+<area shape="rect" id="node1" title="IWDG reset Watchdog Timer." alt="" coords="208,5,301,32"/>
+<area shape="rect" id="node2" href="$group__iwdg__file.html#ga9fddf4170e5fb9d3b4df309a152e27e5" title="IWDG Set Period in Milliseconds." alt="" coords="5,5,160,32"/>
+</map>

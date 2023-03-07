@@ -1,0 +1,6 @@
+<map id="CRC_CR values" name="CRC_CR values">
+<area shape="rect" id="node1" title=" " alt="" coords="156,31,277,56"/>
+<area shape="rect" id="node3" href="$group__crc__polysize.html" title=" " alt="" coords="345,5,501,31"/>
+<area shape="rect" id="node4" href="$group__crc__rev__in.html" title=" " alt="" coords="325,55,520,80"/>
+<area shape="rect" id="node2" href="$group__crc__defines.html" title="Defined Constants and Types for the STM32L0xx CRC Generator" alt="" coords="5,31,108,56"/>
+</map>

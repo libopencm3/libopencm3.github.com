@@ -1,0 +1,7 @@
+<map id="Cortex Core Peripheral APIs" name="Cortex Core Peripheral APIs">
+<area shape="rect" id="node1" href="$group__CM3__dwt__file.html" title="libopencm3 Cortex&#45;M Data Watchpoint and Trace unit" alt="" coords="264,5,317,31"/>
+<area shape="rect" id="node2" title="APIs for Cortex Core peripherals." alt="" coords="5,80,207,105"/>
+<area shape="rect" id="node3" href="$group__CM3__nvic__file.html" title="libopencm3 Cortex Nested Vectored Interrupt Controller" alt="" coords="263,55,318,80"/>
+<area shape="rect" id="node4" href="$group__CM3__scb__file.html" title="libopencm3 Cortex&#45;M System Control Block" alt="" coords="267,104,315,129"/>
+<area shape="rect" id="node5" href="$group__CM3__systick__file.html" title="libopencm3 Cortex System Tick Timer" alt="" coords="255,153,327,179"/>
+</map>

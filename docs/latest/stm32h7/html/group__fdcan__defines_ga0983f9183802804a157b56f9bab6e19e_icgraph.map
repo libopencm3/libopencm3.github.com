@@ -1,0 +1,4 @@
+<map id="fdcan_init_fifo_ram" name="fdcan_init_fifo_ram">
+<area shape="rect" id="node1" title="Initialize allocation of FIFO block in CAN message RAM." alt="" coords="148,5,295,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#ga24ca46499dbb8dc4b116b390bfe75fd1" title="Enable FDCAN operation after FDCAN block has been set up." alt="" coords="5,5,100,32"/>
+</map>

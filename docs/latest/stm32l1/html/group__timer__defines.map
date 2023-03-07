@@ -1,0 +1,18 @@
+<map id="Timer Defines" name="Timer Defines">
+<area shape="rect" id="node1" href="$group__STM32L1xx__defines.html" title="Defined Constants and Types for the STM32L1xx series." alt="" coords="5,445,156,470"/>
+<area shape="rect" id="node16" title="libopencm3 Defined Constants and Types for the STM32L1xx Timers" alt="" coords="204,445,317,470"/>
+<area shape="rect" id="node2" href="$group__tim2__opt__trigger__remap.html" title=" " alt="" coords="366,5,554,45"/>
+<area shape="rect" id="node3" href="$group__tim3__opt__trigger__remap.html" title=" " alt="" coords="366,69,554,109"/>
+<area shape="rect" id="node4" href="$group__tim__event__gen.html" title=" " alt="" coords="375,133,545,173"/>
+<area shape="rect" id="node5" href="$group__tim__irq__enable.html" title=" " alt="" coords="375,198,545,253"/>
+<area shape="rect" id="node6" href="$group__tim__lock.html" title=" " alt="" coords="373,277,547,317"/>
+<area shape="rect" id="node7" href="$group__tim__mastermode.html" title=" " alt="" coords="373,341,547,381"/>
+<area shape="rect" id="node8" href="$group__tim__reg__base.html" title=" " alt="" coords="385,405,535,445"/>
+<area shape="rect" id="node9" href="$group__tim__sms.html" title=" " alt="" coords="375,469,545,509"/>
+<area shape="rect" id="node10" href="$group__tim__sr__values.html" title=" " alt="" coords="377,533,543,573"/>
+<area shape="rect" id="node11" href="$group__tim__ts.html" title=" " alt="" coords="377,597,543,637"/>
+<area shape="rect" id="node12" href="$group__tim__x__cr1__cdr.html" title=" " alt="" coords="365,661,555,701"/>
+<area shape="rect" id="node13" href="$group__tim__x__cr1__cms.html" title=" " alt="" coords="379,726,541,781"/>
+<area shape="rect" id="node14" href="$group__tim__x__cr1__dir.html" title=" " alt="" coords="369,805,551,830"/>
+<area shape="rect" id="node15" href="$group__tim__x__cr2__ois.html" title=" " alt="" coords="367,854,553,909"/>
+</map>

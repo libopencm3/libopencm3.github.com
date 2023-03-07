@@ -1,0 +1,15 @@
+<map id="DMA Defines" name="DMA Defines">
+<area shape="rect" id="node1" href="$group__STM32F7xx__defines.html" title="Defined Constants and Types for the STM32F7xx series." alt="" coords="5,289,156,315"/>
+<area shape="rect" id="node3" title="Defined Constants and Types for the STM32F7xx DMA Controller." alt="" coords="204,289,311,315"/>
+<area shape="rect" id="node2" href="$group__dma__ch__sel.html" title=" " alt="" coords="381,5,535,31"/>
+<area shape="rect" id="node4" href="$group__dma__fifo__status.html" title=" " alt="" coords="409,55,507,80"/>
+<area shape="rect" id="node5" href="$group__dma__fifo__thresh.html" title=" " alt="" coords="367,104,549,129"/>
+<area shape="rect" id="node6" href="$group__dma__if__offset.html" title=" " alt="" coords="375,153,541,208"/>
+<area shape="rect" id="node7" href="$group__dma__mburst.html" title=" " alt="" coords="359,232,557,257"/>
+<area shape="rect" id="node8" href="$group__dma__pburst.html" title=" " alt="" coords="377,282,539,322"/>
+<area shape="rect" id="node9" href="$group__dma__st__dir.html" title=" " alt="" coords="361,346,555,386"/>
+<area shape="rect" id="node10" href="$group__dma__st__memwidth.html" title=" " alt="" coords="359,410,557,450"/>
+<area shape="rect" id="node11" href="$group__dma__st__number.html" title=" " alt="" coords="378,475,538,500"/>
+<area shape="rect" id="node12" href="$group__dma__st__perwidth.html" title=" " alt="" coords="371,525,545,565"/>
+<area shape="rect" id="node13" href="$group__dma__st__pri.html" title=" " alt="" coords="381,589,535,629"/>
+</map>

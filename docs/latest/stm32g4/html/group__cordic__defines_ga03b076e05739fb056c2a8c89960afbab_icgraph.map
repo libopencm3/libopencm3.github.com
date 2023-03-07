@@ -1,0 +1,5 @@
+<map id="cordic_configure_for_cos_16bit" name="cordic_configure_for_cos_16bit">
+<area shape="rect" id="node1" title="Configure cordic for 16 bit cosine." alt="" coords="228,23,381,65"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga1f0cc4c420775bb5374b6ffbfa8a1498" title="Compute 16 bit cosine using CORDIC (blocking)" alt="" coords="27,5,158,32"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#gade1f90df5d40f0d990c843bdab55b58d" title="Compute 16 bit cosine using CORDIC (non blocking)" alt="" coords="5,56,180,83"/>
+</map>

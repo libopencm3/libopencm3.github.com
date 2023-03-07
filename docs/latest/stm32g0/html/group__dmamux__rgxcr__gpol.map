@@ -1,0 +1,4 @@
+<map id="GPOL Event Polarity" name="GPOL Event Polarity">
+<area shape="rect" id="node1" href="$group__dmamux__rgxcr.html" title=" " alt="" coords="5,5,228,45"/>
+<area shape="rect" id="node2" title="DMA request generator trigger event type selection." alt="" coords="276,13,428,38"/>
+</map>

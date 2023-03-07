@@ -1,0 +1,5 @@
+<map id="CxCR DMA request line multiplexer channel x control register" name="CxCR DMA request line multiplexer channel x control register">
+<area shape="rect" id="node1" title=" " alt="" coords="191,5,364,60"/>
+<area shape="rect" id="node2" href="$group__dmamux__cxcr__spol.html" title="Synchronization event type selector." alt="" coords="412,20,563,45"/>
+<area shape="rect" id="node3" href="$group__dmamux__defines.html" title="Defined Constants and Types for the STM32G0xx DMAMUX DMA request router." alt="" coords="5,20,143,45"/>
+</map>

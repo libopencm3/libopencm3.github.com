@@ -1,0 +1,10 @@
+<map id="LPTIM_CFGR Configuration Register" name="LPTIM_CFGR Configuration Register">
+<area shape="rect" id="node1" href="$group__LPTIM__CFGR__TRIGEN.html" title=" " alt="" coords="429,5,635,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="168,165,363,205"/>
+<area shape="rect" id="node3" href="$group__lptim__cfgr__ckflt.html" title=" " alt="" coords="415,69,649,109"/>
+<area shape="rect" id="node4" href="$group__lptim__cfgr__ckpol.html" title=" " alt="" coords="437,133,627,173"/>
+<area shape="rect" id="node5" href="$group__lptim__cfgr__presc.html" title=" " alt="" coords="437,197,627,237"/>
+<area shape="rect" id="node6" href="$group__lptim__cfgr__trgflt.html" title=" " alt="" coords="411,261,653,301"/>
+<area shape="rect" id="node7" href="$group__lptim__cfgr__trigsel.html" title=" " alt="" coords="451,325,613,365"/>
+<area shape="rect" id="node8" href="$group__lptimer__defines.html" title="libopencm3 Defined Constants and Types for the STM32L0xx Low Power Timer" alt="" coords="5,173,120,198"/>
+</map>

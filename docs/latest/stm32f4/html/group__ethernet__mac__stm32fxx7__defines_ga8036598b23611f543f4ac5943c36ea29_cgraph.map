@@ -1,0 +1,7 @@
+<map id="eth_init" name="eth_init">
+<area shape="rect" id="node1" title="Initialize ethernet." alt="" coords="5,31,76,57"/>
+<area shape="rect" id="node2" href="$group__ethernet__phy__file.html#ga5e4bd1755f78bb061c9c7b941865b25b" title="Reset the PHY." alt="" coords="124,31,211,57"/>
+<area shape="rect" id="node3" href="$group__ethernet__mac__stm32fxx7__file.html#ga7ec34f2f7d95e170c72bbdd37ba217b3" title="Read the 16&#45;bit register from the PHY." alt="" coords="261,5,371,32"/>
+<area shape="rect" id="node5" href="$group__ethernet__mac__stm32fxx7__file.html#ga792615b218f5177655db66776b2ef93f" title="Write 16&#45;bit register to the PHY." alt="" coords="259,56,373,83"/>
+<area shape="rect" id="node4" href="$group__ethernet__mac__stm32fxx7__file.html#ga1074f619c53486d36149debc40cac003" title="Process pending SMI transaction and wait to be done." alt="" coords="421,31,556,57"/>
+</map>

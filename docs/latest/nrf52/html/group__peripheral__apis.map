@@ -1,0 +1,11 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__clock__file.html" title="Access functions for the Clock Controller" alt="" coords="173,5,335,31"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="Access functions for the I/O Controller" alt="" coords="179,55,329,80"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html" title="Access functions for the I2C Controller" alt="" coords="185,104,323,129"/>
+<area shape="rect" id="node4" title="APIs for device peripherals." alt="" coords="5,179,125,204"/>
+<area shape="rect" id="node5" href="$group__ppi__file.html" title="Access functions for the Programmable Peripheral Interconnect" alt="" coords="185,153,323,179"/>
+<area shape="rect" id="node6" href="$group__radio__file.html" title="Access functions for the 2.4 GHz Radio" alt="" coords="175,203,333,228"/>
+<area shape="rect" id="node7" href="$group__rtc__file.html" title="Access functions for the Real Time Counter Controller" alt="" coords="183,252,325,277"/>
+<area shape="rect" id="node8" href="$group__timer__file.html" title="Access functions for the Timer/Counter" alt="" coords="175,301,333,327"/>
+<area shape="rect" id="node9" href="$group__uart__file.html" title="Access functions for the UART controller" alt="" coords="178,351,330,376"/>
+</map>

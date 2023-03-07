@@ -1,0 +1,18 @@
+<map id="rcc_clock_setup_pll" name="rcc_clock_setup_pll">
+<area shape="rect" id="node1" title="RCC Setup PLL and use it as Sysclk source." alt="" coords="5,360,153,387"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga0f76604d23e55a997cef486d8f93c8f7" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="209,5,375,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga9347b16d27d64b79f507dc9cad8633b2" title="Set the Number of Wait States." alt="" coords="239,56,345,83"/>
+<area shape="rect" id="node4" href="$group__pwr__file.html#ga5c20c3e54554d82e05cf53cc02fba118" title=" " alt="" coords="220,107,364,133"/>
+<area shape="rect" id="node5" href="$group__rcc__file.html#ga2706213ae449214826f797ac93c51d52" title="Is the given oscillator ready?" alt="" coords="431,436,563,463"/>
+<area shape="rect" id="node6" href="$group__rcc__file.html#ga89d079556639549018fbd8d66cf5fc20" title=" " alt="" coords="245,208,339,235"/>
+<area shape="rect" id="node7" href="$group__rcc__file.html#ga81b16ade2e5d6e024f36e3d568a9fd97" title=" " alt="" coords="245,259,339,285"/>
+<area shape="rect" id="node8" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="201,309,383,336"/>
+<area shape="rect" id="node9" href="$group__rcc__file.html#gae192b2cd0f37124db5ed76d599a5671b" title="RCC Set the AHB Prescale Factor." alt="" coords="240,360,344,387"/>
+<area shape="rect" id="node10" href="$group__rcc__file.html#ga014d24c75c6cd9615ed517746aa9f3b5" title="RCC Set the PLL Division Factor." alt="" coords="221,411,363,437"/>
+<area shape="rect" id="node11" href="$group__rcc__file.html#gafc17e0dd46387b2ae1e38c69ba5f09be" title="RCC Set the PLL Multiplication Factor." alt="" coords="211,461,373,488"/>
+<area shape="rect" id="node12" href="$group__rcc__file.html#ga2f2bd45ad9c8b32e0fe5affe9bf181bf" title="Set the pll source." alt="" coords="221,512,363,539"/>
+<area shape="rect" id="node13" href="$group__rcc__file.html#gae48ce980c5b0bf1b623145c745b8a8d9" title="RCC Set the APB1 Prescale Factor." alt="" coords="236,563,348,589"/>
+<area shape="rect" id="node14" href="$group__rcc__file.html#gae05ff64cfbc32d60f4225c4daeaf4331" title="RCC Set the APB2 Prescale Factor." alt="" coords="236,613,348,640"/>
+<area shape="rect" id="node15" href="$group__rcc__file.html#gafd82204202c577cffe2a434c730bf375" title="RCC Set the Source for the System Clock." alt="" coords="209,664,375,691"/>
+<area shape="rect" id="node16" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="205,715,379,741"/>
+</map>

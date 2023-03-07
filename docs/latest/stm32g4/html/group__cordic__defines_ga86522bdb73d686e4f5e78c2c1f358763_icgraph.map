@@ -1,0 +1,7 @@
+<map id="cordic_write_32bit_argument" name="cordic_write_32bit_argument">
+<area shape="rect" id="node1" title="Write single 32 bit argument." alt="" coords="228,74,369,115"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga4126e79d103c87f66e0f0cebb092fcd8" title="Compute 32 bit cosine using CORDIC (blocking)" alt="" coords="27,5,158,32"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#ga46cfa478a454f7d6178ec8ac1d831343" title="Compute 32 bit cosine using CORDIC (non blocking)" alt="" coords="5,56,180,83"/>
+<area shape="rect" id="node4" href="$group__cordic__file.html#ga0305500d1194259ce4ca612228664d89" title="Compute 32 bit sine using CORDIC (blocking)" alt="" coords="29,107,156,133"/>
+<area shape="rect" id="node5" href="$group__cordic__file.html#gac8be4b46ac88edcef008b53c032e3e22" title="Compute 32 bit sine using CORDIC (non blocking)" alt="" coords="7,157,179,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rtc_time_set_time" name="rtc_time_set_time">
+<area shape="rect" id="node1" title="Sets the RTC BCD time." alt="" coords="5,56,145,83"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga3027776b7d782e840987403279d9bfb2" title="Sets the RTC BCD time hour value." alt="" coords="202,5,341,32"/>
+<area shape="rect" id="node4" href="$group__rtc__file.html#ga3fad657901df9711bcb39d16901fdae3" title="Sets the RTC BCD time minute value." alt="" coords="193,56,349,83"/>
+<area shape="rect" id="node5" href="$group__rtc__file.html#gac0f235fa982cef46d5ceb720ad3c93c7" title="Sets the RTC BCD time second value." alt="" coords="193,107,349,133"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#gad4fb6cb2a95a57d0e8954d192fb5eb0e" title=" " alt="" coords="397,56,524,83"/>
+</map>

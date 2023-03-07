@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_efm32hg.log
+LAYOUT_FILE				= DoxygenLayout_efm32hg.xml
+GENERATE_TAGFILE		= efm32hg.tag
+ENABLE_PREPROCESSING	= YES

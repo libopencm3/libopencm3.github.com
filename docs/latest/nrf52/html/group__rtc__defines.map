@@ -1,0 +1,5 @@
+<map id="RTC Defines" name="RTC Defines">
+<area shape="rect" id="node1" href="$group__NRF52xx__defines.html" title="Defined Constants and Types for the NRF52xx series." alt="" coords="5,5,140,31"/>
+<area shape="rect" id="node3" title="Defined Constants and Types for the NRF52xx Realtime clock" alt="" coords="188,5,287,31"/>
+<area shape="rect" id="node2" href="$group__rtc__block.html" title=" " alt="" coords="335,5,447,31"/>
+</map>

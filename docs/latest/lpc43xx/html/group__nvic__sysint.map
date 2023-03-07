@@ -1,0 +1,4 @@
+<map id="Cortex M0/M3/M4 System Interrupts" name="Cortex M0/M3/M4 System Interrupts">
+<area shape="rect" id="node1" href="$group__CM3__nvic__defines.html" title="libopencm3 Cortex Nested Vectored Interrupt Controller" alt="" coords="5,13,176,38"/>
+<area shape="rect" id="node2" title="IRQ numbers &#45;3 and &#45;6 to &#45;9 are reserved." alt="" coords="224,5,415,45"/>
+</map>

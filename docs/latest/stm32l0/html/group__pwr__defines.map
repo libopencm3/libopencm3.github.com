@@ -1,0 +1,6 @@
+<map id="PWR Defines" name="PWR Defines">
+<area shape="rect" id="node1" href="$group__STM32L0xx__defines.html" title="Defined Constants and Types for the STM32L0xx series." alt="" coords="5,35,156,60"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the STM32L0xx PWR Control" alt="" coords="204,35,309,60"/>
+<area shape="rect" id="node3" href="$group__pwr__pls.html" title=" " alt="" coords="369,5,517,31"/>
+<area shape="rect" id="node4" href="$group__pwr__vos.html" title=" " alt="" coords="357,55,528,95"/>
+</map>

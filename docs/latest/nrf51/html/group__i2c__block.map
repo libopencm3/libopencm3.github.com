@@ -1,0 +1,4 @@
+<map id="I2C instances" name="I2C instances">
+<area shape="rect" id="node1" title=" " alt="" coords="149,5,259,31"/>
+<area shape="rect" id="node2" href="$group__i2c__defines.html" title="Defined Constants and Types for the NRF51xx I2C" alt="" coords="5,5,101,31"/>
+</map>

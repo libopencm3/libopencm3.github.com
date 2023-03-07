@@ -1,0 +1,5 @@
+<map id="rcc_configure_pll" name="rcc_configure_pll">
+<area shape="rect" id="node1" title=" " alt="" coords="429,5,560,32"/>
+<area shape="rect" id="node2" href="$rcc_8c.html#ae1ea12188acdf5b45eccdf6b3348a1c6" title=" " alt="" coords="201,5,381,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga04d008adc6760dace915290ff884939f" title="Setup the base PLLs and clock domains for the STM32H7." alt="" coords="5,5,153,32"/>
+</map>

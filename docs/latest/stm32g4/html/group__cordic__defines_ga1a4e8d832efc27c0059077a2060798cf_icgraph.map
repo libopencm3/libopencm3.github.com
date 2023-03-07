@@ -1,0 +1,9 @@
+<map id="cordic_set_result_width_16bit" name="cordic_set_result_width_16bit">
+<area shape="rect" id="node1" title="Set CORDIC to 16 bit result data width." alt="" coords="429,75,604,117"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga03b076e05739fb056c2a8c89960afbab" title="Configure cordic for 16 bit cosine." alt="" coords="228,42,381,83"/>
+<area shape="rect" id="node5" href="$group__cordic__file.html#ga10548b368addeb6fea868f197c53c8d2" title="Configure cordic for 16 bit sine." alt="" coords="228,107,381,149"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#ga1f0cc4c420775bb5374b6ffbfa8a1498" title="Compute 16 bit cosine using CORDIC (blocking)" alt="" coords="27,5,158,32"/>
+<area shape="rect" id="node4" href="$group__cordic__file.html#gade1f90df5d40f0d990c843bdab55b58d" title="Compute 16 bit cosine using CORDIC (non blocking)" alt="" coords="5,56,180,83"/>
+<area shape="rect" id="node6" href="$group__cordic__file.html#ga6070c7a3a81c9945be4a7b4f855b1ce7" title="Compute 16 bit sine using CORDIC (blocking)" alt="" coords="29,111,156,137"/>
+<area shape="rect" id="node7" href="$group__cordic__file.html#gaa964a5787c6fac82753b808a40ef992e" title="Compute 16 bit sine using CORDIC (non blocking)" alt="" coords="7,161,179,188"/>
+</map>

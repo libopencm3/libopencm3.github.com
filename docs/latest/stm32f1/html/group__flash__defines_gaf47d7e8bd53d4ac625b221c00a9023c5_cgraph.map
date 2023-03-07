@@ -1,0 +1,4 @@
+<map id="flash_clear_eop_flag_upper" name="flash_clear_eop_flag_upper">
+<area shape="rect" id="node1" title="Clear the End of Operation Status Flag, upper Bank." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="208,13,364,39"/>
+</map>

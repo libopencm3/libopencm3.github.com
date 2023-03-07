@@ -1,0 +1,7 @@
+<map id="_usbd_mass_storage" name="_usbd_mass_storage">
+<area shape="rect" id="node1" title=" " alt="" coords="122,184,281,211"/>
+<area shape="rect" id="node2" href="$structusb__msc__trans.html" title=" " alt="" coords="70,95,189,121"/>
+<area shape="rect" id="node3" href="$structusb__msc__cbw.html" title=" " alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node4" href="$structusb__msc__csw.html" title=" " alt="" coords="142,5,253,32"/>
+<area shape="rect" id="node5" href="$structsbc__sense__info.html" title=" " alt="" coords="213,95,334,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="flash_erase_all_sectors" name="flash_erase_all_sectors">
+<area shape="rect" id="node1" title="Erase All FLASH." alt="" coords="5,35,179,61"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gabe30bb2a8f268a494d3600c0dfc5406d" title="Set the Program Parallelism Size." alt="" coords="227,5,401,32"/>
+<area shape="rect" id="node3" href="$flash__common__f_8h.html#a72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="242,57,386,98"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DAC Defines" name="DAC Defines">
+<area shape="rect" id="node1" href="$group__STM32G0xx__defines.html" title="Defined Constants and Types for the STM32G0xx series." alt="" coords="5,179,159,204"/>
+<area shape="rect" id="node4" title="Defined Constants and Types for the STM32G0xx Digital&#45;to&#45;Analog Converter" alt="" coords="207,179,309,204"/>
+<area shape="rect" id="node2" href="$group__dac__channel__id.html" title=" " alt="" coords="377,5,547,31"/>
+<area shape="rect" id="node3" href="$group__dac__cr__values.html" title=" " alt="" coords="401,55,523,80"/>
+<area shape="rect" id="node5" href="$group__dac__dhrxxx__values.html" title=" " alt="" coords="383,104,541,129"/>
+<area shape="rect" id="node6" href="$group__dac__dorx__values.html" title=" " alt="" coords="391,153,533,179"/>
+<area shape="rect" id="node7" href="$group__dac__reg__base.html" title=" " alt="" coords="357,203,567,228"/>
+<area shape="rect" id="node8" href="$group__dac__registers.html" title=" " alt="" coords="405,252,519,277"/>
+<area shape="rect" id="node9" href="$group__dac__sr__values.html" title=" " alt="" coords="401,301,523,327"/>
+<area shape="rect" id="node10" href="$group__dac__swtrigr__values.html" title=" " alt="" coords="379,351,545,376"/>
+</map>

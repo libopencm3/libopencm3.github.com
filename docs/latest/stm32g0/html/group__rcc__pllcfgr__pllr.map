@@ -1,0 +1,4 @@
+<map id="PLLR" name="PLLR">
+<area shape="rect" id="node1" href="$group__rcc__pllcfgr.html" title=" " alt="" coords="5,5,203,45"/>
+<area shape="rect" id="node2" title="VCO Division factor R for PLLRCLK clock output [2..8]." alt="" coords="251,13,304,38"/>
+</map>

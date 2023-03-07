@@ -1,0 +1,10 @@
+<map id="USART" name="USART">
+<area shape="rect" id="node1" href="$group__PAC55xx__defines.html" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,129,137,155"/>
+<area shape="rect" id="node2" title="USART definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="185,129,252,155"/>
+<area shape="rect" id="node3" href="$group__usart__fcr__bits.html" title=" " alt="" coords="311,5,501,31"/>
+<area shape="rect" id="node4" href="$group__usart__ier__bits.html" title=" " alt="" coords="300,55,512,80"/>
+<area shape="rect" id="node5" href="$group__usart__iir__bits.html" title=" " alt="" coords="315,104,497,129"/>
+<area shape="rect" id="node6" href="$group__usart__lcr__bits.html" title=" " alt="" coords="313,153,499,179"/>
+<area shape="rect" id="node7" href="$group__usart__lsr__bits.html" title=" " alt="" coords="316,203,496,228"/>
+<area shape="rect" id="node8" href="$group__usart__registers.html" title=" " alt="" coords="365,252,447,277"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LM4F" name="LM4F">
+<area shape="rect" id="node1" title="Libraries for TI Stellaris LM4F series." alt="" coords="5,80,63,105"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 LM4F General Purpose I/O" alt="" coords="112,5,167,31"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html" title="libopencm3 LM4F Clock control API" alt="" coords="115,55,164,80"/>
+<area shape="rect" id="node4" href="$group__uart__file.html" title="libopencm3 LM4F Universal Asynchronous Receiver Transmitter" alt="" coords="111,104,168,129"/>
+<area shape="rect" id="node5" href="$group__usb__file.html" title="libopencm3 LM4F Universal Serial Bus controller" alt="" coords="115,153,164,179"/>
+</map>

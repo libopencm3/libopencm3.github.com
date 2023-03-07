@@ -1,0 +1,6 @@
+<map id="RTC control register (RTC_CR) values" name="RTC control register (RTC_CR) values">
+<area shape="rect" id="node1" href="$group__rtc__cr__osel.html" title="These bits are used to select the flag to be routed to AFO_ALARM RTC output." alt="" coords="361,23,524,63"/>
+<area shape="rect" id="node2" title="Note: Bits [31:24] are reserved, and must be kept at reset value." alt="" coords="164,23,313,63"/>
+<area shape="rect" id="node3" href="$group__rtc__defines.html" title="Defined Constants and Types for the STM32L4xx RTC" alt="" coords="11,5,110,31"/>
+<area shape="rect" id="node4" href="$group__rtc__registers.html" title="Real Time Clock registers." alt="" coords="5,55,116,80"/>
+</map>

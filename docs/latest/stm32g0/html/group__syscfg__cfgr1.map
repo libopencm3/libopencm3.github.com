@@ -1,0 +1,6 @@
+<map id="CFGR1 SYSCFG configuration register 1" name="CFGR1 SYSCFG configuration register 1">
+<area shape="rect" id="node1" title=" " alt="" coords="180,23,391,63"/>
+<area shape="rect" id="node2" href="$group__syscfg__cfgr1__ir__mod.html" title="IR Modulation Envelope signal selection." alt="" coords="453,5,523,31"/>
+<area shape="rect" id="node3" href="$group__syscfg__cfgr1__mem__mode.html" title="Memory mapping selection bits." alt="" coords="439,55,537,80"/>
+<area shape="rect" id="node4" href="$group__syscfg__defines.html" title="Defined Constants and Types for the STM32G0xx System Configuration controller" alt="" coords="5,31,132,56"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RCC_APB1RSTR reset values" name="RCC_APB1RSTR reset values">
+<area shape="rect" id="node1" title=" " alt="" coords="156,5,317,45"/>
+<area shape="rect" id="node2" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="5,13,108,38"/>
+</map>

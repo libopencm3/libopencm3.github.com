@@ -1,0 +1,4 @@
+<map id="fdcan_available_tx" name="fdcan_available_tx">
+<area shape="rect" id="node1" title="Check if there is free transmit buffer." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$fdcan__common_8c.html#a2beb314599de4ada79e9d6dd97d7bde8" title="Return ID of next free Tx buffer." alt="" coords="199,5,359,32"/>
+</map>

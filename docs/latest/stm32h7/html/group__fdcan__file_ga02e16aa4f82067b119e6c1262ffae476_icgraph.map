@@ -1,0 +1,4 @@
+<map id="fdcan_set_rx_element_size" name="fdcan_set_rx_element_size">
+<area shape="rect" id="node1" title="Initialize size of data fields in reception buffers." alt="" coords="148,5,347,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#ga24ca46499dbb8dc4b116b390bfe75fd1" title="Enable FDCAN operation after FDCAN block has been set up." alt="" coords="5,5,100,32"/>
+</map>

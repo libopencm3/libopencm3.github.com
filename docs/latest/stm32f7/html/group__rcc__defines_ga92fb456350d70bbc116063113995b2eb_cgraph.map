@@ -1,0 +1,5 @@
+<map id="rcc_get_i2c_clk_freq" name="rcc_get_i2c_clk_freq">
+<area shape="rect" id="node1" title="Get the peripheral clock speed for the I2C device at base specified." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga6eabbbed138e757faea91cbc9640616d" title=" " alt="" coords="208,5,393,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#gafbb1afb9546f939744d71f4bd6f537bf" title="This will return the divisor 1/2/4/8/16/64/128/256/512 which is set as a 4&#45;bit value,..." alt="" coords="441,5,612,32"/>
+</map>

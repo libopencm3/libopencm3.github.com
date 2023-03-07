@@ -1,0 +1,6 @@
+<map id="CFGR1 ADC configuration register 1" name="CFGR1 ADC configuration register 1">
+<area shape="rect" id="node1" title=" " alt="" coords="156,45,343,85"/>
+<area shape="rect" id="node2" href="$group__adc__cfgr1__exten.html" title=" " alt="" coords="391,5,605,60"/>
+<area shape="rect" id="node3" href="$group__adc__cfgr1__res.html" title=" " alt="" coords="421,84,575,109"/>
+<area shape="rect" id="node4" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32L0xx Analog to Digital Converter" alt="" coords="5,52,108,77"/>
+</map>

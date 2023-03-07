@@ -1,0 +1,11 @@
+<map id="rcc_clock_setup_in_hsi48_out_48mhz" name="rcc_clock_setup_in_hsi48_out_48mhz">
+<area shape="rect" id="node1" title="Set System Clock HSI48 at 48MHz." alt="" coords="5,150,149,191"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga0f76604d23e55a997cef486d8f93c8f7" title="This buffer is used for instruction fetches and may or may not be enabled by default,..." alt="" coords="202,5,367,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga9347b16d27d64b79f507dc9cad8633b2" title="Set the Number of Wait States." alt="" coords="232,56,337,83"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#ga81b16ade2e5d6e024f36e3d568a9fd97" title="RCC Turn on an Oscillator." alt="" coords="238,107,331,133"/>
+<area shape="rect" id="node5" href="$group__rcc__file.html#gae192b2cd0f37124db5ed76d599a5671b" title="RCC Set the AHB Prescale Factor." alt="" coords="233,157,337,184"/>
+<area shape="rect" id="node6" href="$group__rcc__file.html#ga05a5e2fab5bb6e8de484b83588a29bee" title="RCC Set the APB Prescale Factor." alt="" coords="233,208,337,235"/>
+<area shape="rect" id="node7" href="$group__rcc__file.html#ga0ce4f6c68587faf17a38d98fdcdab338" title="RCC Set the Source for the System Clock." alt="" coords="201,259,368,285"/>
+<area shape="rect" id="node8" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready." alt="" coords="197,309,372,336"/>
+<area shape="rect" id="node9" href="$group__rcc__file.html#ga2706213ae449214826f797ac93c51d52" title="Is the given oscillator ready?" alt="" coords="420,309,552,336"/>
+</map>

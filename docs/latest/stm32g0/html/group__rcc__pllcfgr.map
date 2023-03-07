@@ -1,0 +1,10 @@
+<map id="PLLCFGR PLL Configuration Register" name="PLLCFGR PLL Configuration Register">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32G0xx Reset and Clock Control" alt="" coords="5,129,108,155"/>
+<area shape="rect" id="node2" title=" " alt="" coords="156,122,353,162"/>
+<area shape="rect" id="node3" href="$group__rcc__pllcfgr__pllm.html" title="Division factor M [1..8] for PLL input clock." alt="" coords="409,5,465,31"/>
+<area shape="rect" id="node4" href="$group__rcc__pllcfgr__plln.html" title="Multiplication factor N [8..86] for PLL VCO output frequency." alt="" coords="409,55,464,80"/>
+<area shape="rect" id="node5" href="$group__rcc__pllcfgr__pllp.html" title="VCO Division factor P for PLLPCLK clock output [2..32]." alt="" coords="411,104,463,129"/>
+<area shape="rect" id="node6" href="$group__rcc__pllcfgr__pllq.html" title="VCO Division factor Q for PLLQCLK clock output [2..8]." alt="" coords="409,153,464,179"/>
+<area shape="rect" id="node7" href="$group__rcc__pllcfgr__pllr.html" title="VCO Division factor R for PLLRCLK clock output [2..8]." alt="" coords="410,203,463,228"/>
+<area shape="rect" id="node8" href="$group__rcc__pllcfgr__pllsrc.html" title="PLL input clock source." alt="" coords="401,252,472,277"/>
+</map>

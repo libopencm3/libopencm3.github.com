@@ -1,0 +1,7 @@
+<map id="GPIO Defines" name="GPIO Defines">
+<area shape="rect" id="node1" href="$group__SWM050__defines.html" title="Defined Constants and Types for the SWM050 series." alt="" coords="5,55,137,80"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the SWM050 General Purpose I/O" alt="" coords="185,55,292,80"/>
+<area shape="rect" id="node3" href="$group__gpio__dir.html" title=" " alt="" coords="343,5,484,31"/>
+<area shape="rect" id="node4" href="$group__gpio__pin__id.html" title=" " alt="" coords="340,55,487,80"/>
+<area shape="rect" id="node5" href="$group__gpio__pol.html" title=" " alt="" coords="359,104,467,129"/>
+</map>

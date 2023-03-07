@@ -1,0 +1,16 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node1" title=" " alt="" coords="231,5,350,32"/>
+<area shape="rect" id="node2" href="$clk_8h.html" title=" " alt="" coords="5,80,59,107"/>
+<area shape="rect" id="node4" href="$gpio_8h.html" title=" " alt="" coords="539,80,602,107"/>
+<area shape="rect" id="node7" href="$pwr_8h.html" title=" " alt="" coords="83,80,141,107"/>
+<area shape="rect" id="node9" href="$syscon_8h.html" title=" " alt="" coords="437,80,515,107"/>
+<area shape="rect" id="node11" href="$sysctl_8h.html" title=" " alt="" coords="165,80,237,107"/>
+<area shape="rect" id="node13" href="$timer_8h.html" title=" " alt="" coords="345,80,413,107"/>
+<area shape="rect" id="node14" href="$wdt_8h.html" title=" " alt="" coords="261,80,320,107"/>
+<area shape="rect" id="node3" href="$clk_8c.html" title=" " alt="" coords="11,155,63,181"/>
+<area shape="rect" id="node5" href="$gpio_8c.html" title=" " alt="" coords="540,155,601,181"/>
+<area shape="rect" id="node6" href="$syscon_8c.html" title=" " alt="" coords="437,155,515,181"/>
+<area shape="rect" id="node8" href="$pwr_8c.html" title=" " alt="" coords="88,155,144,181"/>
+<area shape="rect" id="node10" href="$timer_8c.html" title=" " alt="" coords="345,155,412,181"/>
+<area shape="rect" id="node12" href="$wdt_8c.html" title=" " alt="" coords="217,155,274,181"/>
+</map>

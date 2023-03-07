@@ -1,0 +1,6 @@
+<map id="rcc_uart_i2c_clksel_freq_hz" name="rcc_uart_i2c_clksel_freq_hz">
+<area shape="rect" id="node1" title=" " alt="" coords="416,23,561,65"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga92fb456350d70bbc116063113995b2eb" title="Get the peripheral clock speed for the I2C device at base specified." alt="" coords="207,5,361,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga3cfb3913707f5712833346ea2e6d4ba2" title="Get the peripheral clock speed for the USART at base specified." alt="" coords="200,56,368,83"/>
+<area shape="rect" id="node4" href="$group__usart__file.html#ga848295ffaf99550cf92d77dbcf15d416" title="USART Set Baudrate." alt="" coords="5,56,152,83"/>
+</map>

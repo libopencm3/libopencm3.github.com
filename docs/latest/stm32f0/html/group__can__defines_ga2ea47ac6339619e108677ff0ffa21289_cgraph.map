@@ -1,0 +1,4 @@
+<map id="can_receive" name="can_receive">
+<area shape="rect" id="node1" title="CAN Receive Message." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$group__can__defines.html#gad1b6769a49797106d1d724c057086954" title="CAN Release FIFO." alt="" coords="153,5,281,32"/>
+</map>

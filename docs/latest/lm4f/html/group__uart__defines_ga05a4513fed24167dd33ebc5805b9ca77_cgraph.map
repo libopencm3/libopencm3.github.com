@@ -1,0 +1,4 @@
+<map id="uart_set_baudrate" name="uart_set_baudrate">
+<area shape="rect" id="node1" title="Set UART baudrate." alt="" coords="5,13,145,39"/>
+<area shape="rect" id="node2" href="$group__rcc__high__level.html#ga14ed842866228082443acad62da172f4" title="Get the system clock frequency." alt="" coords="193,5,359,47"/>
+</map>

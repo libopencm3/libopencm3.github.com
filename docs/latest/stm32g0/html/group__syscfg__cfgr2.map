@@ -1,0 +1,4 @@
+<map id="CFGR2 SYSCFG configuration register 2" name="CFGR2 SYSCFG configuration register 2">
+<area shape="rect" id="node1" title=" " alt="" coords="180,5,391,45"/>
+<area shape="rect" id="node2" href="$group__syscfg__defines.html" title="Defined Constants and Types for the STM32G0xx System Configuration controller" alt="" coords="5,13,132,38"/>
+</map>

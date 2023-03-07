@@ -1,0 +1,7 @@
+<map id="Peripheral Memory Map" name="Peripheral Memory Map">
+<area shape="rect" id="node1" href="$group__PAC55xx__defines.html" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,55,137,80"/>
+<area shape="rect" id="node3" title=" " alt="" coords="185,55,364,80"/>
+<area shape="rect" id="node2" href="$group__address__memory.html" title=" " alt="" coords="445,5,613,31"/>
+<area shape="rect" id="node4" href="$group__peripheral__addresses.html" title=" " alt="" coords="421,55,637,80"/>
+<area shape="rect" id="node5" href="$group__system__peripheral__addresses.html" title=" " alt="" coords="412,104,647,129"/>
+</map>

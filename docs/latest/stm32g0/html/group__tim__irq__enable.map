@@ -1,0 +1,4 @@
+<map id="TIMx_DIER Timer DMA and Interrupt Enable Values" name="TIMx_DIER Timer DMA and Interrupt Enable Values">
+<area shape="rect" id="node1" title=" " alt="" coords="167,5,336,60"/>
+<area shape="rect" id="node2" href="$group__timer__defines.html" title="Defined Constants and Types for the STM32G0xx Timers" alt="" coords="5,20,119,45"/>
+</map>

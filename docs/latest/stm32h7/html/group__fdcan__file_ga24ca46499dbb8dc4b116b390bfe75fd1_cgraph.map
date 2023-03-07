@@ -1,0 +1,10 @@
+<map id="fdcan_start" name="fdcan_start">
+<area shape="rect" id="node1" title="Enable FDCAN operation after FDCAN block has been set up." alt="" coords="5,132,100,159"/>
+<area shape="rect" id="node2" href="$fdcan__common_8c.html#a212ca4857dbdd95a74f78c47b98c8380" title="Routine implementing FDCAN_CCCR&#39;s INIT bit manipulation." alt="" coords="174,5,321,32"/>
+<area shape="rect" id="node3" href="$group__fdcan__file.html#ga0983f9183802804a157b56f9bab6e19e" title="Initialize allocation of FIFO block in CAN message RAM." alt="" coords="174,56,321,83"/>
+<area shape="rect" id="node4" href="$group__fdcan__file.html#ga85878e033913a5901cf7b87adb142b05" title="Initialize allocation of transmit queue block in CAN message RAM." alt="" coords="155,107,339,133"/>
+<area shape="rect" id="node5" href="$group__fdcan__file.html#ga004764aec240d40e03773129c6d8b734" title="Initialize allocation of transmit event block in CAN message RAM." alt="" coords="156,157,339,184"/>
+<area shape="rect" id="node6" href="$group__fdcan__file.html#ga02e16aa4f82067b119e6c1262ffae476" title="Initialize size of data fields in reception buffers." alt="" coords="148,208,347,235"/>
+<area shape="rect" id="node8" href="$group__fdcan__file.html#ga9d9b1dd105ee715c09d001534577f188" title="Initialize size of data fields in transmit buffers." alt="" coords="148,259,347,285"/>
+<area shape="rect" id="node7" href="$fdcan__common_8c.html#af34ae07006b3a1e1b418e09f2b5f4792" title="Converts frame length to DLC value." alt="" coords="395,233,547,260"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtc_calendar_set_month" name="rtc_calendar_set_month">
+<area shape="rect" id="node1" title="Sets the RTC BCD calendar month value." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#gad4fb6cb2a95a57d0e8954d192fb5eb0e" title=" " alt="" coords="232,5,359,32"/>
+</map>

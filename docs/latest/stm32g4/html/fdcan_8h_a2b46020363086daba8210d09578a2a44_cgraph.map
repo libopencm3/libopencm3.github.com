@@ -1,0 +1,4 @@
+<map id="fdcan_get_rxfifo_addr" name="fdcan_get_rxfifo_addr">
+<area shape="rect" id="node1" title="Returns a pointer to an RX FIFO element in message RAM." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gaadf44bf8c869482440f0805d11f99476" title="Returns actual size of FIFO entry in FIFO for given CAN port and FIFO." alt="" coords="216,5,424,32"/>
+</map>

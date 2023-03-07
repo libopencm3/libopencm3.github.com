@@ -1,0 +1,4 @@
+<map id="flash_clear_wrprterr_flag_upper" name="flash_clear_wrprterr_flag_upper">
+<area shape="rect" id="node1" title="Clear the Write Protect Error Status Flag, upper Bank." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="204,13,360,39"/>
+</map>

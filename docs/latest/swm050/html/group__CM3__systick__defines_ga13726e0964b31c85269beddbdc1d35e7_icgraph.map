@@ -1,0 +1,4 @@
+<map id="systick_set_clocksource" name="systick_set_clocksource">
+<area shape="rect" id="node1" title="Set the SysTick Clock Source." alt="" coords="220,5,399,32"/>
+<area shape="rect" id="node2" href="$group__CM3__systick__file.html#ga7986a46de67e6396e366316f1c9e2437" title="SysTick Set clock and frequency of overflow." alt="" coords="5,5,172,32"/>
+</map>

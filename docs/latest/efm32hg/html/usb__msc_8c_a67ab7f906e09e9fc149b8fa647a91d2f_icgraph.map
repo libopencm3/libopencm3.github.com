@@ -1,0 +1,8 @@
+<map id="scsi_write_10" name="scsi_write_10">
+<area shape="rect" id="node1" title=" " alt="" coords="672,31,783,57"/>
+<area shape="rect" id="node2" href="$usb__msc_8c.html#ad834e80e08a1fc52cb6c2a7e4c60e7c4" title=" " alt="" coords="505,31,624,57"/>
+<area shape="rect" id="node3" href="$usb__msc_8c.html#a41a8c24958254f6628787f0a97befc1c" title="Handle the USB &#39;OUT&#39; requests." alt="" coords="331,5,457,32"/>
+<area shape="rect" id="node6" href="$usb__msc_8c.html#a88700274691bf361f44a0e3b5703ec9f" title="Handle the USB &#39;IN&#39; requests." alt="" coords="331,56,457,83"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#a226667566a4c9460bc577aa9c72a14b6" title="Setup the endpoints to be bulk &amp; register the callbacks." alt="" coords="160,31,283,57"/>
+<area shape="rect" id="node5" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="5,31,112,57"/>
+</map>

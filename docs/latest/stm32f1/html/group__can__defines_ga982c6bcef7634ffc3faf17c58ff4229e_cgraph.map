@@ -1,0 +1,4 @@
+<map id="can_reset" name="can_reset">
+<area shape="rect" id="node1" title="CAN Reset." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#gae8846a0bf49a46bcdc10a412bc69ee58" title="Reset Peripheral, pulsed." alt="" coords="139,5,309,32"/>
+</map>

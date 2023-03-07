@@ -1,0 +1,4 @@
+<map id="UART DMA control" name="UART DMA control">
+<area shape="rect" id="node1" title="Enabling Direct Memory Access transfers for the UART" alt="" coords="111,5,252,31"/>
+<area shape="rect" id="node2" href="$group__uart__file.html" title="libopencm3 LM4F Universal Asynchronous Receiver Transmitter" alt="" coords="5,5,63,31"/>
+</map>

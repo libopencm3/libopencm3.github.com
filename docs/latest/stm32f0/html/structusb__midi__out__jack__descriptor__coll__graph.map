@@ -1,0 +1,6 @@
+<map id="usb_midi_out_jack_descriptor" name="usb_midi_out_jack_descriptor">
+<area shape="rect" id="node1" title=" " alt="" coords="356,56,571,83"/>
+<area shape="rect" id="node2" href="$structusb__midi__out__jack__descriptor__head.html" title=" " alt="" coords="5,5,260,32"/>
+<area shape="rect" id="node3" href="$structusb__midi__out__jack__descriptor__body.html" title=" " alt="" coords="5,56,260,83"/>
+<area shape="rect" id="node4" href="$structusb__midi__out__jack__descriptor__tail.html" title=" " alt="" coords="11,107,254,133"/>
+</map>

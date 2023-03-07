@@ -1,0 +1,8 @@
+<map id="OPTR Flash option register" name="OPTR Flash option register">
+<area shape="rect" id="node1" href="$group__flash__defines.html" title="Defined Constants and Types for the STM32G0xx Flash Control" alt="" coords="5,80,124,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="172,80,367,105"/>
+<area shape="rect" id="node3" href="$group__flash__optr__borf__lev.html" title="These bits contain the VDD supply level threshold that activates the reset." alt="" coords="422,5,509,31"/>
+<area shape="rect" id="node4" href="$group__flash__optr__borr__lev.html" title="These bits contain the VDD supply level threshold that releases the reset." alt="" coords="422,55,509,80"/>
+<area shape="rect" id="node5" href="$group__flash__optr__nrst__mode.html" title="NRST_MODE." alt="" coords="415,104,516,129"/>
+<area shape="rect" id="node6" href="$group__flash__optr__rdp.html" title="Read protection level." alt="" coords="441,153,490,179"/>
+</map>

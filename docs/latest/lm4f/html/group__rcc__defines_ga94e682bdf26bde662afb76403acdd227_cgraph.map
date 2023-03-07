@@ -1,0 +1,14 @@
+<map id="rcc_sysclk_config" name="rcc_sysclk_config">
+<area shape="rect" id="node1" title="Configure the system clock source." alt="" coords="5,183,140,209"/>
+<area shape="rect" id="node2" href="$group__rcc__high__level.html#ga1c5a8dbbc0a6bac380b0041962075269" title="Change the PLL divisor." alt="" coords="188,56,357,83"/>
+<area shape="rect" id="node4" href="$group__rcc__low__level.html#ga269054cc63981ae593e6820de2fe76b1" title="Enable the PLL bypass and use the oscillator clock." alt="" coords="407,5,575,32"/>
+<area shape="rect" id="node7" href="$group__rcc__low__level.html#ga2cd8f194ad903834c78212a0eeb05aa4" title="Configure the crystal type connected to the device." alt="" coords="203,107,343,133"/>
+<area shape="rect" id="node8" href="$group__rcc__low__level.html#gafc653bc7b616053515e1fd4aeb54f972" title="Enable the main oscillator." alt="" coords="192,157,353,184"/>
+<area shape="rect" id="node9" href="$group__rcc__low__level.html#gae166a674c8b6592adea0ff77c1e009e9" title="Enable the use of SYSCTL_RCC2 register for clock control." alt="" coords="209,208,336,235"/>
+<area shape="rect" id="node10" href="$group__rcc__low__level.html#gaf58b85261f65604132b67d3567c2b0c3" title="Power up the main PLL." alt="" coords="229,259,316,285"/>
+<area shape="rect" id="node11" href="$group__rcc__low__level.html#ga6acaa4f857ca454c3f90f579091b3246" title="Set the oscillator source to be used by the system clock." alt="" coords="199,309,346,336"/>
+<area shape="rect" id="node12" href="$group__rcc__high__level.html#ga43a00aa2241426ed96573abc3de839e9" title=" " alt="" coords="223,360,323,387"/>
+<area shape="rect" id="node3" href="$group__rcc__low__level.html#gabbbe68ef690e48ae19d4ff04e69cc9c3" title="Disable the PLL bypass and use the PLL clock." alt="" coords="405,56,576,83"/>
+<area shape="rect" id="node5" href="$group__rcc__low__level.html#ga104041e1468a0fc62d6c584a25859053" title="Set the PLL clock divisor (from 400MHz)" alt="" coords="419,107,562,133"/>
+<area shape="rect" id="node6" href="$group__rcc__low__level.html#ga0f5f3bea5dbfde10760a9cd775951a51" title="Wait for main PLL to lock." alt="" coords="407,157,575,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series." alt="" coords="5,5,156,31"/>
+<area shape="rect" id="node3" title="Defined Constants and Types for the STM32F3xx Reset and Clock Control" alt="" coords="204,5,307,31"/>
+<area shape="rect" id="node2" href="$group__rcc__cfgr2__prediv.html" title=" " alt="" coords="355,5,523,31"/>
+</map>

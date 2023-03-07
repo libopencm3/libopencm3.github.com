@@ -1,0 +1,9 @@
+<map id="I2C Defines" name="I2C Defines">
+<area shape="rect" id="node1" href="$group__NRF51xx__defines.html" title="Defined Constants and Types for the NRF51xx series." alt="" coords="5,104,140,129"/>
+<area shape="rect" id="node3" title="Defined Constants and Types for the NRF51xx I2C" alt="" coords="188,104,284,129"/>
+<area shape="rect" id="node2" href="$group__i2c__block.html" title=" " alt="" coords="377,5,487,31"/>
+<area shape="rect" id="node4" href="$group__i2c__freq__const.html" title=" " alt="" coords="343,55,521,80"/>
+<area shape="rect" id="node5" href="$group__i2c__interrupts.html" title=" " alt="" coords="377,104,487,129"/>
+<area shape="rect" id="node6" href="$group__i2c__mode.html" title=" " alt="" coords="355,153,509,179"/>
+<area shape="rect" id="node7" href="$group__i2c__shorts.html" title="The effect of activated shortcut is, that upon I2C event triggering, the hardware will automatically ..." alt="" coords="332,203,532,228"/>
+</map>

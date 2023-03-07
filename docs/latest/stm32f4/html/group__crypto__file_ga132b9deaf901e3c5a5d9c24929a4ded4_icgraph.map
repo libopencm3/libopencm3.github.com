@@ -1,0 +1,4 @@
+<map id="crypto_set_algorithm" name="crypto_set_algorithm">
+<area shape="rect" id="node1" title="Set the algorithm for Encryption/decryption." alt="" coords="248,5,408,32"/>
+<area shape="rect" id="node2" href="$group__crypto__file.html#gafbdd669ac6be495f11b16cebb07044d3" title="Set the MAC algorithm." alt="" coords="5,5,200,32"/>
+</map>

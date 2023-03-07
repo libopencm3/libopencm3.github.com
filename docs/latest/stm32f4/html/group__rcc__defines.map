@@ -1,0 +1,22 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__STM32F4xx__defines.html" title="Defined Constants and Types for the STM32F4xx series." alt="" coords="5,541,156,566"/>
+<area shape="rect" id="node16" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="204,541,307,566"/>
+<area shape="rect" id="node2" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="365,5,532,45"/>
+<area shape="rect" id="node3" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="367,69,530,109"/>
+<area shape="rect" id="node4" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="366,133,531,173"/>
+<area shape="rect" id="node5" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="368,197,529,237"/>
+<area shape="rect" id="node6" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="366,261,531,301"/>
+<area shape="rect" id="node7" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="368,325,529,365"/>
+<area shape="rect" id="node8" href="$group__rcc__apblpenr__en.html" title=" " alt="" coords="359,389,539,429"/>
+<area shape="rect" id="node9" href="$group__rcc__bdcr__values.html" title="Backup Domain control register values." alt="" coords="379,454,519,479"/>
+<area shape="rect" id="node10" href="$group__rcc__cfgr__deprecated.html" title="Older compatible definitions to ease migration." alt="" coords="363,504,534,544"/>
+<area shape="rect" id="node11" href="$group__rcc__cfgr__values.html" title="Clock Configuration register values." alt="" coords="379,569,518,594"/>
+<area shape="rect" id="node12" href="$group__rcc__cir__values.html" title="Clock Interrupt register values." alt="" coords="386,618,511,643"/>
+<area shape="rect" id="node13" href="$group__rcc__ckgatenr__values.html" title="Allows to enable or disable the clock gating for the specified IPs." alt="" coords="371,667,526,693"/>
+<area shape="rect" id="node14" href="$group__rcc__cr__values.html" title="Clock Control register values." alt="" coords="388,717,509,742"/>
+<area shape="rect" id="node15" href="$group__rcc__csr__values.html" title="Clock control and status register values." alt="" coords="384,766,513,791"/>
+<area shape="rect" id="node17" href="$group__rcc__pllcfgr__values.html" title="PLL Configuration register values." alt="" coords="368,815,529,841"/>
+<area shape="rect" id="node18" href="$group__rcc__pllded__values.html" title="PLL and other dedicated clock register values." alt="" coords="355,865,543,890"/>
+<area shape="rect" id="node19" href="$group__rcc__registers.html" title="Reset / Clock Control Registers." alt="" coords="391,914,506,939"/>
+<area shape="rect" id="node20" href="$group__rcc__sscgr__values.html" title="Spread spectrum clock generation register values." alt="" coords="375,963,522,989"/>
+</map>

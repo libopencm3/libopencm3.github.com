@@ -1,0 +1,7 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:43: warning: multiple use of section label 'adc_api_ex' while adding section, (first occurrence: /home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1.c, line 49)
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/usb/midi.h:1: warning: group usb_audio_defines: ignoring title "USB MIDI Type Definitions" that does not match old title "USB Audio Type Definitions"
+
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:251: warning: found documented return type for adc_clear_overrun_flag that does not return anything
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:161: warning: unable to resolve reference to 'adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:251: warning: found documented return type for adc_clear_overrun_flag that does not return anything
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:161: warning: unable to resolve reference to 'adc_trigger_injected' for \ref command

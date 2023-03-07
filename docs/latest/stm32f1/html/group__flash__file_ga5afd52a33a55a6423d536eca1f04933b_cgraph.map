@@ -1,0 +1,4 @@
+<map id="flash_get_status_flags" name="flash_get_status_flags">
+<area shape="rect" id="node1" title="Read All Status Flags." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="220,5,376,32"/>
+</map>

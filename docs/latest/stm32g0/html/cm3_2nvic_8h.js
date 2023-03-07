@@ -1,0 +1,26 @@
+var cm3_2nvic_8h =
+[
+    [ "NVIC_HARD_FAULT_IRQ", "group__nvic__sysint.html#gaedbe55d3baf2439fb49301f0b5f9bc53", null ],
+    [ "NVIC_ICER", "group__nvic__registers.html#ga3fa79c5ca67b7a9037cf9ddc28e43c00", null ],
+    [ "NVIC_ICPR", "group__nvic__registers.html#gabbdb5811b29c0b99ebd769b35fc6b77d", null ],
+    [ "NVIC_IPR32", "group__nvic__registers.html#ga8f7de4c1e7739007a25442e45c01a47e", null ],
+    [ "NVIC_ISER", "group__nvic__registers.html#ga56d60698b9aa6c8bc051d3c81e1a1ee3", null ],
+    [ "NVIC_ISPR", "group__nvic__registers.html#ga6be3b05499bafab037e23f25d63d621c", null ],
+    [ "NVIC_NMI_IRQ", "group__nvic__sysint.html#gabdeb6fa799341f6cf23d242d2e8e704b", null ],
+    [ "NVIC_PENDSV_IRQ", "group__nvic__sysint.html#ga60500110edbdb7d0992e8aef8fe04b7d", null ],
+    [ "NVIC_SV_CALL_IRQ", "group__nvic__sysint.html#gaaefda4fe69bd9acbd73c12ff2d023ad2", null ],
+    [ "NVIC_SYSTICK_IRQ", "group__nvic__sysint.html#gafd650ffcb7f54e1f619d2ff3b1331d1f", null ],
+    [ "hard_fault_handler", "group__CM3__nvic__defines.html#ga80b8e496817c48aab711bab6cb8a148d", null ],
+    [ "nmi_handler", "group__CM3__nvic__defines.html#gaa2ec4fae88da86b9bd1be360dfa159b8", null ],
+    [ "nvic_clear_pending_irq", "group__CM3__nvic__defines.html#ga55916a6ef4b3380692dc46bb0135386e", null ],
+    [ "nvic_disable_irq", "group__CM3__nvic__defines.html#gaf95cc3827a6e48d82c6046c639c80dc9", null ],
+    [ "nvic_enable_irq", "group__CM3__nvic__defines.html#gae5fdef5fd0dc9db35df8e84715fe8179", null ],
+    [ "nvic_get_irq_enabled", "group__CM3__nvic__defines.html#gaa2244a9f5f8c94a82bc8cf41d6ef254d", null ],
+    [ "nvic_get_pending_irq", "group__CM3__nvic__defines.html#ga0af0d73b09caec78a330d202829391bf", null ],
+    [ "nvic_set_pending_irq", "group__CM3__nvic__defines.html#ga3de46ef1bb9421e41fad4f407d0c8242", null ],
+    [ "nvic_set_priority", "group__CM3__nvic__defines.html#ga404123c81365250fe09e0545b4c6bf66", null ],
+    [ "pend_sv_handler", "group__CM3__nvic__defines.html#ga67568f5888add6e301f5fb0208d11611", null ],
+    [ "reset_handler", "group__CM3__nvic__defines.html#gab6f9dd2f8d080cf7cdf92705862892ba", null ],
+    [ "sv_call_handler", "group__CM3__nvic__defines.html#gabeb26560945948f0ada7e3691f002b3b", null ],
+    [ "sys_tick_handler", "group__CM3__nvic__defines.html#gafdd94f850b193691f1bfc60c724b542a", null ]
+];

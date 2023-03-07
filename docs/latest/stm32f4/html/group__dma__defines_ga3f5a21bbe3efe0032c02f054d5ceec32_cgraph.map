@@ -1,0 +1,4 @@
+<map id="dma_enable_direct_mode_error_interrupt" name="dma_enable_direct_mode_error_interrupt">
+<area shape="rect" id="node1" title="DMA Stream Enable Interrupt on Direct Mode Error." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$group__dma__file.html#gaeaa31cc700740df241897276081e0436" title="DMA Stream Clear Interrupt Flag." alt="" coords="244,5,397,47"/>
+</map>

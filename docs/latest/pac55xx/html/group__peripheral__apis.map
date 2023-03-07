@@ -1,0 +1,8 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__can__api.html" title="CAN Application Programming Interface." alt="" coords="194,5,339,31"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html" title="PAC5xx CCS Driver" alt="" coords="173,55,360,80"/>
+<area shape="rect" id="node3" href="$group__gpio__api.html" title="GPIO Application Programming Interface." alt="" coords="192,104,341,129"/>
+<area shape="rect" id="node4" href="$group__memctl__api.html" title="PAC5xx MEMCTL Driver" alt="" coords="182,153,351,179"/>
+<area shape="rect" id="node5" title="APIs for device peripherals." alt="" coords="5,104,125,129"/>
+<area shape="rect" id="node6" href="$group__usart__api.html" title="PAC55xxxx USART Driver" alt="" coords="186,203,347,228"/>
+</map>

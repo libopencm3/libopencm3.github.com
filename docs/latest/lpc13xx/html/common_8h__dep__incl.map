@@ -1,0 +1,22 @@
+<map id="common.h" name="common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="401,5,492,32"/>
+<area shape="rect" id="node2" href="$assert_8h.html" title=" " alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node4" href="$dwt_8h.html" title=" " alt="" coords="104,80,163,107"/>
+<area shape="rect" id="node6" href="$gpio_8h.html" title=" " alt="" coords="225,155,287,181"/>
+<area shape="rect" id="node8" href="$lpc13xx_2memorymap_8h.html" title=" " alt="" coords="238,80,357,107"/>
+<area shape="rect" id="node9" href="$mpu_8h.html" title=" " alt="" coords="381,80,443,107"/>
+<area shape="rect" id="node10" href="$cm3_2nvic_8h.html" title=" " alt="" coords="519,80,580,107"/>
+<area shape="rect" id="node13" href="$vector_8h.html" title="Definitions for handling vector tables." alt="" coords="349,155,424,181"/>
+<area shape="rect" id="node15" href="$scb_8h.html" title=" " alt="" coords="604,80,660,107"/>
+<area shape="rect" id="node17" href="$sync_8h.html" title=" " alt="" coords="700,80,764,107"/>
+<area shape="rect" id="node19" href="$systick_8h.html" title=" " alt="" coords="819,80,899,107"/>
+<area shape="rect" id="node3" href="$assert_8c.html" title=" " alt="" coords="6,155,79,181"/>
+<area shape="rect" id="node5" href="$dwt_8c.html" title=" " alt="" coords="105,155,162,181"/>
+<area shape="rect" id="node7" href="$gpio_8c.html" title=" " alt="" coords="225,229,287,256"/>
+<area shape="rect" id="node11" href="$nvic_8c.html" title=" " alt="" coords="534,155,594,181"/>
+<area shape="rect" id="node12" href="$lpc13xx_2nvic_8h.html" title=" " alt="" coords="448,155,509,181"/>
+<area shape="rect" id="node14" href="$vector_8c.html" title=" " alt="" coords="473,229,546,256"/>
+<area shape="rect" id="node16" href="$scb_8c.html" title=" " alt="" coords="670,155,725,181"/>
+<area shape="rect" id="node18" href="$sync_8c.html" title=" " alt="" coords="749,155,811,181"/>
+<area shape="rect" id="node20" href="$systick_8c.html" title=" " alt="" coords="835,155,914,181"/>
+</map>

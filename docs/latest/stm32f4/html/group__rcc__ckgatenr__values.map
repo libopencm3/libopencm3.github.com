@@ -1,0 +1,5 @@
+<map id="RCC_CKGATENR bits" name="RCC_CKGATENR bits">
+<area shape="rect" id="node1" title="Allows to enable or disable the clock gating for the specified IPs." alt="" coords="168,31,323,56"/>
+<area shape="rect" id="node2" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="11,5,114,31"/>
+<area shape="rect" id="node3" href="$group__rcc__registers.html" title="Reset / Clock Control Registers." alt="" coords="5,55,120,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="usbd_ep_nak_set" name="usbd_ep_nak_set">
+<area shape="rect" id="node1" title="Set an Out endpoint to NAK." alt="" coords="565,56,700,83"/>
+<area shape="rect" id="node2" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title=" " alt="" coords="147,5,277,32"/>
+<area shape="rect" id="node4" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title=" " alt="" coords="135,56,289,83"/>
+<area shape="rect" id="node5" href="$group__usb__control__file.html#gab9305438ecc3aaa7359aacdbc4f55c29" title=" " alt="" coords="337,107,517,133"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga53f14b18823b0b215f9674dfeedaf8be" title="Main initialization entry point." alt="" coords="5,31,87,57"/>
+</map>

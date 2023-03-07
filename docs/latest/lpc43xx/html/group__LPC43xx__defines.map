@@ -1,0 +1,22 @@
+<map id="LPC43xx Defines" name="LPC43xx Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the LPC43xx series." alt="" coords="5,540,136,565"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the LPC43xx A/D Converter" alt="" coords="233,5,335,31"/>
+<area shape="rect" id="node3" href="$group__atimer__defines.html" title="Defined Constants and Types for the LPC43xx Alarm Timer" alt="" coords="206,55,362,80"/>
+<area shape="rect" id="node4" href="$group__ccu__defines.html" title="Defined Constants and Types for the LPC43xx Clock Control Unit" alt="" coords="214,105,354,145"/>
+<area shape="rect" id="node5" href="$group__cgu__defines.html" title="Defined Constants and Types for the LPC43xx Clock Generation Unit" alt="" coords="201,169,367,209"/>
+<area shape="rect" id="node6" href="$group__creg__defines.html" title="Defined Constants and Types for the LPC43xx Configuration Registers" alt="" coords="197,233,371,273"/>
+<area shape="rect" id="node7" href="$group__eventrouter__defines.html" title="Defined Constants and Types for the LPC43xx Event Router" alt="" coords="205,297,363,323"/>
+<area shape="rect" id="node8" href="$group__gima__defines.html" title="Defined Constants and Types for the LPC43xx Global Input Multiplexer Array" alt="" coords="195,347,373,387"/>
+<area shape="rect" id="node9" href="$group__gpdma__defines.html" title="Defined Constants and Types for the LPC43xx General Purpose DMA" alt="" coords="202,411,366,451"/>
+<area shape="rect" id="node10" href="$group__gpio__defines.html" title="Defined Constants and Types for the LPC43xx General Purpose I/O" alt="" coords="209,475,359,515"/>
+<area shape="rect" id="node11" href="$group__i2c__defines.html" title="Defined Constants and Types for the LPC43xx I2C" alt="" coords="236,540,332,565"/>
+<area shape="rect" id="node12" href="$group__i2s__defines.html" title="Defined Constants and Types for the LPC43xx I2S" alt="" coords="237,589,331,615"/>
+<area shape="rect" id="node13" href="$group__rgu__defines.html" title="Defined Constants and Types for the LPC43xx Reset Generation Unit" alt="" coords="201,639,367,679"/>
+<area shape="rect" id="node14" href="$group__ritimer__defines.html" title="Defined Constants and Types for the LPC43xx Repetitive Interrupt Timer" alt="" coords="209,703,359,743"/>
+<area shape="rect" id="node15" href="$group__scu__defines.html" title="Defined Constants and Types for the LPC43xx System Control Unit" alt="" coords="207,767,361,807"/>
+<area shape="rect" id="node16" href="$group__sdio__defines.html" title="Defined Constants and Types for the LPC43xx SDIO" alt="" coords="257,832,311,857"/>
+<area shape="rect" id="node17" href="$group__sgpio__defines.html" title="Defined Constants and Types for the LPC43xx Serial General Purpose I/O" alt="" coords="188,881,380,907"/>
+<area shape="rect" id="node18" href="$group__ssp__defines.html" title="Defined Constants and Types for the LPC43xx Synchronous Serial Port" alt="" coords="196,931,372,956"/>
+<area shape="rect" id="node19" href="$group__timer__defines.html" title="Defined Constants and Types for the LPC43xx timer" alt="" coords="254,980,314,1005"/>
+<area shape="rect" id="node20" href="$group__wwdt__defines.html" title="Defined Constants and Types for the LPC43xx Windowed Watchdog Timer" alt="" coords="184,1029,384,1055"/>
+</map>

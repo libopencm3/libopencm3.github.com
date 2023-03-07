@@ -1,0 +1,9 @@
+<map id="PWR Defines" name="PWR Defines">
+<area shape="rect" id="node1" href="$group__STM32F7xx__defines.html" title="Defined Constants and Types for the STM32F7xx series." alt="" coords="5,104,156,129"/>
+<area shape="rect" id="node6" title="Defined Constants and Types for the STM32F7xx Power Control" alt="" coords="204,104,309,129"/>
+<area shape="rect" id="node2" href="$group__pwr__cr1__defines.html" title=" " alt="" coords="361,5,493,31"/>
+<area shape="rect" id="node3" href="$group__pwr__cr2__defines.html" title=" " alt="" coords="361,55,493,80"/>
+<area shape="rect" id="node4" href="$group__pwr__csr1__defines.html" title=" " alt="" coords="357,104,497,129"/>
+<area shape="rect" id="node5" href="$group__pwr__csr2__defines.html" title=" " alt="" coords="357,153,497,179"/>
+<area shape="rect" id="node7" href="$group__pwr__registers.html" title=" " alt="" coords="369,203,486,228"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gpio_set_output_options" name="gpio_set_output_options">
+<area shape="rect" id="node1" title="Set special output options for the gpio pin." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$group__PAC55xx__gpio.html#ga166ee286932fd9805d14590328a7ad65" title="PAC55xxxx General&#45;Purpose Input/Output (GPIO)" alt="" coords="235,5,377,32"/>
+</map>

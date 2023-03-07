@@ -1,0 +1,4 @@
+<map id="MPU TYPE register fields" name="MPU TYPE register fields">
+<area shape="rect" id="node1" href="$group__CM3__mpu__defines.html" title="libopencm3 Cortex Memory Protection Unit" alt="" coords="5,5,175,31"/>
+<area shape="rect" id="node2" title="The MPU_TYPE register is always available, even if the MPU is not implemented." alt="" coords="223,5,404,31"/>
+</map>

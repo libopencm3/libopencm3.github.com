@@ -1,0 +1,12 @@
+<map id="usbstd.h" name="usbstd.h">
+<area shape="rect" id="node1" title=" " alt="" coords="315,5,392,32"/>
+<area shape="rect" id="node2" href="$usbd_8h.html" title=" " alt="" coords="321,80,386,107"/>
+<area shape="rect" id="node3" href="$msc_8h.html" title=" " alt="" coords="5,155,67,181"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html" title=" " alt="" coords="24,229,115,256"/>
+<area shape="rect" id="node5" href="$usb_8c.html" title=" " alt="" coords="141,155,197,181"/>
+<area shape="rect" id="node6" href="$usb__control_8c.html" title=" " alt="" coords="222,155,330,181"/>
+<area shape="rect" id="node7" href="$usb__dwc__common_8c.html" title=" " alt="" coords="354,155,507,181"/>
+<area shape="rect" id="node8" href="$usb__f107_8c.html" title=" " alt="" coords="531,155,623,181"/>
+<area shape="rect" id="node9" href="$usb__f207_8c.html" title=" " alt="" coords="647,155,739,181"/>
+<area shape="rect" id="node10" href="$usb__standard_8c.html" title=" " alt="" coords="764,155,884,181"/>
+</map>

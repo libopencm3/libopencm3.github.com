@@ -1,0 +1,5 @@
+<map id="fdcan_get_txbuf_addr" name="fdcan_get_txbuf_addr">
+<area shape="rect" id="node1" title="Returns a pointer to an TX FIFO element in message RAM." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#gaf61aace89b3ea31afd3614922ff591ca" title="Returns actual size of transmit entry in transmit queue/FIFO for given CAN port." alt="" coords="216,5,437,32"/>
+<area shape="rect" id="node3" href="$fdcan__common_8c.html#a17446d188c22a8af68cc52f73471bb0a" title="Converts DLC value into frame payload length." alt="" coords="485,5,637,32"/>
+</map>

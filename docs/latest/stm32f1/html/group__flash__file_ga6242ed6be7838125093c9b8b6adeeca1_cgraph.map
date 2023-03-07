@@ -1,0 +1,7 @@
+<map id="flash_erase_option_bytes" name="flash_erase_option_bytes">
+<area shape="rect" id="node1" title="Erase All Option Bytes." alt="" coords="5,39,149,80"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga5458fca5ecb9ec90b21bebbb64c861c4" title="Unlock the Option Byte Access." alt="" coords="197,5,348,47"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="201,71,345,112"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="396,78,563,105"/>
+<area shape="rect" id="node5" href="$desig__common__v1_8c.html#a3dd3e16f359d093b546f5c9e3cde1957" title="Read the on board flash size." alt="" coords="611,78,767,105"/>
+</map>

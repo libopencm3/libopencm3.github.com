@@ -1,0 +1,22 @@
+<map id="EFM32 Leopard Gecko Defines" name="EFM32 Leopard Gecko Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the Energy Micro EFM32 Leopard Gecko series." alt="" coords="5,442,172,482"/>
+<area shape="rect" id="node2" href="$group__acmp__defines.html" title="Defined Constants and Types for the Analog Comparator module" alt="" coords="229,5,342,31"/>
+<area shape="rect" id="node3" href="$group__adc__defines.html" title="Defined Constants and Types for the EFM32LG Analog to Digital Converter" alt="" coords="234,55,337,80"/>
+<area shape="rect" id="node4" href="$group__burtc__defines.html" title="Defined Constants and Types for the Backup RTC" alt="" coords="226,104,345,129"/>
+<area shape="rect" id="node5" href="$group__cmu__defines.html" title="Defined Constants and Types for the EFM32LG Clock Management Unit" alt="" coords="232,153,339,179"/>
+<area shape="rect" id="node6" href="$group__dac__defines.html" title="Defined Constants and Types for the D/A Converter module" alt="" coords="234,203,337,228"/>
+<area shape="rect" id="node7" href="$group__dma__defines.html" title="Defined Constants and Types for the DMA module" alt="" coords="232,252,339,277"/>
+<area shape="rect" id="node8" href="$group__emu__defines.html" title="Defined Constants and Types for the Energy Management Unit" alt="" coords="233,301,338,327"/>
+<area shape="rect" id="node9" href="$group__gpio__defines.html" title="Defined Constants and Types for the EFM32LG GPIO module" alt="" coords="232,351,339,376"/>
+<area shape="rect" id="node10" href="$group__i2c__defines.html" title="Defined Constants and Types for the I²C module" alt="" coords="237,400,333,425"/>
+<area shape="rect" id="node11" href="$group__letimer__defines.html" title="Defined Constants and Types for the Low Energy Timer" alt="" coords="220,449,351,475"/>
+<area shape="rect" id="node12" href="$group__msc__defines.html" title="Defined Constants and Types for the Memory Systems Controller" alt="" coords="233,499,337,524"/>
+<area shape="rect" id="node13" href="$group__prs__defines.html" title="Defined Constants and Types for the Peripheral Reflex System" alt="" coords="235,548,335,573"/>
+<area shape="rect" id="node14" href="$group__rmu__defines.html" title="Defined Constants and Types for the Reset Management Unit" alt="" coords="232,597,339,623"/>
+<area shape="rect" id="node15" href="$group__rtc__defines.html" title="Defined Constants and Types for the Real Time Clock" alt="" coords="236,647,335,672"/>
+<area shape="rect" id="node16" href="$group__timer__defines.html" title="Defined Constants and Types for the TIMER module" alt="" coords="227,696,343,721"/>
+<area shape="rect" id="node17" href="$group__uart__defines.html" title="Defined Constants and Types for the UART module" alt="" coords="230,745,341,771"/>
+<area shape="rect" id="node18" href="$group__usart__defines.html" title="Defined Constants and Types for the USART module" alt="" coords="226,795,345,820"/>
+<area shape="rect" id="node19" href="$group__usb__defines.html" title="Defined Constants and Types for the USB module" alt="" coords="234,844,337,869"/>
+<area shape="rect" id="node20" href="$group__wdog__defines.html" title="Defined Constants and Types for the Watchdog module" alt="" coords="226,893,345,919"/>
+</map>

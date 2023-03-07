@@ -1,0 +1,18 @@
+<map id="CAN" name="CAN">
+<area shape="rect" id="node1" title="CAN definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="185,390,236,415"/>
+<area shape="rect" id="node3" href="$group__can__acr__bits.html" title="CAN Acceptance Code/Mask Register." alt="" coords="311,5,477,45"/>
+<area shape="rect" id="node4" href="$group__can__alc__txrxerr__ecc.html" title=" " alt="" coords="307,69,481,109"/>
+<area shape="rect" id="node5" href="$group__can__bit__masks.html" title=" " alt="" coords="309,133,479,173"/>
+<area shape="rect" id="node6" href="$group__can__btr01__rmc__imr.html" title=" " alt="" coords="299,197,489,237"/>
+<area shape="rect" id="node7" href="$group__can__btr0__bits.html" title="CAN Bus Timing 0 Register bit definitions." alt="" coords="294,262,494,287"/>
+<area shape="rect" id="node8" href="$group__can__btr1__bits.html" title="CAN Bus Timing 1 Register bit definitions." alt="" coords="295,311,493,337"/>
+<area shape="rect" id="node9" href="$group__can__cmr__bits.html" title="CAN Command Register." alt="" coords="305,361,483,386"/>
+<area shape="rect" id="node10" href="$group__can__ecc__bits.html" title="CAN Error Code Capture Register bit definitions." alt="" coords="305,411,483,451"/>
+<area shape="rect" id="node11" href="$group__can__imr__bits.html" title="CAN Interrupt Mask Register bit definitions." alt="" coords="321,475,467,501"/>
+<area shape="rect" id="node12" href="$group__can__isr__bits.html" title="CAN Interrupt Status Register bit definitions." alt="" coords="317,525,471,565"/>
+<area shape="rect" id="node13" href="$group__can__isr__sr__cmr__mr.html" title=" " alt="" coords="284,590,504,615"/>
+<area shape="rect" id="node14" href="$group__can__mr__bits.html" title="CAN Mode Register bit definitions." alt="" coords="320,639,468,665"/>
+<area shape="rect" id="node15" href="$group__can__rmc__bits.html" title="CAN Receive Message Counter Register bit definitions." alt="" coords="310,689,478,729"/>
+<area shape="rect" id="node16" href="$group__can__sr__bits.html" title="CAN Status Register." alt="" coords="317,754,471,779"/>
+<area shape="rect" id="node2" href="$group__PAC55xx__defines.html" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,390,137,415"/>
+</map>

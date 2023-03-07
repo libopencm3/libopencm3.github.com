@@ -1,0 +1,4 @@
+<map id="LPTIM_CR Control Register" name="LPTIM_CR Control Register">
+<area shape="rect" id="node1" title=" " alt="" coords="168,5,363,31"/>
+<area shape="rect" id="node2" href="$group__lptimer__defines.html" title="libopencm3 Defined Constants and Types for the STM32L0xx Low Power Timer" alt="" coords="5,5,120,31"/>
+</map>

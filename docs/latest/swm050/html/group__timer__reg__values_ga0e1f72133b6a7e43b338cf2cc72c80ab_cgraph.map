@@ -1,0 +1,4 @@
+<map id="timer_pwm_target_value" name="timer_pwm_target_value">
+<area shape="rect" id="node1" title="Sets the target values for PWM mode." alt="" coords="5,13,191,39"/>
+<area shape="rect" id="node2" href="$group__timer__file.html#ga79c7b426772aaeef651329aec7b6e4d1" title="Sets the target values for counter mode." alt="" coords="239,5,397,47"/>
+</map>

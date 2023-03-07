@@ -1,0 +1,4 @@
+<map id="adc_power_on_async" name="adc_power_on_async">
+<area shape="rect" id="node1" title="Turn on the ADC (async)" alt="" coords="168,5,328,32"/>
+<area shape="rect" id="node2" href="$group__adc__file.html#ga51f01f6dedbcfc4231e0fc1d8943d956" title="Turn on the ADC." alt="" coords="5,5,120,32"/>
+</map>

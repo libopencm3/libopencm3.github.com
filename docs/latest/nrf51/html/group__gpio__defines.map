@@ -1,0 +1,10 @@
+<map id="GPIO Defines" name="GPIO Defines">
+<area shape="rect" id="node1" href="$group__NRF51xx__defines.html" title="Defined Constants and Types for the NRF51xx series." alt="" coords="5,129,140,155"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the NRF51xx General Purpose I/O" alt="" coords="188,129,295,155"/>
+<area shape="rect" id="node3" href="$group__gpio__drive.html" title=" " alt="" coords="347,5,527,31"/>
+<area shape="rect" id="node4" href="$group__gpio__mode.html" title=" " alt="" coords="377,55,496,80"/>
+<area shape="rect" id="node5" href="$group__gpio__pin__id.html" title=" " alt="" coords="363,104,510,129"/>
+<area shape="rect" id="node6" href="$group__gpio__port__id.html" title=" " alt="" coords="391,153,482,179"/>
+<area shape="rect" id="node7" href="$group__gpio__pupd.html" title=" " alt="" coords="351,203,522,228"/>
+<area shape="rect" id="node8" href="$group__gpio__sense.html" title=" " alt="" coords="343,252,531,277"/>
+</map>

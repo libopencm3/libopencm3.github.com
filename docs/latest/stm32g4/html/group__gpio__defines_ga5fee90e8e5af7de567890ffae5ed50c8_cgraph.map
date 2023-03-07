@@ -1,0 +1,4 @@
+<map id="gpio_get" name="gpio_get">
+<area shape="rect" id="node1" title="Read a Group of Pins." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html#gac7a671c0d057a8db484357b344d66b23" title="Read from a Port." alt="" coords="132,5,251,32"/>
+</map>

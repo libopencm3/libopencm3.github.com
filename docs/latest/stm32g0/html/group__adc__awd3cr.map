@@ -1,0 +1,4 @@
+<map id="AWD3CR ADC Analog watchdog 3 configuration register" name="AWD3CR ADC Analog watchdog 3 configuration register">
+<area shape="rect" id="node1" title=" " alt="" coords="156,5,383,45"/>
+<area shape="rect" id="node2" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32STM32G0xx Analog to Digital Converter" alt="" coords="5,13,108,38"/>
+</map>

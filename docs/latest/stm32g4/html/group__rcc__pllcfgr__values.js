@@ -1,0 +1,27 @@
+var group__rcc__pllcfgr__values =
+[
+    [ "RCC_PLLCFGR PLLR values", "group__rcc__pllcfgr__pllr.html", "group__rcc__pllcfgr__pllr" ],
+    [ "RCC_PLLCFGR PLLN values", "group__rcc__pllcfgr__plln.html", "group__rcc__pllcfgr__plln" ],
+    [ "RCC_PLLCFGR PLLM values", "group__rcc__pllcfgr__pllm.html", "group__rcc__pllcfgr__pllm" ],
+    [ "RCC_PLLCFGR_PLLP", "group__rcc__pllcfgr__values.html#ga2561745be271ee828e26de601f72162d", null ],
+    [ "RCC_PLLCFGR_PLLP_DIV17", "group__rcc__pllcfgr__values.html#ga7d965e754dd5a0d1a74bb0dce1198fde", null ],
+    [ "RCC_PLLCFGR_PLLP_DIV7", "group__rcc__pllcfgr__values.html#ga5279c458a2957bb77be558fb5817c76f", null ],
+    [ "RCC_PLLCFGR_PLLPDIV_MASK", "group__rcc__pllcfgr__values.html#gab439b1910f845d8b379f0a0df4160917", null ],
+    [ "RCC_PLLCFGR_PLLPDIV_SHIFT", "group__rcc__pllcfgr__values.html#gacd25ad26c8e74a65e419b840cd34b351", null ],
+    [ "RCC_PLLCFGR_PLLPEN", "group__rcc__pllcfgr__values.html#ga04599fc122337e5f3ee8979df0c822c5", null ],
+    [ "RCC_PLLCFGR_PLLQ_DIV2", "group__rcc__pllcfgr__values.html#gaaf2d3d87ae804e650d38142ade428739", null ],
+    [ "RCC_PLLCFGR_PLLQ_DIV4", "group__rcc__pllcfgr__values.html#ga326f281aceada046138ebea8d109341d", null ],
+    [ "RCC_PLLCFGR_PLLQ_DIV6", "group__rcc__pllcfgr__values.html#ga899e3a4ff302def4ce26e9ac1b30843c", null ],
+    [ "RCC_PLLCFGR_PLLQ_DIV8", "group__rcc__pllcfgr__values.html#gadcefdb9c948ebc4ff6c8adc12a805257", null ],
+    [ "RCC_PLLCFGR_PLLQ_MASK", "group__rcc__pllcfgr__values.html#gad4784939ce13e81f2cc64dda2b5d8770", null ],
+    [ "RCC_PLLCFGR_PLLQ_SHIFT", "group__rcc__pllcfgr__values.html#gac4df0bb6bd16afd9fbf2e30d3089e93c", null ],
+    [ "RCC_PLLCFGR_PLLQEN", "group__rcc__pllcfgr__values.html#ga81cc940b56c46a5e448f7c84263b6be5", null ],
+    [ "RCC_PLLCFGR_PLLR_MASK", "group__rcc__pllcfgr__values.html#ga1d434ca0178b0806d56ecaeba5b77e31", null ],
+    [ "RCC_PLLCFGR_PLLR_SHIFT", "group__rcc__pllcfgr__values.html#gab97b96fa0fd9d3d4386ed56bb700e4e6", null ],
+    [ "RCC_PLLCFGR_PLLREN", "group__rcc__pllcfgr__values.html#gadfa9da7446c63cd5b888d03a80171562", null ],
+    [ "RCC_PLLCFGR_PLLSRC_HSE", "group__rcc__pllcfgr__values.html#gae3a86c3918526efe2258ecbb34b91587", null ],
+    [ "RCC_PLLCFGR_PLLSRC_HSI16", "group__rcc__pllcfgr__values.html#ga7e232e659665467b36df24b629cf2206", null ],
+    [ "RCC_PLLCFGR_PLLSRC_MASK", "group__rcc__pllcfgr__values.html#ga6c5c6a2e8d760ad7da85ae2c8076ee31", null ],
+    [ "RCC_PLLCFGR_PLLSRC_NONE", "group__rcc__pllcfgr__values.html#ga11f40b0b45a8647419c0eb1adaf12298", null ],
+    [ "RCC_PLLCFGR_PLLSRC_SHIFT", "group__rcc__pllcfgr__values.html#ga121c20f7a79df054beb7d63698605b81", null ]
+];

@@ -1,0 +1,13 @@
+<map id="set_sbc_status_good" name="set_sbc_status_good">
+<area shape="rect" id="node1" title=" " alt="" coords="865,138,1023,165"/>
+<area shape="rect" id="node2" href="$usb__msc_8c.html#ad834e80e08a1fc52cb6c2a7e4c60e7c4" title=" " alt="" coords="505,138,624,165"/>
+<area shape="rect" id="node5" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="5,240,112,266"/>
+<area shape="rect" id="node7" href="$usb__msc_8c.html#a0ba002041133ce594072c4669a888423" title=" " alt="" coords="679,37,810,64"/>
+<area shape="rect" id="node8" href="$usb__msc_8c.html#a85cd7451c1bfc24383b60bd8b53073a1" title=" " alt="" coords="695,88,794,114"/>
+<area shape="rect" id="node9" href="$usb__msc_8c.html#aa9340553bfc7682037cce665df163506" title=" " alt="" coords="691,138,798,165"/>
+<area shape="rect" id="node10" href="$usb__msc_8c.html#a700c7b32d7db1ab7d9a55fb750cfed1a" title=" " alt="" coords="695,189,794,216"/>
+<area shape="rect" id="node11" href="$usb__msc_8c.html#a40e07cb7889a673d30d93cae4187a5ec" title=" " alt="" coords="672,240,817,266"/>
+<area shape="rect" id="node3" href="$usb__msc_8c.html#a41a8c24958254f6628787f0a97befc1c" title="Handle the USB &#39;OUT&#39; requests." alt="" coords="331,138,457,165"/>
+<area shape="rect" id="node6" href="$usb__msc_8c.html#a88700274691bf361f44a0e3b5703ec9f" title="Handle the USB &#39;IN&#39; requests." alt="" coords="331,189,457,216"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#a226667566a4c9460bc577aa9c72a14b6" title="Setup the endpoints to be bulk &amp; register the callbacks." alt="" coords="160,189,283,216"/>
+</map>

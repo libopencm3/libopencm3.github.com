@@ -1,0 +1,20 @@
+<map id="USART Defines" name="USART Defines">
+<area shape="rect" id="node1" href="$group__STM32H7xx__defines.html" title="Defined Constants and Types for the STM32H7xx series." alt="" coords="5,407,151,433"/>
+<area shape="rect" id="node10" title="Defined Constants and Types for the STM32H7xx USART" alt="" coords="199,407,317,433"/>
+<area shape="rect" id="node2" href="$group__usart__convenience__flags.html" title="We define the &quot;common&quot; lower flag bits using a standard name, allowing them to be used regardless of ..." alt="" coords="390,5,551,45"/>
+<area shape="rect" id="node3" href="$group__usart__cr1__mode.html" title=" " alt="" coords="365,70,576,95"/>
+<area shape="rect" id="node4" href="$group__usart__cr1__parity.html" title=" " alt="" coords="385,119,556,145"/>
+<area shape="rect" id="node5" href="$group__usart__cr1__values.html" title=" " alt="" coords="397,169,544,194"/>
+<area shape="rect" id="node6" href="$group__usart__cr2__stopbits.html" title=" " alt="" coords="378,218,563,243"/>
+<area shape="rect" id="node7" href="$group__usart__cr2__values.html" title=" " alt="" coords="397,267,544,293"/>
+<area shape="rect" id="node8" href="$group__usart__cr3__flowcontrol.html" title=" " alt="" coords="387,317,555,357"/>
+<area shape="rect" id="node9" href="$group__usart__cr3__values.html" title=" " alt="" coords="397,382,544,407"/>
+<area shape="rect" id="node11" href="$group__usart__dr__values.html" title=" " alt="" coords="381,431,560,457"/>
+<area shape="rect" id="node12" href="$group__usart__gtpr__values.html" title=" " alt="" coords="393,481,548,506"/>
+<area shape="rect" id="node13" href="$group__usart__icr__values.html" title=" " alt="" coords="399,530,542,555"/>
+<area shape="rect" id="node14" href="$group__usart__isr__values.html" title=" " alt="" coords="400,579,541,605"/>
+<area shape="rect" id="node15" href="$group__usart__reg__base.html" title="Holds all the U(S)ART peripherals supported." alt="" coords="393,629,548,669"/>
+<area shape="rect" id="node16" href="$group__usart__registers.html" title=" " alt="" coords="405,694,536,719"/>
+<area shape="rect" id="node17" href="$group__usart__rqr__values.html" title=" " alt="" coords="397,743,545,769"/>
+<area shape="rect" id="node18" href="$group__usart__rtor__values.html" title=" " alt="" coords="393,793,548,818"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cordic_configure_for_sin_16bit" name="cordic_configure_for_sin_16bit">
+<area shape="rect" id="node1" title="Configure cordic for 16 bit sine." alt="" coords="225,23,379,65"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga6070c7a3a81c9945be4a7b4f855b1ce7" title="Compute 16 bit sine using CORDIC (blocking)" alt="" coords="28,5,155,32"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#gaa964a5787c6fac82753b808a40ef992e" title="Compute 16 bit sine using CORDIC (non blocking)" alt="" coords="5,56,177,83"/>
+</map>

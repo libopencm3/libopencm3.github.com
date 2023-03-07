@@ -1,0 +1,16 @@
+<map id="i2c_transfer7" name="i2c_transfer7">
+<area shape="rect" id="node1" title="Run a write/read transaction to a given 7bit i2c address If both write &amp; read are provided,..." alt="" coords="5,309,112,336"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#ga8ee39542b8b27e6b298a44d6493546a2" title=" " alt="" coords="178,5,333,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#gaa30db58b7bec562d300b3a185bff5cee" title=" " alt="" coords="179,56,331,83"/>
+<area shape="rect" id="node4" href="$group__i2c__file.html#gab0fae615ab83fcd0dac9885fd04c4731" title="I2C Get Data." alt="" coords="203,107,308,133"/>
+<area shape="rect" id="node5" href="$group__i2c__file.html#gafb594fe17ee2af9ff510edb15a29ef6c" title=" " alt="" coords="216,157,295,184"/>
+<area shape="rect" id="node6" href="$group__i2c__file.html#ga758469ebc6b32709c7098a767d583280" title=" " alt="" coords="185,208,325,235"/>
+<area shape="rect" id="node7" href="$group__i2c__file.html#gaad83fb76f31941e9d0e1083d8e4ea6f0" title="I2C Send Data." alt="" coords="198,259,313,285"/>
+<area shape="rect" id="node8" href="$group__i2c__file.html#ga5c21ca1eb1791661f78247cdccf82734" title="I2C Send Start Condition." alt="" coords="197,309,313,336"/>
+<area shape="rect" id="node9" href="$group__i2c__file.html#ga16796d9c15e8f462c11cb08678ef9804" title=" " alt="" coords="176,360,335,387"/>
+<area shape="rect" id="node10" href="$group__i2c__file.html#ga68a6760bfcd203f922669c4f64009fb6" title=" " alt="" coords="161,411,350,437"/>
+<area shape="rect" id="node11" href="$group__i2c__file.html#gaabc1f0734a62aff08f8bf50f95fde1f3" title=" " alt="" coords="162,461,349,488"/>
+<area shape="rect" id="node12" href="$group__i2c__file.html#ga7188b92beaaca3762937609b51041379" title=" " alt="" coords="160,512,351,539"/>
+<area shape="rect" id="node13" href="$group__i2c__file.html#gaecba014143b8df9ced66f9324f91388c" title=" " alt="" coords="172,563,339,589"/>
+<area shape="rect" id="node14" href="$group__i2c__file.html#ga9e3bab47c46c13d1c3e9f40102e57a35" title=" " alt="" coords="168,613,343,640"/>
+</map>

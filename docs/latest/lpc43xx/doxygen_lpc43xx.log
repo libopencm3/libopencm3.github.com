@@ -1,0 +1,4 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/lpc43xx/m4/nvic.h:11: warning: group CM3_nvic_defines_irqs: ignoring title "User interrupts for LPC 43xx series M4 core" that does not match old title "User interrupts for LPC 43xx series M0 core"
+
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/lpc43xx/m4/nvic.h:68: warning: group CM3_nvic_isrprototypes_LPC43xx: ignoring title "(M4) User interrupt service routines (ISR) prototypes for LPC 43xx series M4 core" that does not match old title "(M0) User interrupt service routines (ISR) prototypes for LPC 43xx series M0 core"
+

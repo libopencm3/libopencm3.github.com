@@ -1,0 +1,8 @@
+<map id="timer_clock_enable" name="timer_clock_enable">
+<area shape="rect" id="node1" title="Enables or disables the timer&#39;s internal clock." alt="" coords="449,97,599,124"/>
+<area shape="rect" id="node2" href="$group__timer__file.html#ga3736558bc457ef460f3f6e85d0def1a3" title="Internal function for timer setup." alt="" coords="244,97,401,124"/>
+<area shape="rect" id="node3" href="$group__timer__file.html#ga648538caf91c15e97c492eb434ca654b" title="Setup the timer in counter mode." alt="" coords="23,5,179,32"/>
+<area shape="rect" id="node4" href="$group__timer__file.html#gabcd383f3951f1b82b5e8feb4e571de09" title="Setup the timer in duty cycle capture mode." alt="" coords="5,57,196,98"/>
+<area shape="rect" id="node5" href="$group__timer__file.html#gada73978c9becff6fa0251edde2a65ed6" title="Setup the timer in pulse capture mode." alt="" coords="23,122,178,163"/>
+<area shape="rect" id="node6" href="$group__timer__file.html#gaf1d2b71d9d43cc0ea31c64bd3c12f197" title="Setup the timer in PWM mode." alt="" coords="31,188,170,215"/>
+</map>

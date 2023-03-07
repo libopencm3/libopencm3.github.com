@@ -1,0 +1,6 @@
+<map id="rtc_disable_wakeup_timer" name="rtc_disable_wakeup_timer">
+<area shape="rect" id="node1" title="Disable the wakeup timer." alt="" coords="5,23,156,65"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga36e2af549b7d24f24e5255bbbeb5de71" title="Disable the wakeup timer interrupt." alt="" coords="204,23,355,65"/>
+<area shape="rect" id="node3" href="$group__exti__file.html#ga1752fef240fb05e1135548449943ce0b" title=" " alt="" coords="403,5,560,32"/>
+<area shape="rect" id="node4" href="$group__CM3__nvic__file.html#gaf95cc3827a6e48d82c6046c639c80dc9" title="NVIC Disable Interrupt." alt="" coords="418,56,545,83"/>
+</map>

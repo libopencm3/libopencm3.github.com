@@ -1,0 +1,24 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/cordic_common_v1.c:488: warning: end of file while inside a group
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/usb/midi.h:1: warning: group usb_audio_defines: ignoring title "USB MIDI Type Definitions" that does not match old title "USB Audio Type Definitions"
+
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:223: warning: unable to resolve reference to 'adc_watchdog_channel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:105: warning: unable to resolve reference to 'adc_cr1_discnum' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:619: warning: unable to resolve reference to 'adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:621: warning: unable to resolve reference to 'adc_trigger_polarity_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:583: warning: unable to resolve reference to 'adc_trigger_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:585: warning: unable to resolve reference to 'adc_trigger_polarity_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:529: warning: unable to resolve reference to 'adc_ccr_adcpre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:212: warning: unable to resolve reference to 'adc_api_res' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/pwr.c:73: warning: unable to resolve reference to 'pwr_cr1_lpms' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:235: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/flash_common_all.h:57: warning: unable to resolve reference to 'flash_latency' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/pwr.c:73: warning: unable to resolve reference to 'pwr_cr1_lpms' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:235: warning: unable to resolve reference to 'rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:223: warning: unable to resolve reference to 'adc_watchdog_channel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:105: warning: unable to resolve reference to 'adc_cr1_discnum' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:619: warning: unable to resolve reference to 'adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:621: warning: unable to resolve reference to 'adc_trigger_polarity_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:583: warning: unable to resolve reference to 'adc_trigger_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:585: warning: unable to resolve reference to 'adc_trigger_polarity_regular' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/g4/adc.c:529: warning: unable to resolve reference to 'adc_ccr_adcpre' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:212: warning: unable to resolve reference to 'adc_api_res' for \ref command

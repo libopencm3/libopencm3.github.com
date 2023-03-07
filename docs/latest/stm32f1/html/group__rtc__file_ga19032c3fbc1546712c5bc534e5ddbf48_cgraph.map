@@ -1,0 +1,5 @@
+<map id="rtc_awake_from_standby" name="rtc_awake_from_standby">
+<area shape="rect" id="node1" title="RTC Start RTC after Standby Mode." alt="" coords="5,42,191,69"/>
+<area shape="rect" id="node2" href="$group__pwr__file.html#ga47f30c2ab88b0a18a2f343cf4f9c0743" title="Disable Backup Domain Write Protection." alt="" coords="244,5,415,47"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="239,71,420,98"/>
+</map>

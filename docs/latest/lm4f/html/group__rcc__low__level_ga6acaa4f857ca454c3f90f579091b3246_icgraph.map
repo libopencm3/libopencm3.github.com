@@ -1,0 +1,4 @@
+<map id="rcc_set_osc_source" name="rcc_set_osc_source">
+<area shape="rect" id="node1" title="Set the oscillator source to be used by the system clock." alt="" coords="188,5,335,32"/>
+<area shape="rect" id="node2" href="$group__rcc__high__level.html#ga94e682bdf26bde662afb76403acdd227" title="Configure the system clock source." alt="" coords="5,5,140,32"/>
+</map>

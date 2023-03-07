@@ -1,0 +1,4 @@
+<map id="SSI register base addresses" name="SSI register base addresses">
+<area shape="rect" id="node1" title=" " alt="" coords="200,13,401,38"/>
+<area shape="rect" id="node2" href="$group__ssi__defines.html" title="Defined Constants and Types for the LM4F Synchronous Serial Interface (SSI)" alt="" coords="5,5,152,45"/>
+</map>

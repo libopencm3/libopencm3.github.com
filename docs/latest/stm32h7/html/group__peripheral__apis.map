@@ -1,0 +1,16 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__dac__file.html" title="Digital to Analog Converter." alt="" coords="186,5,331,31"/>
+<area shape="rect" id="node2" href="$group__exti__file.html" title=" " alt="" coords="185,55,332,80"/>
+<area shape="rect" id="node3" href="$group__fdcan__file.html" title="libopencm3 STM32 FDCAN" alt="" coords="177,104,340,129"/>
+<area shape="rect" id="node4" href="$group__flash__file.html" title=" " alt="" coords="179,153,339,179"/>
+<area shape="rect" id="node5" href="$group__fmc__file.html" title=" " alt="" coords="185,203,332,228"/>
+<area shape="rect" id="node6" href="$group__gpio__file.html" title=" " alt="" coords="184,252,333,277"/>
+<area shape="rect" id="node7" title="APIs for device peripherals." alt="" coords="5,301,125,327"/>
+<area shape="rect" id="node8" href="$group__pwr__peripheral__api.html" title=" " alt="" coords="185,301,332,327"/>
+<area shape="rect" id="node9" href="$group__quadspi__file.html" title="APIs for the specialized SPI Flash peripheral." alt="" coords="173,351,344,376"/>
+<area shape="rect" id="node10" href="$group__rcc__file.html" title="This library supports the Reset and Clock Control System in the STM32 series of ARM Cortex Microcontr..." alt="" coords="187,400,331,425"/>
+<area shape="rect" id="node11" href="$group__rng__file.html" title="This library supports &quot;version 1&quot; of the random number generator peripheral (RNG) in the STM32 series..." alt="" coords="185,449,332,475"/>
+<area shape="rect" id="node12" href="$group__spi__file.html" title=" " alt="" coords="190,499,327,524"/>
+<area shape="rect" id="node13" href="$group__timer__file.html" title=" " alt="" coords="179,548,338,573"/>
+<area shape="rect" id="node14" href="$group__usart__file.html" title=" " alt="" coords="178,597,339,623"/>
+</map>

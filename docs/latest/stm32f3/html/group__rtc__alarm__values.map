@@ -1,0 +1,5 @@
+<map id="RTC Alarm register values" name="RTC Alarm register values">
+<area shape="rect" id="node1" title="Applies to RTC_ALRMAR and RTC_ALRMBR." alt="" coords="164,23,307,63"/>
+<area shape="rect" id="node2" href="$group__rtc__defines.html" title="Defined Constants and Types for the STM32F3xx Real Time Clock" alt="" coords="11,5,110,31"/>
+<area shape="rect" id="node3" href="$group__rtc__registers.html" title="Real Time Clock registers." alt="" coords="5,55,116,80"/>
+</map>

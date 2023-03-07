@@ -1,0 +1,8 @@
+<map id="_usbd_standard_request_endpoint" name="_usbd_standard_request_endpoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,185,112"/>
+<area shape="rect" id="node2" href="$group__usb__standard__file.html#ga5b44de9aabd46b65f87be92e0c19b155" title=" " alt="" coords="233,5,407,47"/>
+<area shape="rect" id="node4" href="$group__usb__standard__file.html#gaee3cc13f9eb72b9069613111973c2a53" title=" " alt="" coords="233,71,407,112"/>
+<area shape="rect" id="node6" href="$group__usb__standard__file.html#gaaeffc19218b5fe5602582e45b68c897f" title=" " alt="" coords="233,136,407,177"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga396b34ccbe5bf6718417ef3ee0c3b788" title="Get STALL status of an endpoint." alt="" coords="455,13,593,39"/>
+<area shape="rect" id="node5" href="$group__usb__drivers__file.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="455,110,593,137"/>
+</map>

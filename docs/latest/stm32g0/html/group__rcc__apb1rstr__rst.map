@@ -1,0 +1,6 @@
+<map id="RCC_APBRSTRx reset values (full set)" name="RCC_APBRSTRx reset values (full set)">
+<area shape="rect" id="node1" title=" " alt="" coords="156,37,317,77"/>
+<area shape="rect" id="node2" href="$group__rcc__apbrstr1__rst.html" title=" " alt="" coords="365,5,527,45"/>
+<area shape="rect" id="node3" href="$group__rcc__apbrstr2__rst.html" title=" " alt="" coords="365,69,527,109"/>
+<area shape="rect" id="node4" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32G0xx Reset and Clock Control" alt="" coords="5,45,108,70"/>
+</map>

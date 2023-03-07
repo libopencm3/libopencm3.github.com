@@ -1,0 +1,4 @@
+<map id="uart_recv" name="uart_recv">
+<area shape="rect" id="node1" title="UART Read a Received Data Word." alt="" coords="199,5,281,32"/>
+<area shape="rect" id="node2" href="$group__uart__send__recv.html#ga5a7498f353526e8cb9e6c8bc5735d1f1" title="UART Read a Received Data Word with Blocking." alt="" coords="5,5,151,32"/>
+</map>

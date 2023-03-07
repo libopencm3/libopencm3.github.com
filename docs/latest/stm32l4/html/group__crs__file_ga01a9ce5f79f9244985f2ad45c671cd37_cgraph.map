@@ -1,0 +1,4 @@
+<map id="crs_autotrim_usb_enable" name="crs_autotrim_usb_enable">
+<area shape="rect" id="node1" title="This function enables automatic trimming of internal RC oscillator by USB SOF frames." alt="" coords="5,5,191,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga90aa2b7801b2b42debc0536d38c5b07c" title="Enable Peripheral Clock in running mode." alt="" coords="239,5,420,32"/>
+</map>

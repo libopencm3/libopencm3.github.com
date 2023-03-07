@@ -1,0 +1,7 @@
+<map id="Cortex&#45;M NVIC Defines" name="Cortex&#45;M NVIC Defines">
+<area shape="rect" id="node1" href="$group__CM3__defines.html" title="Defined Constants and Types for Cortex M3 core features." alt="" coords="5,70,109,95"/>
+<area shape="rect" id="node2" title="libopencm3 Cortex Nested Vectored Interrupt Controller" alt="" coords="157,70,328,95"/>
+<area shape="rect" id="node3" href="$group__CM3__nvic__defines__irqs.html" title=" " alt="" coords="377,5,566,45"/>
+<area shape="rect" id="node4" href="$group__nvic__registers.html" title=" " alt="" coords="412,70,531,95"/>
+<area shape="rect" id="node5" href="$group__nvic__sysint.html" title="IRQ numbers &#45;3 and &#45;6 to &#45;9 are reserved." alt="" coords="376,120,567,160"/>
+</map>

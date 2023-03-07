@@ -1,0 +1,4 @@
+<map id="rcc_rtc_clock_enabled_flag" name="rcc_rtc_clock_enabled_flag">
+<area shape="rect" id="node1" title="RCC RTC Clock Enabled Flag." alt="" coords="177,5,373,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga7693c69c9ff726487720b12576a20968" title="RTC Configuration on Wakeup." alt="" coords="5,5,129,32"/>
+</map>

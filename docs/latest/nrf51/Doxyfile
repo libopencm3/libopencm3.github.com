@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_nrf51.log
+LAYOUT_FILE				= DoxygenLayout_nrf51.xml
+GENERATE_TAGFILE		= nrf51.tag
+ENABLE_PREPROCESSING	= YES

@@ -1,0 +1,6 @@
+<map id="usb_control_recv_chunk" name="usb_control_recv_chunk">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="248,5,379,32"/>
+<area shape="rect" id="node4" href="$group__usb__drivers__file.html#gabd42dc86361dbf9c639fd883ada1f572" title="Read a packet." alt="" coords="232,56,395,83"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="443,5,581,32"/>
+</map>

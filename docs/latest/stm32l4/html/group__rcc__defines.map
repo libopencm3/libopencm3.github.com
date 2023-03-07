@@ -1,0 +1,18 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series." alt="" coords="5,429,156,454"/>
+<area shape="rect" id="node13" title="Defined Constants and Types for the STM32L4xx Reset and Clock Control" alt="" coords="204,429,307,454"/>
+<area shape="rect" id="node2" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="371,5,537,45"/>
+<area shape="rect" id="node3" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="373,69,535,109"/>
+<area shape="rect" id="node4" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="367,133,541,173"/>
+<area shape="rect" id="node5" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="369,197,539,237"/>
+<area shape="rect" id="node6" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="371,261,537,301"/>
+<area shape="rect" id="node7" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="373,325,535,365"/>
+<area shape="rect" id="node8" href="$group__rcc__cfgr__ahbpre.html" title=" " alt="" coords="363,389,545,429"/>
+<area shape="rect" id="node9" href="$group__rcc__cfgr__apbxpre.html" title="These can be used for both APB1 and APB2 prescaling." alt="" coords="359,453,549,493"/>
+<area shape="rect" id="node10" href="$group__rcc__cr__msirange.html" title="Range of the MSI oscillator Twelve frequency ranges are available: 100 kHz, 200 kHz,..." alt="" coords="409,518,499,543"/>
+<area shape="rect" id="node11" href="$group__rcc__cr__values.html" title="Clock Control register values." alt="" coords="393,567,515,593"/>
+<area shape="rect" id="node12" href="$group__rcc__csr__msirange.html" title="Range of the MSI oscillator after returning from standby." alt="" coords="363,617,545,657"/>
+<area shape="rect" id="node14" href="$group__rcc__pllcfgr__pllm.html" title="Allowed values 1 &lt;= m &lt;= 8." alt="" coords="355,682,553,707"/>
+<area shape="rect" id="node15" href="$group__rcc__pllcfgr__plln.html" title="Allowed values 8 &lt;= n &lt;= 86." alt="" coords="355,731,553,757"/>
+<area shape="rect" id="node16" href="$group__rcc__registers.html" title="Reset / Clock Control Registers." alt="" coords="397,781,511,806"/>
+</map>

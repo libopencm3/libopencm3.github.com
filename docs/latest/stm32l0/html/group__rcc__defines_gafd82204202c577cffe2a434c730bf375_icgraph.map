@@ -1,0 +1,4 @@
+<map id="rcc_set_sysclk_source" name="rcc_set_sysclk_source">
+<area shape="rect" id="node1" title="RCC Set the Source for the System Clock." alt="" coords="201,5,368,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="RCC Setup PLL and use it as Sysclk source." alt="" coords="5,5,153,32"/>
+</map>

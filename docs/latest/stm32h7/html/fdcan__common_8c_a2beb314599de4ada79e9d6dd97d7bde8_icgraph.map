@@ -1,0 +1,5 @@
+<map id="fdcan_get_free_txbuf" name="fdcan_get_free_txbuf">
+<area shape="rect" id="node1" title="Return ID of next free Tx buffer." alt="" coords="199,31,359,57"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#ga27e7288f4fe07b058c4c8e4f8776b012" title="Check if there is free transmit buffer." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node3" href="$group__fdcan__file.html#gae1d9e017700d67ce1438f5a1b48be86c" title="Transmit Message using FDCAN." alt="" coords="18,56,138,83"/>
+</map>

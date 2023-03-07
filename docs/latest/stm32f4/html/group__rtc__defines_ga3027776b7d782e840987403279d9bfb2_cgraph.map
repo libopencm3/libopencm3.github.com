@@ -1,0 +1,4 @@
+<map id="rtc_time_set_hour" name="rtc_time_set_hour">
+<area shape="rect" id="node1" title="Sets the RTC BCD time hour value." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#gad4fb6cb2a95a57d0e8954d192fb5eb0e" title=" " alt="" coords="192,5,319,32"/>
+</map>

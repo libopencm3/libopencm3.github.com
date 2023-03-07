@@ -1,0 +1,5 @@
+<map id="flash_program_half_word" name="flash_program_half_word">
+<area shape="rect" id="node1" title="Program a Half Word to FLASH." alt="" coords="5,13,192,39"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="240,5,384,47"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="432,13,599,39"/>
+</map>

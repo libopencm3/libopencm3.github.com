@@ -1,0 +1,5 @@
+<map id="ppi_add_channel" name="ppi_add_channel">
+<area shape="rect" id="node1" title="Configure new channel." alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$group__ppi__file.html#ga04b5d1d3814b6c5e5a38366275a76ddc" title="Configure PPI Channel." alt="" coords="184,5,351,32"/>
+<area shape="rect" id="node3" href="$group__ppi__file.html#ga676a861397b8adbc6ff33677b9b69ca8" title="Enable PPI channels, given the channels mask." alt="" coords="188,56,347,83"/>
+</map>

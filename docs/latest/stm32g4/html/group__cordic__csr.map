@@ -1,0 +1,7 @@
+<map id="CSR CORDIC control/status register" name="CSR CORDIC control/status register">
+<area shape="rect" id="node1" title=" " alt="" coords="180,77,332,117"/>
+<area shape="rect" id="node2" href="$group__cordic__csr__function.html" title=" " alt="" coords="380,5,596,45"/>
+<area shape="rect" id="node3" href="$group__cordic__csr__precision.html" title=" " alt="" coords="403,70,573,125"/>
+<area shape="rect" id="node4" href="$group__cordic__csr__scale.html" title=" " alt="" coords="408,149,568,174"/>
+<area shape="rect" id="node5" href="$group__cordic__defines.html" title="Defined Constants and Types for the STM32G4xx CORDIC" alt="" coords="5,85,132,110"/>
+</map>

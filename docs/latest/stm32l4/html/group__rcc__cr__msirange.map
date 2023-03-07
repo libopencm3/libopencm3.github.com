@@ -1,0 +1,4 @@
+<map id="MSI Range" name="MSI Range">
+<area shape="rect" id="node1" title="Range of the MSI oscillator Twelve frequency ranges are available: 100 kHz, 200 kHz,..." alt="" coords="156,5,247,31"/>
+<area shape="rect" id="node2" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32L4xx Reset and Clock Control" alt="" coords="5,5,108,31"/>
+</map>

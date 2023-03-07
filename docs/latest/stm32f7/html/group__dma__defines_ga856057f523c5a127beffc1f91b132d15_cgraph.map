@@ -1,0 +1,4 @@
+<map id="dma_enable_fifo_error_interrupt" name="dma_enable_fifo_error_interrupt">
+<area shape="rect" id="node1" title="DMA Enable Interrupt on FIFO Error." alt="" coords="5,5,173,47"/>
+<area shape="rect" id="node2" href="$group__dma__file.html#gaeaa31cc700740df241897276081e0436" title="DMA Stream Clear Interrupt Flag." alt="" coords="221,5,375,47"/>
+</map>

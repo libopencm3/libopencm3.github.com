@@ -1,0 +1,4 @@
+<map id="rtc_wait_for_init_ready" name="rtc_wait_for_init_ready">
+<area shape="rect" id="node1" title="Waits infinitely for initialization flag to be set in RTC_ISR." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga62dc08341f4d38d39b5a9ce4074424cd" title="Returns if the RTC_ISR init flag RTC_ISR_INITF is set." alt="" coords="224,5,384,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Memory Controller Defines" name="Memory Controller Defines">
+<area shape="rect" id="node1" href="$group__PAC55xx__defines.html" title="Defined Constants and Types for the PAC55xx series." alt="" coords="5,109,137,134"/>
+<area shape="rect" id="node2" title="Memory Controller definitions for the Qorvo PAC55xx series of microcontrollers." alt="" coords="185,109,383,134"/>
+<area shape="rect" id="node3" href="$group__flasherase__vals.html" title=" " alt="" coords="475,5,621,45"/>
+<area shape="rect" id="node4" href="$group__flashlock__vals.html" title=" " alt="" coords="459,69,637,109"/>
+<area shape="rect" id="node5" href="$group__memctl__reg.html" title=" " alt="" coords="431,133,665,173"/>
+<area shape="rect" id="node6" href="$group__memstatus__reg.html" title=" " alt="" coords="453,197,643,237"/>
+</map>

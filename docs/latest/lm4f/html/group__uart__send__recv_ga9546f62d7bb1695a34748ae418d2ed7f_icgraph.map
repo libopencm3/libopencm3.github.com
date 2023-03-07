@@ -1,0 +1,4 @@
+<map id="uart_wait_send_ready" name="uart_wait_send_ready">
+<area shape="rect" id="node1" title="UART Wait for Transmit Data Buffer Not Full." alt="" coords="201,5,367,32"/>
+<area shape="rect" id="node2" href="$group__uart__send__recv.html#ga2a621068c90e83ee0d9646235dda7ba6" title="UART Send Data Word with Blocking." alt="" coords="5,5,153,32"/>
+</map>

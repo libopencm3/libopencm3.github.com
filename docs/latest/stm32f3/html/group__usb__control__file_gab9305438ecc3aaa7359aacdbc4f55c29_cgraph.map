@@ -1,0 +1,6 @@
+<map id="usb_control_setup_write" name="usb_control_setup_write">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,185,57"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="235,5,366,32"/>
+<area shape="rect" id="node4" href="$group__usb__drivers__file.html#ga2f2a7dac5031fd8d1b5eb076d3f24b42" title="Set an Out endpoint to NAK." alt="" coords="233,56,368,83"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="416,5,555,32"/>
+</map>

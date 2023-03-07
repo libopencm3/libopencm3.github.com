@@ -1,0 +1,12 @@
+<map id="FLASH Defines" name="FLASH Defines">
+<area shape="rect" id="node1" href="$group__STM32G0xx__defines.html" title="Defined Constants and Types for the STM32G0xx series." alt="" coords="5,198,159,223"/>
+<area shape="rect" id="node4" title="Defined Constants and Types for the STM32G0xx Flash Control" alt="" coords="207,198,325,223"/>
+<area shape="rect" id="node2" href="$group__flash__acr.html" title=" " alt="" coords="397,5,544,45"/>
+<area shape="rect" id="node3" href="$group__flash__cr.html" title=" " alt="" coords="379,70,562,95"/>
+<area shape="rect" id="node5" href="$group__flash__eccr.html" title=" " alt="" coords="381,119,561,145"/>
+<area shape="rect" id="node6" href="$group__flash__keyr.html" title=" " alt="" coords="383,169,559,194"/>
+<area shape="rect" id="node7" href="$group__flash__optkeyr.html" title=" " alt="" coords="389,219,552,259"/>
+<area shape="rect" id="node8" href="$group__flash__optr.html" title=" " alt="" coords="373,283,568,309"/>
+<area shape="rect" id="node9" href="$group__flash__registers.html" title=" " alt="" coords="405,333,536,358"/>
+<area shape="rect" id="node10" href="$group__flash__sr.html" title=" " alt="" coords="401,382,540,407"/>
+</map>

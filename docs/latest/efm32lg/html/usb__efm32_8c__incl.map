@@ -1,0 +1,13 @@
+<map id="usb_efm32.c" name="usb_efm32.c">
+<area shape="rect" id="node1" title=" " alt="" coords="461,5,567,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" href="$common_8h.html" title=" " alt="" coords="349,229,551,256"/>
+<area shape="rect" id="node6" href="$efm32_2memorymap_8h.html" title="Dispatcher for the base address definitions, depending on the particular Gecko family." alt="" coords="152,80,396,107"/>
+<area shape="rect" id="node7" href="$cmu_8h.html" title=" " alt="" coords="420,80,608,107"/>
+<area shape="rect" id="node8" href="$usb_8h.html" title=" " alt="" coords="632,80,815,107"/>
+<area shape="rect" id="node9" href="$usbd_8h.html" title=" " alt="" coords="839,80,1011,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1035,80,1145,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="535,304,605,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="409,304,491,331"/>
+<area shape="rect" id="node10" href="$usbstd_8h.html" title=" " alt="" coords="497,155,681,181"/>
+</map>

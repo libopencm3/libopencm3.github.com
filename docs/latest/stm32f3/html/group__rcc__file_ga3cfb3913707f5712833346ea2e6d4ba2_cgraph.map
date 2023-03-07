@@ -1,0 +1,5 @@
+<map id="rcc_get_usart_clk_freq" name="rcc_get_usart_clk_freq">
+<area shape="rect" id="node1" title="Get the peripheral clock speed for the USART at base specified." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga18b5b7b205ab7b2f35e04043d5ad185a" title=" " alt="" coords="221,5,408,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#gafbb1afb9546f939744d71f4bd6f537bf" title="This will return the divisor 1/2/4/8/16/64/128/256/512 which is set as a 4&#45;bit value,..." alt="" coords="456,5,627,32"/>
+</map>

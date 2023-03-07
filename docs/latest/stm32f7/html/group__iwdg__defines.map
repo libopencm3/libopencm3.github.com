@@ -1,0 +1,7 @@
+<map id="IWDG Defines" name="IWDG Defines">
+<area shape="rect" id="node1" href="$group__STM32F7xx__defines.html" title="Defined Constants and Types for the STM32F7xx series." alt="" coords="5,55,156,80"/>
+<area shape="rect" id="node2" title="Defined Constants and Types for the STM32F7xx Independent Watchdog Timer" alt="" coords="204,55,316,80"/>
+<area shape="rect" id="node3" href="$group__iwdg__key.html" title=" " alt="" coords="383,5,517,31"/>
+<area shape="rect" id="node4" href="$group__iwdg__prediv.html" title=" " alt="" coords="364,55,536,80"/>
+<area shape="rect" id="node5" href="$group__iwdg__sr__values.html" title=" " alt="" coords="369,105,531,145"/>
+</map>

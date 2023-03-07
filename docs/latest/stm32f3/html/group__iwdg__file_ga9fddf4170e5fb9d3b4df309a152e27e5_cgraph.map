@@ -1,0 +1,6 @@
+<map id="iwdg_set_period_ms" name="iwdg_set_period_ms">
+<area shape="rect" id="node1" title="IWDG Set Period in Milliseconds." alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$group__iwdg__file.html#gab5d11cd4f7d3c567c12acb26742d1eee" title="IWDG Get Prescaler Register Status." alt="" coords="208,5,367,32"/>
+<area shape="rect" id="node3" href="$group__iwdg__file.html#gaa9844c03c29a289e394398d646e52187" title="IWDG Get Reload Register Status." alt="" coords="218,56,357,83"/>
+<area shape="rect" id="node4" href="$group__iwdg__file.html#gacd206e0c18f9f66937da3e790384dda2" title="IWDG reset Watchdog Timer." alt="" coords="241,107,334,133"/>
+</map>

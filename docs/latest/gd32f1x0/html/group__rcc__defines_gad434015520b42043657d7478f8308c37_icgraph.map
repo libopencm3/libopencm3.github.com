@@ -1,0 +1,4 @@
+<map id="rcc_set_usbpre" name="rcc_set_usbpre">
+<area shape="rect" id="node1" title="RCC Set the USB Prescale Factor." alt="" coords="201,5,320,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Setup clocks to run from PLL." alt="" coords="5,5,153,32"/>
+</map>

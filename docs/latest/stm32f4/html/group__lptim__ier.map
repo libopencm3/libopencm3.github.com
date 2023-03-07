@@ -1,0 +1,4 @@
+<map id="LPTIM_IER Interrupt Enable Register" name="LPTIM_IER Interrupt Enable Register">
+<area shape="rect" id="node1" title=" " alt="" coords="168,5,317,45"/>
+<area shape="rect" id="node2" href="$group__lptimer__defines.html" title="libopencm3 Defined Constants and Types for the STM32F4xx Low Power Timer" alt="" coords="5,13,120,38"/>
+</map>

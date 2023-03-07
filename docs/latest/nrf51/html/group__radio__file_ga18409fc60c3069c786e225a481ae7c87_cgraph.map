@@ -1,0 +1,9 @@
+<map id="radio_configure_ble" name="radio_configure_ble">
+<area shape="rect" id="node1" title="Configure the radio to be used in BLE mode." alt="" coords="5,132,155,159"/>
+<area shape="rect" id="node2" href="$group__radio__file.html#ga2674dcc0fd68897b957e347d091dfbda" title="Enable on the air data whitening." alt="" coords="203,5,380,32"/>
+<area shape="rect" id="node3" href="$group__radio__file.html#ga63eea02faf34a3c0051c4ae8e1c5ed34" title="Set Base Address length." alt="" coords="229,56,354,83"/>
+<area shape="rect" id="node4" href="$group__radio__file.html#ga814e32dcee80528fa312a8dcca27024a" title="Exclude access address from CRC calculation." alt="" coords="206,107,377,133"/>
+<area shape="rect" id="node5" href="$group__radio__file.html#ga04030bf24ae3f7e0c3dc2c04084280f7" title="Set CRC length in number of bytes." alt="" coords="227,157,355,184"/>
+<area shape="rect" id="node6" href="$group__radio__file.html#gab7209be5381308c375f563613a83b667" title="Set bit transmission order to LSB first." alt="" coords="225,208,358,235"/>
+<area shape="rect" id="node7" href="$group__radio__file.html#ga4a5acb7f8673df1a318ff2e68a83b252" title="Set radio mode." alt="" coords="228,259,355,285"/>
+</map>

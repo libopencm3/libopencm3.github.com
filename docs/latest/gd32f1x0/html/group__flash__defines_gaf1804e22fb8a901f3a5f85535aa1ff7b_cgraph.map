@@ -1,0 +1,5 @@
+<map id="flash_erase_all_pages" name="flash_erase_all_pages">
+<area shape="rect" id="node1" title="Erase All FLASH." alt="" coords="5,13,171,39"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="219,5,363,47"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="411,13,577,39"/>
+</map>

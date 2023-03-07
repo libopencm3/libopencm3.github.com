@@ -1,0 +1,8 @@
+<map id="_usbd_control_in" name="_usbd_control_in">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,136,83"/>
+<area shape="rect" id="node2" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title=" " alt="" coords="209,5,340,32"/>
+<area shape="rect" id="node4" href="$group__usb__control__file.html#ga46375610ee21a2c8ab4a06fe3bd70291" title=" " alt="" coords="184,56,365,83"/>
+<area shape="rect" id="node6" href="$group__usb__drivers__file.html#ga2f2a7dac5031fd8d1b5eb076d3f24b42" title="Set an Out endpoint to NAK." alt="" coords="207,107,342,133"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga6d16be856512df298e40dfa31a216172" title="Set/clear STALL condition on an endpoint." alt="" coords="427,5,566,32"/>
+<area shape="rect" id="node5" href="$group__usb__drivers__file.html#gaa5b245bdd9757cdc79d1fe721ebcf03f" title="Write a packet." alt="" coords="413,56,580,83"/>
+</map>

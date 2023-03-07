@@ -1,0 +1,5 @@
+<map id="LM3S" name="LM3S">
+<area shape="rect" id="node1" title="Libraries for TI Stellaris LM3S series." alt="" coords="5,31,63,56"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="LM3S General Purpose I/O" alt="" coords="111,5,261,31"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html" title="LM3S RCC Controller" alt="" coords="127,55,245,80"/>
+</map>

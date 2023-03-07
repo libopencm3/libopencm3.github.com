@@ -1,0 +1,4 @@
+<map id="IO Port API" name="IO Port API">
+<area shape="rect" id="node1" href="$group__peripheral__apis.html" title="APIs for device peripherals." alt="" coords="5,5,125,31"/>
+<area shape="rect" id="node2" title="Access functions for the SAMD I/O Controller" alt="" coords="173,5,264,31"/>
+</map>

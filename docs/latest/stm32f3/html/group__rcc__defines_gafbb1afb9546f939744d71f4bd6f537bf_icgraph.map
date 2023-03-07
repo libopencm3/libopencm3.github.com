@@ -1,0 +1,7 @@
+<map id="rcc_get_div_from_hpre" name="rcc_get_div_from_hpre">
+<area shape="rect" id="node1" title="This will return the divisor 1/2/4/8/16/64/128/256/512 which is set as a 4&#45;bit value,..." alt="" coords="651,31,821,57"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga92fb456350d70bbc116063113995b2eb" title="Get the peripheral clock speed for the I2C device at base specified." alt="" coords="432,5,587,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga18b5b7b205ab7b2f35e04043d5ad185a" title=" " alt="" coords="416,56,603,83"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#ga3cfb3913707f5712833346ea2e6d4ba2" title="Get the peripheral clock speed for the USART at base specified." alt="" coords="200,56,368,83"/>
+<area shape="rect" id="node5" href="$group__usart__file.html#ga848295ffaf99550cf92d77dbcf15d416" title="USART Set Baudrate." alt="" coords="5,56,152,83"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="periph.h" name="periph.h">
+<area shape="rect" id="node1" title=" " alt="" coords="468,5,543,32"/>
+<area shape="rect" id="node2" href="$clock__common_8c.html" title=" " alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node3" href="$52_2i2c_8h.html" title=" " alt="" coords="179,155,232,181"/>
+<area shape="rect" id="node5" href="$common_2i2c_8h.html" title=" " alt="" coords="211,80,264,107"/>
+<area shape="rect" id="node6" href="$power_8h.html" title=" " alt="" coords="289,80,362,107"/>
+<area shape="rect" id="node7" href="$52_2radio_8h.html" title=" " alt="" coords="396,155,463,181"/>
+<area shape="rect" id="node8" href="$common_2radio_8h.html" title=" " alt="" coords="437,80,504,107"/>
+<area shape="rect" id="node9" href="$52_2rtc_8h.html" title=" " alt="" coords="536,155,587,181"/>
+<area shape="rect" id="node10" href="$common_2rtc_8h.html" title=" " alt="" coords="579,80,629,107"/>
+<area shape="rect" id="node11" href="$52_2timer_8h.html" title=" " alt="" coords="661,155,729,181"/>
+<area shape="rect" id="node12" href="$common_2timer_8h.html" title=" " alt="" coords="705,80,773,107"/>
+<area shape="rect" id="node13" href="$52_2uart_8h.html" title=" " alt="" coords="814,155,874,181"/>
+<area shape="rect" id="node14" href="$common_2uart_8h.html" title=" " alt="" coords="849,80,909,107"/>
+<area shape="rect" id="node4" href="$i2c_8c.html" title=" " alt="" coords="179,229,231,256"/>
+</map>

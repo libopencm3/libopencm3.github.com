@@ -1,0 +1,8 @@
+<map id="usbd_ep_setup" name="usbd_ep_setup">
+<area shape="rect" id="node1" title="Setup an endpoint." alt="" coords="331,81,449,108"/>
+<area shape="rect" id="node2" href="$group__usb__drivers__file.html#ga3bc8dd33500621a1e900c78a42dcaf27" title=" " alt="" coords="171,56,271,83"/>
+<area shape="rect" id="node5" href="$usb__msc_8c.html#a226667566a4c9460bc577aa9c72a14b6" title="Setup the endpoints to be bulk &amp; register the callbacks." alt="" coords="160,107,283,133"/>
+<area shape="rect" id="node3" href="$usb__dwc__common_8c.html#ac18ae387118233bdd63bede05a06ce63" title=" " alt="" coords="19,5,98,32"/>
+<area shape="rect" id="node4" href="$st__usbfs__core_8c.html#a069f5da24984af82fe888020c347c208" title=" " alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node6" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="5,107,112,133"/>
+</map>

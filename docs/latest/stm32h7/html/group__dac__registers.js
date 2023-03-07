@@ -1,0 +1,26 @@
+var group__dac__registers =
+[
+    [ "DAC_CCR", "group__dac__registers.html#ga406d444feaa62224c01cdd03da7e9c10", null ],
+    [ "DAC_CR", "group__dac__registers.html#ga1b1e8e1ff306d2297483c8a5099e7389", null ],
+    [ "DAC_DHR12L1", "group__dac__registers.html#gaac74e021a96d0ff4c59b0fe965a503cb", null ],
+    [ "DAC_DHR12L2", "group__dac__registers.html#ga90c83045609017078ff5a1baead4b921", null ],
+    [ "DAC_DHR12LD", "group__dac__registers.html#gadbb2029ccb756246e303af9c1ffa9c05", null ],
+    [ "DAC_DHR12R1", "group__dac__registers.html#ga1c4231a570297205b6e770c456ffab2e", null ],
+    [ "DAC_DHR12R2", "group__dac__registers.html#ga6851818543152bff2f3c0d79c84b23cb", null ],
+    [ "DAC_DHR12RD", "group__dac__registers.html#ga2373a993f73b878ab65d6e912a8c3262", null ],
+    [ "DAC_DHR8R1", "group__dac__registers.html#gad65fbe4993e3de6f4f6bcf468aa450cf", null ],
+    [ "DAC_DHR8R2", "group__dac__registers.html#gaa213942eed21a5c2a08552e5a0a04aec", null ],
+    [ "DAC_DHR8RD", "group__dac__registers.html#ga93a6213a8c24e23efc198077b3d93f06", null ],
+    [ "DAC_DOR1", "group__dac__registers.html#ga3d21e704f77f7af29e9bdea18c5d6ae4", null ],
+    [ "DAC_DOR2", "group__dac__registers.html#ga3d126150bb3ebc8948947b745daf04ca", null ],
+    [ "DAC_MCR", "group__dac__registers.html#ga7239b42e26b0190550ed2204e54daea8", null ],
+    [ "DAC_SHHR", "group__dac__registers.html#gac178fc39ce5b0d2d7c441724f463b91b", null ],
+    [ "DAC_SHRR", "group__dac__registers.html#ga352d47b9bf8b8da9d9d9ea914b892566", null ],
+    [ "DAC_SHSR1", "group__dac__registers.html#gab34f513be2849ede9d459c1a8bdfef31", null ],
+    [ "DAC_SHSR2", "group__dac__registers.html#ga44ead8264d1b0f1138bf6b2ed6a908a6", null ],
+    [ "DAC_SR", "group__dac__registers.html#ga0d4bd9124f7655ccfddfc650437cd10f", null ],
+    [ "DAC_STMODR", "group__dac__registers.html#gac7cd9af77234c29e27a6bbc8b39c19c1", null ],
+    [ "DAC_STR1", "group__dac__registers.html#ga268982d575c8a7fcb643f22fd95907f1", null ],
+    [ "DAC_STR2", "group__dac__registers.html#gab1df60526291c84abdcff2b5bd3094d8", null ],
+    [ "DAC_SWTRIGR", "group__dac__registers.html#ga9be12744352fc7be2d157b252209e9eb", null ]
+];

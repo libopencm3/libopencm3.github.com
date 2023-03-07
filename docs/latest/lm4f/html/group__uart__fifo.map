@@ -1,0 +1,4 @@
+<map id="UART FIFO control" name="UART FIFO control">
+<area shape="rect" id="node1" title="Enabling and controlling UART FIFO" alt="" coords="111,5,251,31"/>
+<area shape="rect" id="node2" href="$group__uart__file.html" title="libopencm3 LM4F Universal Asynchronous Receiver Transmitter" alt="" coords="5,5,63,31"/>
+</map>

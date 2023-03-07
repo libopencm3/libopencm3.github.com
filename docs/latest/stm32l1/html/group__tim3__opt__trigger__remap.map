@@ -1,0 +1,4 @@
+<map id="TIM3_OR Timer 3 Internal Trigger 2 Remap" name="TIM3_OR Timer 3 Internal Trigger 2 Remap">
+<area shape="rect" id="node1" title=" " alt="" coords="167,5,355,45"/>
+<area shape="rect" id="node2" href="$group__timer__defines.html" title="libopencm3 Defined Constants and Types for the STM32L1xx Timers" alt="" coords="5,13,119,38"/>
+</map>

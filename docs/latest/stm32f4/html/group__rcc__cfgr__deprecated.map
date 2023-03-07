@@ -1,0 +1,4 @@
+<map id="RCC_CFGR Deprecated dividers" name="RCC_CFGR Deprecated dividers">
+<area shape="rect" id="node1" title="Older compatible definitions to ease migration." alt="" coords="156,5,327,45"/>
+<area shape="rect" id="node2" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="5,13,108,38"/>
+</map>

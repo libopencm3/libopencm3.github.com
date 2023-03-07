@@ -1,0 +1,4 @@
+<map id="USART register base addresses" name="USART register base addresses">
+<area shape="rect" id="node1" href="$group__usart__defines.html" title="Defined Constants and Types for the STM32F7xx USART" alt="" coords="5,13,124,38"/>
+<area shape="rect" id="node2" title="Holds all the U(S)ART peripherals supported." alt="" coords="172,5,327,45"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="desig_get_flash_size" name="desig_get_flash_size">
+<area shape="rect" id="node1" title="Read the on board flash size." alt="" coords="849,225,1005,251"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gaf47d7e8bd53d4ac625b221c00a9023c5" title="Clear the End of Operation Status Flag, upper Bank." alt="" coords="641,5,795,47"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga8bf42e68b53ee74583675289608dae65" title="Clear all status flags." alt="" coords="445,93,584,135"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga747583805875c2008de75d23f9eaf410" title="Clear the Programming Error Status Flag, upper Bank." alt="" coords="636,123,800,164"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#ga00228368638689988b5cdb9a7b24a142" title="Clear the Write Protect Error Status Flag, upper Bank." alt="" coords="643,188,793,229"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#ga0aee649731aaa8c1316c12f5bea7c31b" title="Erase a Page of FLASH." alt="" coords="234,203,369,230"/>
+<area shape="rect" id="node7" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="635,309,801,335"/>
+<area shape="rect" id="node11" href="$group__flash__file.html#gaf5077b5726c70fa9418db9d73182f89d" title="Program a Half Word to FLASH." alt="" coords="208,437,395,463"/>
+<area shape="rect" id="node14" href="$group__flash__file.html#gab2b0fabb1eaf6de3228948793bca2aeb" title="Unlock the Flash Program and Erase Controller, upper Bank." alt="" coords="645,422,791,449"/>
+<area shape="rect" id="node8" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="443,305,587,347"/>
+<area shape="rect" id="node9" href="$group__flash__file.html#gaf1804e22fb8a901f3a5f85535aa1ff7b" title="Erase All FLASH." alt="" coords="219,254,384,281"/>
+<area shape="rect" id="node10" href="$group__flash__file.html#ga6242ed6be7838125093c9b8b6adeeca1" title="Erase All Option Bytes." alt="" coords="229,305,373,347"/>
+<area shape="rect" id="node13" href="$group__flash__file.html#gab759a6e89a54cfb15a60c0e8f4eb66df" title="Program the Option Bytes." alt="" coords="220,371,383,412"/>
+<area shape="rect" id="node12" href="$group__flash__file.html#ga73937aa6df8710e95425b165730626a2" title="Program a 32 bit Word to FLASH." alt="" coords="5,437,160,463"/>
+</map>

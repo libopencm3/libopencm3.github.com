@@ -1,0 +1,8 @@
+<map id="i2c_set_speed" name="i2c_set_speed">
+<area shape="rect" id="node1" title="Set the i2c communication speed." alt="" coords="5,107,120,133"/>
+<area shape="rect" id="node2" href="$group__i2c__file.html#ga9533ae19176b42465a0770f278e7e44f" title=" " alt="" coords="172,5,348,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#ga541c765b0370db02aa722fd5fa62436f" title=" " alt="" coords="168,56,352,83"/>
+<area shape="rect" id="node4" href="$group__i2c__file.html#ga4fae312b2601ece973c3119a932040cd" title=" " alt="" coords="193,107,327,133"/>
+<area shape="rect" id="node5" href="$group__i2c__file.html#ga888962629650f4d07e7c4e7a69c978e2" title=" " alt="" coords="172,157,348,184"/>
+<area shape="rect" id="node6" href="$group__i2c__file.html#gac43847001b385bf85b67f82e29321872" title=" " alt="" coords="175,208,345,235"/>
+</map>

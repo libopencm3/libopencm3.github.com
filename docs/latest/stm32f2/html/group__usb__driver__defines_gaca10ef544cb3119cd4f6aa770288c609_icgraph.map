@@ -1,0 +1,4 @@
+<map id="usbd_register_set_config_callback" name="usbd_register_set_config_callback">
+<area shape="rect" id="node1" title="Registers a &quot;Set Config&quot; callback." alt="" coords="160,5,343,47"/>
+<area shape="rect" id="node2" href="$group__usb__msc.html#ga141a784ba90b8b49fe75512b467a7562" title="Initializes the USB Mass Storage subsystem." alt="" coords="5,13,112,39"/>
+</map>

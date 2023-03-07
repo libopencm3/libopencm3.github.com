@@ -1,0 +1,12 @@
+<map id="SWM050 Defines" name="SWM050 Defines">
+<area shape="rect" id="node1" title="Defined Constants and Types for the SWM050 series." alt="" coords="5,203,137,228"/>
+<area shape="rect" id="node2" href="$group__clk__defines.html" title="Defined Constants and Types for the SWM050 System Clock" alt="" coords="207,5,318,31"/>
+<area shape="rect" id="node3" href="$group__flash__defines.html" title="Defined Constants and Types for the SWM050 Flash API" alt="" coords="207,55,318,80"/>
+<area shape="rect" id="node4" href="$group__gpio__defines.html" title="Defined Constants and Types for the SWM050 General Purpose I/O" alt="" coords="209,104,316,129"/>
+<area shape="rect" id="node5" href="$group__mmap__defines.html" title="Defined Constants for the SWM050 Memory Map" alt="" coords="209,153,317,179"/>
+<area shape="rect" id="node6" href="$group__pwr__defines.html" title="Defined Constants and Types for the SWM050 Power/Sleep API" alt="" coords="185,203,340,228"/>
+<area shape="rect" id="node7" href="$group__syscon__defines.html" title="Defined Constants and Types for the SWM050 SYSCON peripheral" alt="" coords="199,252,327,277"/>
+<area shape="rect" id="node8" href="$group__sysctl__defines.html" title="Defined Constants and Types for the SWM050 SYSCTL Registers" alt="" coords="201,301,324,327"/>
+<area shape="rect" id="node9" href="$group__timer__defines.html" title="Defined Constants and Types for the SWM050 Timer" alt="" coords="206,351,319,376"/>
+<area shape="rect" id="node10" href="$group__wdt__defines.html" title="Defined Constants and Types for the SWM050 Watchdog" alt="" coords="193,400,332,425"/>
+</map>

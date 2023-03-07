@@ -1,0 +1,5 @@
+<map id="Cortex Core Defines" name="Cortex Core Defines">
+<area shape="rect" id="node1" href="$group__CM3__cortex__atomic__defines.html" title="Atomic operation support." alt="" coords="357,5,507,45"/>
+<area shape="rect" id="node2" title="libopencm3 Defined Constants and Types for the Cortex Core" alt="" coords="157,13,309,38"/>
+<area shape="rect" id="node3" href="$group__CM3__defines.html" title="Defined Constants and Types for Cortex M3 core features." alt="" coords="5,13,109,38"/>
+</map>

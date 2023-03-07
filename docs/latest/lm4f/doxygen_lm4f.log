@@ -1,0 +1,43 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/usb/midi.h:1: warning: group usb_audio_defines: ignoring title "USB MIDI Type Definitions" that does not match old title "USB Audio Type Definitions"
+
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/gpio.c:186: warning: Member gpio_enable_ahb_aperture found in multiple @defgroup groups! The member will be put in group gpio_config, and not in group gpio_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/gpio.c:441: warning: Member gpio_toggle found in multiple @defgroup groups! The member will be put in group gpio_control, and not in group gpio_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/gpio.c:527: warning: Member gpio_configure_trigger found in multiple @defgroup groups! The member will be put in group gpio_irq, and not in group gpio_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:93: warning: Member uart_enable found in multiple @defgroup groups! The member will be put in group uart_config, and not in group uart_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:275: warning: Member uart_send found in multiple @defgroup groups! The member will be put in group uart_send_recv, and not in group uart_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:430: warning: Member uart_enable_interrupts found in multiple @defgroup groups! The member will be put in group uart_irq, and not in group uart_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:527: warning: Member uart_enable_rx_dma found in multiple @defgroup groups! The member will be put in group uart_dma, and not in group uart_file
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:594: warning: Member uart_enable_fifo found in multiple @defgroup groups! The member will be put in group uart_fifo, and not in group uart_file
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/lm4f/gpio.h:322: warning: argument 'gpios' of command @param is not found in the argument list of gpio_port_write(uint32_t gpioport, uint8_t data)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:257: warning: argument 'div' of command @param is not found in the argument list of rcc_set_pll_divisor(uint8_t div400)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:257: warning: The following parameter of rcc_set_pll_divisor(uint8_t div400) is not documented:
+  parameter 'div400'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:421: warning: argument 'osc_src' of command @param is not found in the argument list of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:421: warning: The following parameter of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400) is not documented:
+  parameter 'src'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:421: warning: found documented return type for rcc_sysclk_config that does not return anything
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:325: warning: The following parameter of uart_send_blocking(uint32_t uart, uint16_t data) is not documented:
+  parameter 'data'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:172: warning: argument 'bits' of command @param is not found in the argument list of uart_set_parity(uint32_t uart, enum uart_parity parity)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:172: warning: The following parameter of uart_set_parity(uint32_t uart, enum uart_parity parity) is not documented:
+  parameter 'parity'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:157: warning: argument 'bits' of command @param is not found in the argument list of uart_set_stopbits(uint32_t uart, uint8_t stopbits)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:157: warning: The following parameter of uart_set_stopbits(uint32_t uart, uint8_t stopbits) is not documented:
+  parameter 'stopbits'
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/lm4f/gpio.h:322: warning: argument 'gpios' of command @param is not found in the argument list of gpio_port_write(uint32_t gpioport, uint8_t data)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/gpio.c:455: warning: unable to resolve reference to 'gpio_configure_int_trigger()' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:257: warning: argument 'div' of command @param is not found in the argument list of rcc_set_pll_divisor(uint8_t div400)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:257: warning: The following parameter of rcc_set_pll_divisor(uint8_t div400) is not documented:
+  parameter 'div400'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:421: warning: argument 'osc_src' of command @param is not found in the argument list of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:421: warning: The following parameter of rcc_sysclk_config(enum osc_src src, enum xtal_t xtal, uint8_t pll_div400) is not documented:
+  parameter 'src'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/rcc.c:421: warning: found documented return type for rcc_sysclk_config that does not return anything
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:172: warning: argument 'bits' of command @param is not found in the argument list of uart_set_parity(uint32_t uart, enum uart_parity parity)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:172: warning: The following parameter of uart_set_parity(uint32_t uart, enum uart_parity parity) is not documented:
+  parameter 'parity'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:157: warning: argument 'bits' of command @param is not found in the argument list of uart_set_stopbits(uint32_t uart, uint8_t stopbits)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:157: warning: The following parameter of uart_set_stopbits(uint32_t uart, uint8_t stopbits) is not documented:
+  parameter 'stopbits'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/lm4f/uart.c:325: warning: The following parameter of uart_send_blocking(uint32_t uart, uint16_t data) is not documented:
+  parameter 'data'

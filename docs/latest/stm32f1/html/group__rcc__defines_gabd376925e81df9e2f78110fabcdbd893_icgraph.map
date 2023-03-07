@@ -1,0 +1,5 @@
+<map id="rcc_enable_rtc_clock" name="rcc_enable_rtc_clock">
+<area shape="rect" id="node1" title="RCC Enable the RTC clock." alt="" coords="376,5,533,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#gaa4fec0b94caffb25d0acde8813a7ef5b" title="RTC Set Operational from the Off state." alt="" coords="177,5,328,32"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#ga7693c69c9ff726487720b12576a20968" title="RTC Configuration on Wakeup." alt="" coords="5,5,129,32"/>
+</map>

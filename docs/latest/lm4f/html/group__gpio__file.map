@@ -1,0 +1,7 @@
+<map id="GPIO" name="GPIO">
+<area shape="rect" id="node1" href="$group__LM4Fxx.html" title="Libraries for TI Stellaris LM4F series." alt="" coords="5,55,63,80"/>
+<area shape="rect" id="node4" title="libopencm3 LM4F General Purpose I/O" alt="" coords="111,55,165,80"/>
+<area shape="rect" id="node2" href="$group__gpio__config.html" title="Enabling and configuring GPIO pins" alt="" coords="213,5,380,31"/>
+<area shape="rect" id="node3" href="$group__gpio__control.html" title="Controlling GPIO pins" alt="" coords="233,55,360,80"/>
+<area shape="rect" id="node5" href="$group__gpio__irq.html" title="Configuring interrupts from GPIO pins" alt="" coords="215,104,378,129"/>
+</map>

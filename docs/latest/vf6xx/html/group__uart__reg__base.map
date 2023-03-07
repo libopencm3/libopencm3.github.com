@@ -1,0 +1,6 @@
+<map id="UART register base addresses" name="UART register base addresses">
+<area shape="rect" id="node1" href="$group__VF6xx__uart__defines.html" title="Defined Constants and Types for the VF6xx UART Module" alt="" coords="5,35,116,60"/>
+<area shape="rect" id="node3" title=" " alt="" coords="164,27,311,67"/>
+<area shape="rect" id="node2" href="$group__uart__parity.html" title=" " alt="" coords="361,5,524,31"/>
+<area shape="rect" id="node4" href="$group__usart__cr3__flowcontrol.html" title=" " alt="" coords="359,55,527,95"/>
+</map>

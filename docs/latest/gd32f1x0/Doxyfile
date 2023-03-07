@@ -1,0 +1,8 @@
+@INCLUDE				= ../Doxyfile_common
+INPUT					= ../../include/libopencm3/license.dox
+@INCLUDE				= doxy.sourcelist
+@INCLUDE	= doxy.custom
+WARN_LOGFILE			= doxygen_gd32f1x0.log
+LAYOUT_FILE				= DoxygenLayout_gd32f1x0.xml
+GENERATE_TAGFILE		= gd32f1x0.tag
+ENABLE_PREPROCESSING	= YES

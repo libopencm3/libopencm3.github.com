@@ -1,0 +1,10 @@
+<map id="Cortex&#45;M MPU Defines" name="Cortex&#45;M MPU Defines">
+<area shape="rect" id="node1" href="$group__CM3__defines.html" title="Defined Constants and Types for Cortex M3 core features." alt="" coords="5,129,109,155"/>
+<area shape="rect" id="node3" title="libopencm3 Cortex Memory Protection Unit" alt="" coords="157,129,327,155"/>
+<area shape="rect" id="node2" href="$group__CM3__mpu__ctrl.html" title="Defines for the Control Register." alt="" coords="376,5,559,31"/>
+<area shape="rect" id="node4" href="$group__CM3__mpu__rasr.html" title="Defines for the Region Attribute and Size Register." alt="" coords="375,55,559,80"/>
+<area shape="rect" id="node5" href="$group__CM3__mpu__rbar.html" title="Defines for the Region Base Address Register." alt="" coords="375,104,560,129"/>
+<area shape="rect" id="node6" href="$group__CM3__mpu__registers.html" title=" " alt="" coords="409,153,526,179"/>
+<area shape="rect" id="node7" href="$group__CM3__mpu__rnr.html" title="Defines for the Region Number Register." alt="" coords="379,203,556,228"/>
+<area shape="rect" id="node8" href="$group__CM3__mpu__type.html" title="The MPU_TYPE register is always available, even if the MPU is not implemented." alt="" coords="377,252,558,277"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pwr_set_mode" name="pwr_set_mode">
+<area shape="rect" id="node1" title="Set power system based on &quot;System Supply Configurations&quot; table in reference manual." alt="" coords="201,5,319,32"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga04d008adc6760dace915290ff884939f" title="Setup the base PLLs and clock domains for the STM32H7." alt="" coords="5,5,153,32"/>
+</map>

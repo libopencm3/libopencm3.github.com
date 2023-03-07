@@ -1,0 +1,11 @@
+<map id="cordic_sin_16bit_async" name="cordic_sin_16bit_async">
+<area shape="rect" id="node1" title="Compute 16 bit sine using CORDIC (non blocking)" alt="" coords="5,197,177,223"/>
+<area shape="rect" id="node2" href="$group__cordic__file.html#ga10548b368addeb6fea868f197c53c8d2" title="Configure cordic for 16 bit sine." alt="" coords="225,156,379,197"/>
+<area shape="rect" id="node9" href="$group__cordic__file.html#ga0daad4ba6e68e52bd0b8c7d9d168ceb7" title="Write two 16 bit arguments." alt="" coords="231,221,373,263"/>
+<area shape="rect" id="node3" href="$group__cordic__file.html#ga900de1e47a0fe56e0c7c6be9cde295d0" title="Set CORDIC to 16 bit argument data width." alt="" coords="435,5,593,47"/>
+<area shape="rect" id="node4" href="$group__cordic__file.html#ga93a3764d7f3519462cbc7d668241bde5" title="Set CORDIC operation type." alt="" coords="440,71,588,98"/>
+<area shape="rect" id="node5" href="$group__cordic__file.html#gad443074bc041cc09b72a41535a2969e2" title="Set number of CORDIC arguments to one 32 bit argument or two 16 bit arguments." alt="" coords="431,123,597,164"/>
+<area shape="rect" id="node6" href="$group__cordic__file.html#ga5339d07ba1a7f0376285b8eaeadaaffa" title="Set number of CORDIC results to one 32 bit result or two 16 bit results." alt="" coords="431,188,597,229"/>
+<area shape="rect" id="node7" href="$group__cordic__file.html#ga44a0db2ada98e529498708ed820051e3" title="Set precision for CORDIC operations." alt="" coords="437,254,591,281"/>
+<area shape="rect" id="node8" href="$group__cordic__file.html#ga1a4e8d832efc27c0059077a2060798cf" title="Set CORDIC to 16 bit result data width." alt="" coords="427,305,601,347"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GPIO Interrupt Mask" name="GPIO Interrupt Mask">
+<area shape="rect" id="node1" title=" " alt="" coords="249,5,403,31"/>
+<area shape="rect" id="node2" href="$group__gpio__registers.html" title=" " alt="" coords="451,5,569,31"/>
+<area shape="rect" id="node3" href="$group__gpio__trig__type.html" title=" " alt="" coords="5,5,201,31"/>
+</map>

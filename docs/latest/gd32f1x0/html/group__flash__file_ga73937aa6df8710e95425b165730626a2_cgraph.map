@@ -1,0 +1,6 @@
+<map id="flash_program_word" name="flash_program_word">
+<area shape="rect" id="node1" title="Program a 32 bit Word to FLASH." alt="" coords="5,13,160,39"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#gaf5077b5726c70fa9418db9d73182f89d" title="Program a Half Word to FLASH." alt="" coords="208,13,395,39"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended." alt="" coords="443,5,587,47"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga5afd52a33a55a6423d536eca1f04933b" title="Read All Status Flags." alt="" coords="635,13,801,39"/>
+</map>

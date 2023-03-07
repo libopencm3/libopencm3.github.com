@@ -1,0 +1,4 @@
+<map id="MPU RNR register fields" name="MPU RNR register fields">
+<area shape="rect" id="node1" href="$group__CM3__mpu__defines.html" title="libopencm3 Cortex Memory Protection Unit" alt="" coords="5,5,175,31"/>
+<area shape="rect" id="node2" title="Defines for the Region Number Register." alt="" coords="223,5,400,31"/>
+</map>

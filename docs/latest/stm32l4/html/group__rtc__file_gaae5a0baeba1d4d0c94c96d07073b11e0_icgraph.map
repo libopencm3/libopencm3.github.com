@@ -1,0 +1,4 @@
+<map id="rtc_calendar_set_year" name="rtc_calendar_set_year">
+<area shape="rect" id="node1" title="Sets the RTC BCD calendar year value." alt="" coords="219,5,384,32"/>
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga42b5d40e0ddf6628c39f96c3c7d10616" title="Sets the RTC BCD calendar value." alt="" coords="5,5,171,32"/>
+</map>

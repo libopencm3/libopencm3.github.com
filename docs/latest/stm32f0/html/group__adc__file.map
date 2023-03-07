@@ -1,0 +1,9 @@
+<map id="ADC peripheral API" name="ADC peripheral API">
+<area shape="rect" id="node1" href="$group__adc__api__config.html" title="ADC Basic configuration API." alt="" coords="377,5,580,31"/>
+<area shape="rect" id="node2" href="$group__adc__api__interrupts.html" title="ADC Interrupt configuration API." alt="" coords="367,55,591,80"/>
+<area shape="rect" id="node3" href="$group__adc__api__opmode.html" title="ADC Result API." alt="" coords="396,104,561,129"/>
+<area shape="rect" id="node4" href="$group__adc__api__trigger.html" title="ADC Trigger API." alt="" coords="417,153,540,179"/>
+<area shape="rect" id="node5" href="$group__adc__api__wdg.html" title="ADC analog watchdog API definitions." alt="" coords="383,203,574,228"/>
+<area shape="rect" id="node6" title="based on F3 file" alt="" coords="173,104,319,129"/>
+<area shape="rect" id="node7" href="$group__peripheral__apis.html" title="APIs for device peripherals." alt="" coords="5,104,125,129"/>
+</map>

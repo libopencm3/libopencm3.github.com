@@ -1,0 +1,27 @@
+<map id="ccs_configure_clocks" name="ccs_configure_clocks">
+<area shape="rect" id="node1" title="Setup the PAC55xx clocks with the given struct." alt="" coords="5,467,164,493"/>
+<area shape="rect" id="node2" href="$group__ccs__api.html#ga7a339ecae6f5ab0671d8bdf047e0bc53" title="Enable the Auxiliary Clock." alt="" coords="246,5,374,32"/>
+<area shape="rect" id="node3" href="$group__ccs__api.html#gaf9b9084d169d02290457b834b8d6da7f" title="Enable the ADC Clock." alt="" coords="239,56,381,83"/>
+<area shape="rect" id="node4" href="$group__ccs__api.html#ga8d253cd394cb3520b4662c638817bcf3" title="Select the source for FRCLK." alt="" coords="233,107,387,133"/>
+<area shape="rect" id="node5" href="$group__ccs__api.html#gadc103e711784a2cb050b6acd34f7b94c" title="Enable the Peripheral Clock." alt="" coords="246,157,374,184"/>
+<area shape="rect" id="node6" href="$group__ccs__api.html#ga69fee162f594763b94b41c49532a5254" title="Restores CCSCTL and CCSPLLCTL registers to default/safe values." alt="" coords="245,208,375,235"/>
+<area shape="rect" id="node7" href="$group__ccs__api.html#gaff9391ec3c0dcfc35d3dd3db1a56b602" title="Select FRCLK for SCLK." alt="" coords="235,259,385,301"/>
+<area shape="rect" id="node8" href="$group__ccs__api.html#gaf34d6fb1e1e77c2fd209dd003808bf8d" title="Select PLLCLK for SCLK." alt="" coords="235,325,385,366"/>
+<area shape="rect" id="node9" href="$group__ccs__api.html#gaa828dfff3b001cc9d833676c93ffd4ff" title="Set the divisor for the Auxiliary Clock." alt="" coords="248,391,372,417"/>
+<area shape="rect" id="node10" href="$group__ccs__api.html#ga9933f86aa3a45d0fe5a7be96b380a1b1" title="Set the divisor for the AHB Clock." alt="" coords="248,441,372,468"/>
+<area shape="rect" id="node11" href="$group__ccs__api.html#ga38f5a54c94ea7cb5db0232cab50b2445" title="Set the divisor for the Peripheral Clock." alt="" coords="248,492,372,519"/>
+<area shape="rect" id="node12" href="$group__ccs__api.html#ga318db588de80ee930b8a077b2df39363" title="Disable SysTick clock gating in deep sleep mode." alt="" coords="221,543,399,569"/>
+<area shape="rect" id="node13" href="$group__ccs__api.html#gab6fa14c6ba06f1543868561005ea4ba8" title="Configure the CCS PLL, enable it, and wait for lock." alt="" coords="229,593,391,620"/>
+<area shape="rect" id="node20" href="$memctl_8c.html#ae0ae2285c238d8089c2b5485b742d374" title="Disable Flash cache." alt="" coords="233,645,387,686"/>
+<area shape="rect" id="node21" href="$memctl_8c.html#a71479c5afe2e3f9e907c3d0375336763" title="Enable Flash cache." alt="" coords="233,710,387,751"/>
+<area shape="rect" id="node22" href="$memctl_8c.html#a1535bbf5f14c68f02c73790b55c81f23" title="Select MCLK as input to Flash Memory Controller." alt="" coords="213,776,407,803"/>
+<area shape="rect" id="node23" href="$memctl_8c.html#a40410e986c30551059e3bbf3fc81efe3" title="Select ROSCCLK as input to Flash Memory Controller." alt="" coords="232,827,388,869"/>
+<area shape="rect" id="node24" href="$memctl_8c.html#ad0a14be9cbb392f06c9d9e3a77698624" title="Set the MCLK divisor." alt="" coords="212,893,408,920"/>
+<area shape="rect" id="node25" href="$memctl_8c.html#ac7633eb7fd2017f28a76f991f9959816" title="Set the number of wait states for Flash reads." alt="" coords="216,944,404,971"/>
+<area shape="rect" id="node14" href="$group__ccs__api.html#gae9d12fc18a474e28988153bd26698770" title="Disable the PLL." alt="" coords="467,467,587,493"/>
+<area shape="rect" id="node15" href="$group__ccs__api.html#ga905a0492830ce71172eacfcd446f0497" title="Enable the PLL." alt="" coords="468,517,585,544"/>
+<area shape="rect" id="node16" href="$group__ccs__api.html#ga3da59323ebacc66f0663ecf64f90aa90" title="Check if the PLL is locked." alt="" coords="469,568,584,595"/>
+<area shape="rect" id="node17" href="$group__ccs__api.html#ga6bddd9cf16fd60c56b8f983f5c1f16ef" title="Set the PLL feedback divisor." alt="" coords="460,619,593,645"/>
+<area shape="rect" id="node18" href="$group__ccs__api.html#ga521eb08f3b9df52b5f5e3ef22aa35908" title="Set the PLL input divisor." alt="" coords="461,669,593,696"/>
+<area shape="rect" id="node19" href="$group__ccs__api.html#gaa2c1e0e1c66b8a6fcf792e115a37b2e7" title="Set the output divisor." alt="" coords="456,720,597,747"/>
+</map>

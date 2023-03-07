@@ -1,0 +1,7 @@
+<map id="fdcan_length_to_dlc" name="fdcan_length_to_dlc">
+<area shape="rect" id="node1" title="Converts frame length to DLC value." alt="" coords="395,56,547,83"/>
+<area shape="rect" id="node2" href="$group__fdcan__file.html#ga02e16aa4f82067b119e6c1262ffae476" title="Initialize size of data fields in reception buffers." alt="" coords="148,5,347,32"/>
+<area shape="rect" id="node4" href="$group__fdcan__file.html#ga9d9b1dd105ee715c09d001534577f188" title="Initialize size of data fields in transmit buffers." alt="" coords="148,56,347,83"/>
+<area shape="rect" id="node5" href="$group__fdcan__file.html#gae1d9e017700d67ce1438f5a1b48be86c" title="Transmit Message using FDCAN." alt="" coords="187,107,307,133"/>
+<area shape="rect" id="node3" href="$group__fdcan__file.html#ga24ca46499dbb8dc4b116b390bfe75fd1" title="Enable FDCAN operation after FDCAN block has been set up." alt="" coords="5,31,100,57"/>
+</map>

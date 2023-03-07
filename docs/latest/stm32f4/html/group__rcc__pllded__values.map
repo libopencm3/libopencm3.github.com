@@ -1,0 +1,6 @@
+<map id="RCC_PLLxxx/DCKy values" name="RCC_PLLxxx/DCKy values">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control" alt="" coords="11,5,114,31"/>
+<area shape="rect" id="node2" title="PLL and other dedicated clock register values." alt="" coords="168,31,356,56"/>
+<area shape="rect" id="node3" href="$group__rcc__pllsaicfgr__pllsaip.html" title=" " alt="" coords="404,23,563,63"/>
+<area shape="rect" id="node4" href="$group__rcc__registers.html" title="Reset / Clock Control Registers." alt="" coords="5,55,120,80"/>
+</map>

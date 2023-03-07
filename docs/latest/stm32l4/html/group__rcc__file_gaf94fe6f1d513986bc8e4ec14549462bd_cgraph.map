@@ -1,0 +1,4 @@
+<map id="rcc_uart_i2c_clksel_freq_hz" name="rcc_uart_i2c_clksel_freq_hz">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node2" href="$group__rcc__file.html#gafbb1afb9546f939744d71f4bd6f537bf" title="This will return the divisor 1/2/4/8/16/64/128/256/512 which is set as a 4&#45;bit value,..." alt="" coords="199,13,369,39"/>
+</map>

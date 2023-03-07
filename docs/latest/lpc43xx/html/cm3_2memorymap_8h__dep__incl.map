@@ -1,0 +1,11 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node1" title=" " alt="" coords="147,5,266,32"/>
+<area shape="rect" id="node2" href="$dwt_8h.html" title=" " alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node3" href="$mpu_8h.html" title=" " alt="" coords="89,80,151,107"/>
+<area shape="rect" id="node4" href="$cm3_2nvic_8h.html" title=" " alt="" coords="176,80,237,107"/>
+<area shape="rect" id="node8" href="$scb_8h.html" title=" " alt="" coords="261,80,317,107"/>
+<area shape="rect" id="node9" href="$systick_8h.html" title=" " alt="" coords="341,80,421,107"/>
+<area shape="rect" id="node5" href="$lpc43xx_2m0_2nvic_8h.html" title=" " alt="" coords="91,155,152,181"/>
+<area shape="rect" id="node6" href="$lpc43xx_2m4_2nvic_8h.html" title=" " alt="" coords="176,155,237,181"/>
+<area shape="rect" id="node7" href="$vector_8h.html" title="Definitions for handling vector tables." alt="" coords="261,155,336,181"/>
+</map>

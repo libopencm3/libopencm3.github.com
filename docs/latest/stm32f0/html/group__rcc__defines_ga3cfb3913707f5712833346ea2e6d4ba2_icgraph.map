@@ -1,0 +1,4 @@
+<map id="rcc_get_usart_clk_freq" name="rcc_get_usart_clk_freq">
+<area shape="rect" id="node1" title="Get the peripheral clock speed for the USART at base specified." alt="" coords="200,5,368,32"/>
+<area shape="rect" id="node2" href="$group__usart__file.html#ga848295ffaf99550cf92d77dbcf15d416" title="USART Set Baudrate." alt="" coords="5,5,152,32"/>
+</map>

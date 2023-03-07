@@ -1,0 +1,19 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__GD32F1x0__defines.html" title="Defined Constants and Types for the GD32F1x0xx series." alt="" coords="5,425,164,451"/>
+<area shape="rect" id="node17" title="Defined Constants and Types for the GD32F1x0 Reset and Clock Control" alt="" coords="212,425,315,451"/>
+<area shape="rect" id="node2" href="$group__rcc__ahbenr__en.html" title=" " alt="" coords="363,5,569,31"/>
+<area shape="rect" id="node3" href="$group__rcc__ahbrstr__rst.html" title=" " alt="" coords="365,55,567,95"/>
+<area shape="rect" id="node4" href="$group__rcc__apb1enr__en.html" title=" " alt="" coords="383,119,549,159"/>
+<area shape="rect" id="node5" href="$group__rcc__apb1rstr__rst.html" title=" " alt="" coords="385,183,547,223"/>
+<area shape="rect" id="node6" href="$group__rcc__apb2enr__en.html" title=" " alt="" coords="383,247,549,287"/>
+<area shape="rect" id="node7" href="$group__rcc__apb2rstr__rst.html" title=" " alt="" coords="385,311,547,351"/>
+<area shape="rect" id="node8" href="$group__rcc__cfgr__adcpre.html" title=" " alt="" coords="379,376,553,401"/>
+<area shape="rect" id="node9" href="$group__rcc__cfgr__ahbpre.html" title=" " alt="" coords="387,425,545,451"/>
+<area shape="rect" id="node10" href="$group__rcc__cfgr__apbxpre.html" title="These can be used for both APB1 and APB2 prescaling." alt="" coords="371,475,561,515"/>
+<area shape="rect" id="node11" href="$group__rcc__cfgr__deprecated.html" title="Older compatible definitions to ease migration." alt="" coords="381,539,551,579"/>
+<area shape="rect" id="node12" href="$group__rcc__cfgr__hsepre.html" title=" " alt="" coords="381,603,551,643"/>
+<area shape="rect" id="node13" href="$group__rcc__cfgr__pcs.html" title=" " alt="" coords="378,667,554,707"/>
+<area shape="rect" id="node14" href="$group__rcc__cfgr__pmf.html" title=" " alt="" coords="367,731,565,771"/>
+<area shape="rect" id="node15" href="$group__rcc__cfgr__scs.html" title=" " alt="" coords="375,796,557,821"/>
+<area shape="rect" id="node16" href="$group__rcc__cfgr__usbpre.html" title=" " alt="" coords="379,846,553,886"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SYSCFG Registers" name="SYSCFG Registers">
+<area shape="rect" id="node1" href="$group__syscfg__defines.html" title="Defined Constants and Types for the STM32H7xx System Configuration controller" alt="" coords="5,13,132,38"/>
+<area shape="rect" id="node3" title="￼" alt="" coords="180,13,319,38"/>
+<area shape="rect" id="node2" href="$group__syscfg__pwrcr.html" title=" " alt="" coords="367,5,581,45"/>
+</map>

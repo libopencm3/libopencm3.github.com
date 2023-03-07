@@ -1,0 +1,7 @@
+<map id="fdcan_init_filter" name="fdcan_init_filter">
+<area shape="rect" id="node1" title="Configure amount of filters and initialize filtering block." alt="" coords="5,81,128,108"/>
+<area shape="rect" id="node2" href="$fdcan__common_8c.html#aeb4079993bdf00bf8a0cdc111532e743" title="Returns extended filter start address in message RAM." alt="" coords="188,5,348,32"/>
+<area shape="rect" id="node3" href="$fdcan__common_8c.html#a2381d5d2666bf4f84e7e08e19b51b4ca" title="Returns standard filter start address in message RAM." alt="" coords="189,56,347,83"/>
+<area shape="rect" id="node4" href="$group__fdcan__file.html#gaa1a343c660e01e6582cd585db31bf04d" title="Initialize allocation of extended filter block in CAN message RAM." alt="" coords="176,107,360,133"/>
+<area shape="rect" id="node5" href="$group__fdcan__file.html#ga77b9ccd57eb2d38cc7ec23706c093d0c" title="Initialize allocation of standard filter block in CAN message RAM." alt="" coords="177,157,359,184"/>
+</map>

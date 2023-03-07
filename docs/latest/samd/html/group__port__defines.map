@@ -1,0 +1,11 @@
+<map id="IO Port Definitions" name="IO Port Definitions">
+<area shape="rect" id="node1" href="$group__SAMD__defines.html" title="Defined Constants and Types for the SAMD series." alt="" coords="5,153,120,179"/>
+<area shape="rect" id="node6" title="Defined Constants and Types for the SAMD Port controller." alt="" coords="168,153,308,179"/>
+<area shape="rect" id="node2" href="$group__gpio__cnf.html" title=" " alt="" coords="356,5,540,31"/>
+<area shape="rect" id="node3" href="$group__gpio__direction.html" title=" " alt="" coords="379,55,517,80"/>
+<area shape="rect" id="node4" href="$group__gpio__mux.html" title=" " alt="" coords="360,104,536,129"/>
+<area shape="rect" id="node5" href="$group__gpio__pin__id.html" title=" " alt="" coords="375,153,521,179"/>
+<area shape="rect" id="node7" href="$group__port__reg__base.html" title=" " alt="" coords="375,203,521,228"/>
+<area shape="rect" id="node8" href="$group__port__registers.html" title=" " alt="" coords="387,252,509,277"/>
+<area shape="rect" id="node9" href="$group__port__wrconfig__values.html" title=" " alt="" coords="357,301,539,327"/>
+</map>

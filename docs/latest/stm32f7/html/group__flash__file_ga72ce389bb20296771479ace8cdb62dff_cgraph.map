@@ -1,0 +1,4 @@
+<map id="flash_wait_for_last_operation" name="flash_wait_for_last_operation">
+<area shape="rect" id="node1" title="Wait until Last Operation has Ended." alt="" coords="5,5,149,47"/>
+<area shape="rect" id="node2" href="$group__flash__file.html#ga4d5b1d19072f5ce2b3582170fe476936" title="Issue Pipeline Stall." alt="" coords="197,13,344,39"/>
+</map>

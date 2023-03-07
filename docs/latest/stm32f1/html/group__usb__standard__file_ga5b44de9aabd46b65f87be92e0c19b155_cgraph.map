@@ -1,0 +1,4 @@
+<map id="usb_standard_endpoint_get_status" name="usb_standard_endpoint_get_status">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$group__usb__drivers__file.html#ga396b34ccbe5bf6718417ef3ee0c3b788" title="Get STALL status of an endpoint." alt="" coords="227,13,365,39"/>
+</map>
